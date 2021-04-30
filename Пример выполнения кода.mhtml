@@ -1,0 +1,2122 @@
+From: <Saved by Blink>
+Snapshot-Content-Location: http://localhost/practice_28/%E2%84%962/
+Subject: 
+Date: Fri, 30 Apr 2021 21:10:56 -0000
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="text/html";
+	boundary="----MultipartBoundary--Dj6lkfPR1JvBOSOFsHijyUvVKhS48Rf6Zik4zbzm0h----"
+
+
+------MultipartBoundary--Dj6lkfPR1JvBOSOFsHijyUvVKhS48Rf6Zik4zbzm0h----
+Content-Type: text/html
+Content-ID: <frame-F6ED13B042FB0CC25A513DE5824356E1@mhtml.blink>
+Content-Transfer-Encoding: quoted-printable
+Content-Location: http://localhost/practice_28/%E2%84%962/
+
+<html style=3D"height: 100%;"><head><meta http-equiv=3D"Content-Type" conte=
+nt=3D"text/html; charset=3DUTF-8"><link rel=3D"stylesheet" type=3D"text/css=
+" href=3D"cid:css-5ed0f3e3-bfed-4a65-9c72-9b83f7f97763@mhtml.blink" /><link=
+ type=3D"text/css" rel=3D"stylesheet" charset=3D"UTF-8" href=3D"https://tra=
+nslate.googleapis.com/translate_static/css/translateelement.css"></head><bo=
+dy style=3D"position: relative; min-height: 100%; top: 0px;"><div class=3D"=
+skiptranslate" style=3D"display: none;"><iframe id=3D":0.container" class=
+=3D"goog-te-banner-frame skiptranslate" frameborder=3D"0" style=3D"visibili=
+ty:visible"></iframe></div><h3>=D0=A1=D0=BF=D0=B8=D1=81=D0=BE=D0=BA =D1=82=
+=D0=BE=D0=B2=D0=B0=D1=80=D0=BE=D0=B2</h3><table><tbody><tr><td>id</td><td>n=
+ame</td><td>price</td><td>discount</td><td>price_with_discount</td></tr><tr=
+><td>10</td><td>=D0=AF=D0=B1=D0=BB=D0=BE=D0=BA=D0=BE</td><td>50</td><td>10<=
+/td><td>45</td></tr><tr><td>20</td><td>=D0=90=D0=BF=D0=B5=D0=BB=D1=8C=D1=81=
+=D0=B8=D0=BD</td><td>80</td><td>15</td><td>68</td></tr><tr><td>30</td><td>=
+=D0=92=D0=B8=D0=BD=D0=BE=D0=B3=D1=80=D0=B0=D0=B4</td><td>120</td><td>33</td=
+><td>80.4</td></tr><tr><td>40</td><td>=D0=91=D0=B0=D0=BD=D0=B0=D0=BD</td><t=
+d>65</td><td>0</td><td>65</td></tr><tr><td>50</td><td>=D0=93=D1=80=D1=83=D1=
+=88=D0=B0</td><td>90</td><td>0</td><td>90</td></tr><tr><td>60</td><td>=D0=
+=90=D1=80=D0=B1=D1=83=D0=B7</td><td>100</td><td>0</td><td>100</td></tr></tb=
+ody></table><h3>=D0=A1=D0=BE=D0=B4=D0=B5=D1=80=D0=B6=D0=B8=D0=BC=D0=BE=D0=
+=B5 =D0=BA=D0=BE=D1=80=D0=B7=D0=B8=D0=BD=D1=8B</h3><h5>=D0=94=D0=BE=D0=B1=
+=D0=B0=D0=B2=D0=B8=D0=BC =D1=82=D0=BE=D0=B2=D0=B0=D1=80</h5><pre class=3D"x=
+debug-var-dump" dir=3D"ltr"><small>C:\Ira\xampp\htdocs\practice_28\=E2=84=
+=962\index.php:40:</small>
+<b>array</b> <i>(size=3D1)</i>
+  0 <font color=3D"#888a85">=3D&gt;</font>=20
+    <b>object</b>(<i>Product</i>)[<i>12</i>]
+      <i>private</i> 'currentOrder' <font color=3D"#888a85">=3D&gt;</font> =
+<font color=3D"#3465a4">null</font>
+      <i>public</i> 'id' <font color=3D"#888a85">=3D&gt;</font> <small>stri=
+ng</small> <font color=3D"#cc0000">'30'</font> <i>(length=3D2)</i>
+      <i>public</i> 'name' <font color=3D"#888a85">=3D&gt;</font> <small>st=
+ring</small> <font color=3D"#cc0000">'=D0=92=D0=B8=D0=BD=D0=BE=D0=B3=D1=80=
+=D0=B0=D0=B4'</font> <i>(length=3D16)</i>
+      <i>public</i> 'price' <font color=3D"#888a85">=3D&gt;</font> <small>i=
+nt</small> <font color=3D"#4e9a06">120</font>
+      <i>public</i> 'discount' <font color=3D"#888a85">=3D&gt;</font> <smal=
+l>int</small> <font color=3D"#4e9a06">33</font>
+</pre><h5>=D0=94=D0=BE=D0=B1=D0=B0=D0=B2=D0=B8=D0=BC 2 =D1=82=D0=BE=D0=B2=
+=D0=B0=D1=80=D0=B0</h5><pre class=3D"xdebug-var-dump" dir=3D"ltr"><small>C:=
+\Ira\xampp\htdocs\practice_28\=E2=84=962\index.php:44:</small>
+<b>array</b> <i>(size=3D3)</i>
+  0 <font color=3D"#888a85">=3D&gt;</font>=20
+    <b>object</b>(<i>Product</i>)[<i>12</i>]
+      <i>private</i> 'currentOrder' <font color=3D"#888a85">=3D&gt;</font> =
+<font color=3D"#3465a4">null</font>
+      <i>public</i> 'id' <font color=3D"#888a85">=3D&gt;</font> <small>stri=
+ng</small> <font color=3D"#cc0000">'30'</font> <i>(length=3D2)</i>
+      <i>public</i> 'name' <font color=3D"#888a85">=3D&gt;</font> <small>st=
+ring</small> <font color=3D"#cc0000">'=D0=92=D0=B8=D0=BD=D0=BE=D0=B3=D1=80=
+=D0=B0=D0=B4'</font> <i>(length=3D16)</i>
+      <i>public</i> 'price' <font color=3D"#888a85">=3D&gt;</font> <small>i=
+nt</small> <font color=3D"#4e9a06">120</font>
+      <i>public</i> 'discount' <font color=3D"#888a85">=3D&gt;</font> <smal=
+l>int</small> <font color=3D"#4e9a06">33</font>
+  1 <font color=3D"#888a85">=3D&gt;</font>=20
+    <b>object</b>(<i>Product</i>)[<i>10</i>]
+      <i>private</i> 'currentOrder' <font color=3D"#888a85">=3D&gt;</font> =
+<font color=3D"#3465a4">null</font>
+      <i>public</i> 'id' <font color=3D"#888a85">=3D&gt;</font> <small>stri=
+ng</small> <font color=3D"#cc0000">'10'</font> <i>(length=3D2)</i>
+      <i>public</i> 'name' <font color=3D"#888a85">=3D&gt;</font> <small>st=
+ring</small> <font color=3D"#cc0000">'=D0=AF=D0=B1=D0=BB=D0=BE=D0=BA=D0=BE'=
+</font> <i>(length=3D12)</i>
+      <i>public</i> 'price' <font color=3D"#888a85">=3D&gt;</font> <small>i=
+nt</small> <font color=3D"#4e9a06">50</font>
+      <i>public</i> 'discount' <font color=3D"#888a85">=3D&gt;</font> <smal=
+l>int</small> <font color=3D"#4e9a06">10</font>
+  2 <font color=3D"#888a85">=3D&gt;</font>=20
+    <b>object</b>(<i>Product</i>)[<i>10</i>]
+      <i>private</i> 'currentOrder' <font color=3D"#888a85">=3D&gt;</font> =
+<font color=3D"#3465a4">null</font>
+      <i>public</i> 'id' <font color=3D"#888a85">=3D&gt;</font> <small>stri=
+ng</small> <font color=3D"#cc0000">'10'</font> <i>(length=3D2)</i>
+      <i>public</i> 'name' <font color=3D"#888a85">=3D&gt;</font> <small>st=
+ring</small> <font color=3D"#cc0000">'=D0=AF=D0=B1=D0=BB=D0=BE=D0=BA=D0=BE'=
+</font> <i>(length=3D12)</i>
+      <i>public</i> 'price' <font color=3D"#888a85">=3D&gt;</font> <small>i=
+nt</small> <font color=3D"#4e9a06">50</font>
+      <i>public</i> 'discount' <font color=3D"#888a85">=3D&gt;</font> <smal=
+l>int</small> <font color=3D"#4e9a06">10</font>
+</pre><h5>=D0=94=D0=BE=D0=B1=D0=B0=D0=B2=D0=B8=D0=BC =D1=82=D0=BE=D0=B2=D0=
+=B0=D1=80</h5><pre class=3D"xdebug-var-dump" dir=3D"ltr"><small>C:\Ira\xamp=
+p\htdocs\practice_28\=E2=84=962\index.php:47:</small>
+<b>array</b> <i>(size=3D4)</i>
+  0 <font color=3D"#888a85">=3D&gt;</font>=20
+    <b>object</b>(<i>Product</i>)[<i>12</i>]
+      <i>private</i> 'currentOrder' <font color=3D"#888a85">=3D&gt;</font> =
+<font color=3D"#3465a4">null</font>
+      <i>public</i> 'id' <font color=3D"#888a85">=3D&gt;</font> <small>stri=
+ng</small> <font color=3D"#cc0000">'30'</font> <i>(length=3D2)</i>
+      <i>public</i> 'name' <font color=3D"#888a85">=3D&gt;</font> <small>st=
+ring</small> <font color=3D"#cc0000">'=D0=92=D0=B8=D0=BD=D0=BE=D0=B3=D1=80=
+=D0=B0=D0=B4'</font> <i>(length=3D16)</i>
+      <i>public</i> 'price' <font color=3D"#888a85">=3D&gt;</font> <small>i=
+nt</small> <font color=3D"#4e9a06">120</font>
+      <i>public</i> 'discount' <font color=3D"#888a85">=3D&gt;</font> <smal=
+l>int</small> <font color=3D"#4e9a06">33</font>
+  1 <font color=3D"#888a85">=3D&gt;</font>=20
+    <b>object</b>(<i>Product</i>)[<i>10</i>]
+      <i>private</i> 'currentOrder' <font color=3D"#888a85">=3D&gt;</font> =
+<font color=3D"#3465a4">null</font>
+      <i>public</i> 'id' <font color=3D"#888a85">=3D&gt;</font> <small>stri=
+ng</small> <font color=3D"#cc0000">'10'</font> <i>(length=3D2)</i>
+      <i>public</i> 'name' <font color=3D"#888a85">=3D&gt;</font> <small>st=
+ring</small> <font color=3D"#cc0000">'=D0=AF=D0=B1=D0=BB=D0=BE=D0=BA=D0=BE'=
+</font> <i>(length=3D12)</i>
+      <i>public</i> 'price' <font color=3D"#888a85">=3D&gt;</font> <small>i=
+nt</small> <font color=3D"#4e9a06">50</font>
+      <i>public</i> 'discount' <font color=3D"#888a85">=3D&gt;</font> <smal=
+l>int</small> <font color=3D"#4e9a06">10</font>
+  2 <font color=3D"#888a85">=3D&gt;</font>=20
+    <b>object</b>(<i>Product</i>)[<i>10</i>]
+      <i>private</i> 'currentOrder' <font color=3D"#888a85">=3D&gt;</font> =
+<font color=3D"#3465a4">null</font>
+      <i>public</i> 'id' <font color=3D"#888a85">=3D&gt;</font> <small>stri=
+ng</small> <font color=3D"#cc0000">'10'</font> <i>(length=3D2)</i>
+      <i>public</i> 'name' <font color=3D"#888a85">=3D&gt;</font> <small>st=
+ring</small> <font color=3D"#cc0000">'=D0=AF=D0=B1=D0=BB=D0=BE=D0=BA=D0=BE'=
+</font> <i>(length=3D12)</i>
+      <i>public</i> 'price' <font color=3D"#888a85">=3D&gt;</font> <small>i=
+nt</small> <font color=3D"#4e9a06">50</font>
+      <i>public</i> 'discount' <font color=3D"#888a85">=3D&gt;</font> <smal=
+l>int</small> <font color=3D"#4e9a06">10</font>
+  3 <font color=3D"#888a85">=3D&gt;</font>=20
+    <b>object</b>(<i>Product</i>)[<i>11</i>]
+      <i>private</i> 'currentOrder' <font color=3D"#888a85">=3D&gt;</font> =
+<font color=3D"#3465a4">null</font>
+      <i>public</i> 'id' <font color=3D"#888a85">=3D&gt;</font> <small>stri=
+ng</small> <font color=3D"#cc0000">'20'</font> <i>(length=3D2)</i>
+      <i>public</i> 'name' <font color=3D"#888a85">=3D&gt;</font> <small>st=
+ring</small> <font color=3D"#cc0000">'=D0=90=D0=BF=D0=B5=D0=BB=D1=8C=D1=81=
+=D0=B8=D0=BD'</font> <i>(length=3D16)</i>
+      <i>public</i> 'price' <font color=3D"#888a85">=3D&gt;</font> <small>i=
+nt</small> <font color=3D"#4e9a06">80</font>
+      <i>public</i> 'discount' <font color=3D"#888a85">=3D&gt;</font> <smal=
+l>int</small> <font color=3D"#4e9a06">15</font>
+</pre><h5>=D0=A3=D0=B4=D0=B0=D0=BB=D0=B8=D0=BC =D1=82=D0=BE=D0=B2=D0=B0=D1=
+=80</h5><pre class=3D"xdebug-var-dump" dir=3D"ltr"><small>C:\Ira\xampp\htdo=
+cs\practice_28\=E2=84=962\index.php:50:</small>
+<b>array</b> <i>(size=3D3)</i>
+  0 <font color=3D"#888a85">=3D&gt;</font>=20
+    <b>object</b>(<i>Product</i>)[<i>12</i>]
+      <i>private</i> 'currentOrder' <font color=3D"#888a85">=3D&gt;</font> =
+<font color=3D"#3465a4">null</font>
+      <i>public</i> 'id' <font color=3D"#888a85">=3D&gt;</font> <small>stri=
+ng</small> <font color=3D"#cc0000">'30'</font> <i>(length=3D2)</i>
+      <i>public</i> 'name' <font color=3D"#888a85">=3D&gt;</font> <small>st=
+ring</small> <font color=3D"#cc0000">'=D0=92=D0=B8=D0=BD=D0=BE=D0=B3=D1=80=
+=D0=B0=D0=B4'</font> <i>(length=3D16)</i>
+      <i>public</i> 'price' <font color=3D"#888a85">=3D&gt;</font> <small>i=
+nt</small> <font color=3D"#4e9a06">120</font>
+      <i>public</i> 'discount' <font color=3D"#888a85">=3D&gt;</font> <smal=
+l>int</small> <font color=3D"#4e9a06">33</font>
+  2 <font color=3D"#888a85">=3D&gt;</font>=20
+    <b>object</b>(<i>Product</i>)[<i>10</i>]
+      <i>private</i> 'currentOrder' <font color=3D"#888a85">=3D&gt;</font> =
+<font color=3D"#3465a4">null</font>
+      <i>public</i> 'id' <font color=3D"#888a85">=3D&gt;</font> <small>stri=
+ng</small> <font color=3D"#cc0000">'10'</font> <i>(length=3D2)</i>
+      <i>public</i> 'name' <font color=3D"#888a85">=3D&gt;</font> <small>st=
+ring</small> <font color=3D"#cc0000">'=D0=AF=D0=B1=D0=BB=D0=BE=D0=BA=D0=BE'=
+</font> <i>(length=3D12)</i>
+      <i>public</i> 'price' <font color=3D"#888a85">=3D&gt;</font> <small>i=
+nt</small> <font color=3D"#4e9a06">50</font>
+      <i>public</i> 'discount' <font color=3D"#888a85">=3D&gt;</font> <smal=
+l>int</small> <font color=3D"#4e9a06">10</font>
+  3 <font color=3D"#888a85">=3D&gt;</font>=20
+    <b>object</b>(<i>Product</i>)[<i>11</i>]
+      <i>private</i> 'currentOrder' <font color=3D"#888a85">=3D&gt;</font> =
+<font color=3D"#3465a4">null</font>
+      <i>public</i> 'id' <font color=3D"#888a85">=3D&gt;</font> <small>stri=
+ng</small> <font color=3D"#cc0000">'20'</font> <i>(length=3D2)</i>
+      <i>public</i> 'name' <font color=3D"#888a85">=3D&gt;</font> <small>st=
+ring</small> <font color=3D"#cc0000">'=D0=90=D0=BF=D0=B5=D0=BB=D1=8C=D1=81=
+=D0=B8=D0=BD'</font> <i>(length=3D16)</i>
+      <i>public</i> 'price' <font color=3D"#888a85">=3D&gt;</font> <small>i=
+nt</small> <font color=3D"#4e9a06">80</font>
+      <i>public</i> 'discount' <font color=3D"#888a85">=3D&gt;</font> <smal=
+l>int</small> <font color=3D"#4e9a06">15</font>
+</pre><h3>=D0=A1=D0=BE=D0=B4=D0=B5=D1=80=D0=B6=D0=B8=D0=BC=D0=BE=D0=B5 =D0=
+=B7=D0=B0=D0=BA=D0=B0=D0=B7=D0=B0</h3><table><tbody><tr><td>id</td><td>name=
+</td><td>price</td><td>discount</td><td>price_with_discount</td></tr><tr><t=
+d>30</td><td>=D0=92=D0=B8=D0=BD=D0=BE=D0=B3=D1=80=D0=B0=D0=B4</td><td>120</=
+td><td>33</td><td>80.4</td></tr><tr><td>10</td><td>=D0=AF=D0=B1=D0=BB=D0=BE=
+=D0=BA=D0=BE</td><td>50</td><td>10</td><td>45</td></tr><tr><td>20</td><td>=
+=D0=90=D0=BF=D0=B5=D0=BB=D1=8C=D1=81=D0=B8=D0=BD</td><td>80</td><td>15</td>=
+<td>68</td></tr><tr><td></td><td><b>=D0=98=D1=82=D0=BE=D0=B3=D0=BE =D1=81=
+=D0=BE =D1=81=D0=BA=D0=B8=D0=B4=D0=BA=D0=BE=D0=B9 =D0=BF=D0=BE =D1=82=D0=BE=
+=D0=B2=D0=B0=D1=80=D0=B0=D0=BC</b></td><td></td><td></td><td><b>193.4</b></=
+td></tr><tr><td></td><td><b>=D0=98=D1=82=D0=BE=D0=B3=D0=BE =D1=81=D0=BE =D1=
+=81=D0=BA=D0=B8=D0=B4=D0=BA=D0=BE=D0=B9 =D0=BA=D0=BB=D0=B8=D0=B5=D0=BD=D1=
+=82=D0=B0</b></td><td></td><td></td><td><b>164.39</b></td></tr></tbody></ta=
+ble>=D0=90=D0=B4=D1=80=D0=B5=D1=81 =D0=B4=D0=BE=D1=81=D1=82=D0=B0=D0=B2=D0=
+=BA=D0=B8: =D0=9C=D0=BE=D1=81=D0=BA=D0=B2=D0=B0, =D0=9A=D1=80=D0=B5=D0=BC=
+=D0=BB=D1=8C 1<br><br><div id=3D"goog-gt-tt" class=3D"skiptranslate" dir=3D=
+"ltr"><div style=3D"padding: 8px;"><div><div class=3D"logo"><img src=3D"htt=
+ps://www.gstatic.com/images/branding/product/1x/translate_24dp.png" width=
+=3D"20" height=3D"20" alt=3D"Google =D0=9F=D0=B5=D1=80=D0=B5=D0=B2=D0=BE=D0=
+=B4=D1=87=D0=B8=D0=BA"></div></div></div><div class=3D"top" style=3D"paddin=
+g: 8px; float: left; width: 100%;"><h1 class=3D"title gray">=D0=98=D1=81=D1=
+=85=D0=BE=D0=B4=D0=BD=D1=8B=D0=B9 =D1=82=D0=B5=D0=BA=D1=81=D1=82</h1></div>=
+<div class=3D"middle" style=3D"padding: 8px;"><div class=3D"original-text">=
+</div></div><div class=3D"bottom" style=3D"padding: 8px;"><div class=3D"act=
+ivity-links"><span class=3D"activity-link">=D0=9F=D1=80=D0=B5=D0=B4=D0=BB=
+=D0=BE=D0=B6=D0=B8=D1=82=D1=8C =D0=BB=D1=83=D1=87=D1=88=D0=B8=D0=B9 =D0=B2=
+=D0=B0=D1=80=D0=B8=D0=B0=D0=BD=D1=82 =D0=BF=D0=B5=D1=80=D0=B5=D0=B2=D0=BE=
+=D0=B4=D0=B0</span><span class=3D"activity-link"></span></div><div class=3D=
+"started-activity-container"><hr style=3D"color: #CCC; background-color: #C=
+CC; height: 1px; border: none;"><div class=3D"activity-root"></div></div></=
+div><div class=3D"status-message" style=3D"display: none;"></div></div><div=
+ class=3D"goog-te-spinner-pos"><div class=3D"goog-te-spinner-animation"><sv=
+g xmlns=3D"http://www.w3.org/2000/svg" class=3D"goog-te-spinner" width=3D"9=
+6px" height=3D"96px" viewBox=3D"0 0 66 66"><circle class=3D"goog-te-spinner=
+-path" fill=3D"none" stroke-width=3D"6" stroke-linecap=3D"round" cx=3D"33" =
+cy=3D"33" r=3D"30"></circle></svg></div></div><iframe frameborder=3D"0" cla=
+ss=3D"goog-te-menu-frame skiptranslate" title=3D"=D0=AF=D0=B7=D1=8B=D0=BA =
+=D0=B2=D0=B8=D0=B4=D0=B6=D0=B5=D1=82=D0=B0 Google =D0=9F=D0=B5=D1=80=D0=B5=
+=D0=B2=D0=BE=D0=B4=D1=87=D0=B8=D0=BA=D0=B0" style=3D"visibility: visible; b=
+ox-sizing: content-box; width: 1178px; height: 263px; display: none;"></ifr=
+ame><iframe frameborder=3D"0" class=3D"goog-te-menu-frame skiptranslate" ti=
+tle=3D"=D0=AF=D0=B7=D1=8B=D0=BA =D0=B2=D0=B8=D0=B4=D0=B6=D0=B5=D1=82=D0=B0 =
+Google =D0=9F=D0=B5=D1=80=D0=B5=D0=B2=D0=BE=D0=B4=D1=87=D0=B8=D0=BA=D0=B0" =
+style=3D"visibility: visible; box-sizing: content-box; width: 242px; height=
+: 69px; display: none;"></iframe></body></html>
+------MultipartBoundary--Dj6lkfPR1JvBOSOFsHijyUvVKhS48Rf6Zik4zbzm0h----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: cid:css-5ed0f3e3-bfed-4a65-9c72-9b83f7f97763@mhtml.blink
+
+@charset "utf-8";
+
+:root img[style*=3D"//counter.yadro.ru/"], :root img[src*=3D"://c.bigmir.ne=
+t/"], :root a[href^=3D"http://click.hotlog.ru/"], :root a[href*=3D"//top.ma=
+il.ru/jump?"], :root [title=3D"uWeb Counter"], :root [title=3D"uCoz Counter=
+"], :root .min-width-normal > #popup_container ~ #fade, :root .min-width-no=
+rmal > #popup_container, :root body > div[class^=3D"_"][class*=3D" _"][clas=
+s$=3D"_stBig"], :root body > div[id^=3D"dV"][style^=3D"width"][style*=3D"he=
+ight"][style*=3D"position"][style*=3D"fixed"][style*=3D"overflow"][style*=
+=3D"z-index"][style*=3D"background"], :root .app.blog-post-page .secondary-=
+header-ad-block, :root .app.blog-post-page #right-column > .sticky, :root #=
+root > .app > #layout > #very-right-column .aggregator__header, :root objec=
+t[data^=3D"blob"], :root noindex > .search_result[class*=3D"search_result_"=
+], :root img[width=3D"468"][height=3D"60"], :root img[width=3D"160"][height=
+=3D"600"], :root img[src*=3D"://cp.beget.com/promo_data/"], :root iframe[sr=
+c*=3D"utraff.com"], :root iframe[src*=3D"tureckiy-serial.ru/"][src$=3D".php=
+"], :root iframe[src*=3D"ads.exosrv.com"], :root iframe[src*=3D"://vidroll.=
+ru/"], :root iframe[src*=3D"://ab.adpro.com.ua/"], :root iframe[src*=3D"/mi=
+xadv_"], :root iframe[src*=3D"/carta.ua/ajax/widget."], :root iframe[src*=
+=3D"/3647.tech"], :root iframe[id^=3D"republer"], :root div[id^=3D"zcbclk"]=
+, :root div[id^=3D"yandex_rtb"], :root div[id^=3D"trafmag_"], :root div[id^=
+=3D"tizerws_"], :root div[id^=3D"smi2adblock_"], :root div[id^=3D"sblock_in=
+form_"], :root div[id^=3D"news_nest_net_ru"], :root div[id^=3D"news_nest_ms=
+k_ru"], :root div[id^=3D"news_2xclick_ru_"], :root div[id^=3D"join_informer=
+_"], :root div[id^=3D"itizergroup_"], :root div[id^=3D"b_tz_"], :root div[i=
+d^=3D"ads_games_"], :root div[id^=3D"M"][id*=3D"Composite"], :root div[id^=
+=3D"DIV_DA_"], :root div[id^=3D"Crt-"][style], :root div[id*=3D"Teaser_Bloc=
+k"], :root div[data-server-rendered=3D"true"] > div[id^=3D"la-"], :root div=
+[class^=3D"yandex_rtb"], :root div[class^=3D"da-ya-widget"], :root div[clas=
+s*=3D"spklw"][data-type=3D"ad"], :root a[onclick*=3D"trtkp.ru"], :root a[on=
+click*=3D"offergate-amigo"], :root a[href^=3D"https://www.juicer.io?referre=
+r=3D"], :root a[href^=3D"https://msetup.pro"], :root a[href^=3D"https://ksh=
+op"][href*=3D".pro/"], :root a[href^=3D"http://trafmaster.com"], :root a[hr=
+ef^=3D"http://traderstart.mirtesen.ru"], :root a[href^=3D"http://reals-stor=
+y.ru/"], :root a[href^=3D"http://kshop.biz/"], :root a[href^=3D"http://brow=
+serload.info/"], :root a[href^=3D"http://apytrc.com/click/"], :root a[href=
+=3D"http://advert.mirtesen.ru/"], :root a[href*=3D"zdravo-med.ru"], :root a=
+[href*=3D"xxxrevpushclcdu.com"], :root a[href*=3D"trklp.ru"], :root a[href*=
+=3D"traflabs.xyz"], :root div[id^=3D"CGCandy"], :root a[href*=3D"tptrk.ru"]=
+, :root a[href*=3D"shakesclick.com"], :root a[href*=3D"shakescash.com"], :r=
+oot a[href*=3D"shakes.pro"], :root a[href*=3D"sapmedia.ru"], :root a[href*=
+=3D"sandratand.ru"], :root a[href*=3D"rexchange.begun.ru/rclick?"], :root a=
+[href*=3D"refpazus.top"], :root a[href*=3D"problogrus.ru"], :root a[href^=
+=3D"https://homyanus.com"], :root a[href*=3D"please-direct.me"], :root a[hr=
+ef*=3D"please-direct.com"], :root a[href*=3D"sviruniversal.com/"], :root a[=
+href*=3D"octoclick.net"], :root a[href*=3D"marketgid.com/"], :root a[href*=
+=3D"litewebbusiness.com"], :root a[href*=3D"navaxudoru.com"], :root a[href*=
+=3D"lifebloggersz.ru"], :root a[href*=3D"kinnohoyutd.site"], :root a[href*=
+=3D"intovarro.ru"], :root a[href*=3D"https://relap.io/r?"], :root a[href*=
+=3D"herrabjec.pro"], :root a[href*=3D"goodtrack.ru"], :root a[href*=3D"gocd=
+n.ru"], :root a[href*=3D"go.ad2up.com"], :root a[href*=3D"ftpglst.com"], :r=
+oot a[href*=3D"flylinks.pw"], :root a[href*=3D"filebase.me"], :root a[href*=
+=3D"cpl11.ru"], :root a[href*=3D"cpl1.ru"], :root a[href*=3D"cpagetti1.com"=
+], :root a[href*=3D"cmsmodnews.com"], :root a[href*=3D"bubblesmedia.ru/sb/c=
+lk/"], :root a[href*=3D"blogers-story.ru"], :root a[href*=3D"shakesin.com"]=
+, :root a[href*=3D"bgrndi.com"], :root a[href*=3D"beststbuy.ru"], :root a[h=
+ref*=3D"best-zdorovye.ru"], :root a[href*=3D"beauty-list.ru"], :root a[href=
+*=3D"medinforms.ru"], :root a[href*=3D"awesomeredirector"], :root a[href*=
+=3D"amigo-biz.ru/ads/click"], :root a[href*=3D"amgfile.ru"], :root a[href*=
+=3D"ads2-adnow.com"], :root a[href*=3D"slovosil.com"], :root a[href*=3D"ads=
+-provider.com"], :root a[href*=3D"://telamoncleaner.com/tracker/?partner=3D=
+"], :root a[href*=3D"://softmediya.ru/"], :root a[href*=3D"://segodnia.club=
+/"], :root a[href*=3D"://ruonline.bar/"], :root a[href*=3D"://rendersaveron=
+.com"], :root a[href*=3D"://renderbrandium.com"], :root a[href*=3D"://reida=
+ncis.com/"], :root a[href*=3D"://parandaya.com"], :root a[href*=3D"://ourbr=
+owser.net"], :root a[href*=3D"best-zdrav.ru"], :root a[href*=3D"://newbrows=
+erme.ru/"], :root a[href*=3D"://new.torrent-pack.ru/"], :root a[href*=3D"tr=
+afgid.xyz"], :root a[href*=3D"://getyousoft.ru/"], :root a[href*=3D"://gety=
+oursoft.ru/"], :root a[href*=3D"://getbrauzer.ru/"], :root a[href*=3D"://fi=
+letaker.ru/"], :root a[href*=3D"torrentum.ru"], :root a[href*=3D"://filesmy=
+top.ru/"], :root a[href*=3D"://clickstats.online/"], :root a[href*=3D"://cl=
+ickstats.fun/"], :root a[href*=3D"://chikidiki.ru"], :root a[href*=3D"://ad=
+v-views.com"], :root a[href*=3D"/universalsrc.net/"], :root a[href*=3D"/uni=
+versalsrc.com/"], :root a[href^=3D"http://fly-shops.ru"], :root a[href*=3D"=
+/universal-lnk.net/"], :root a[href*=3D"://vpnbrowser.ru/"], :root a[href*=
+=3D"/uni-lnk.com/"], :root a[href*=3D"/uloads.ru/"], :root a[href*=3D"/u-lo=
+ads.ru/"], :root a[href*=3D"/u-load.ru/"], :root a[href*=3D"/rapidtor.site"=
+], :root a[href*=3D"/onvix.tv/promo/"][target=3D"_blank"], :root a[href*=3D=
+"/newbrowser.club/"], :root a[href*=3D"/myuniversalnk.com/"], :root a[href*=
+=3D"/go.1k3.net/"], :root iframe[src*=3D"marketgid.com"], :root a[href*=3D"=
+/getdriverpack.ru"], :root a[href*=3D"/fastvk.com"], :root a[href*=3D"/api/=
+redirect?offerid=3D"], :root a[href*=3D"/advjump.com"], :root iframe[src*=
+=3D"laim.tv/rotator/"], :root a[href*=3D"/advertisesimple.info"], :root a[h=
+ref*=3D"//viruniversal.com/"], :root a[href*=3D"//utimg.ru/"], :root a[href=
+*=3D"//universalut.info/"], :root a[href*=3D"//universalse.info/"], :root a=
+[href*=3D"//universalice.info/"], :root a[href*=3D"//ubar.pro"], :root a[hr=
+ef*=3D"//ubar-pro"], :root a[href*=3D"//tiruniversal.com/"], :root a[href*=
+=3D"//sub"][href*=3D"bubblesmedia.ru"], :root a[href*=3D"//spishi.vip/"], :=
+root a[href*=3D"//restofarian.com"], :root a[href*=3D"//reruniversal.com/"]=
+, :root a[href*=3D"//refpaewsbc.top/"], :root a[href*=3D"//partners.house/"=
+], :root a[href*=3D"//parandeya.com/"], :root a[href*=3D"//loderlx.ru"], :r=
+oot a[href*=3D"//lis-gor.com/"], :root a[href*=3D"//getmybrowser.ru/"], :ro=
+ot a[href*=3D"trtkp.ru"], :root a[href*=3D"//fofuvipibo.com/"], :root a[hre=
+f*=3D"//febrare.ru/"], :root a[href*=3D"advertwebgid.ru"], :root a[href*=3D=
+"//ext-load.net"], :root a[href*=3D"//do-rod.com/"], :root a[href*=3D"//ave=
+rtise.ru/"], :root a[href*=3D"//1xbetlk.site/"], :root a[href*=3D".twkv.ru"=
+], :root a[href*=3D".pokupkins.ru"], :root .app.blog-post-page #blog-post-i=
+tem-video-ad, :root a[href*=3D".1liveinternet.ru"], :root [onclick*=3D"trkl=
+p.ru"], :root [onclick*=3D"traffic-media.co"], :root [onclick*=3D"mixadvert=
+.com"], :root [onclick*=3D"/sb/clk/"], :root [onclick*=3D".twkv.ru"], :root=
+ a[href*=3D"://adsbid-click.adsbid.ru/"], :root [href^=3D"https://download.=
+cdn.yandex.net/yandex-tag/weboffer/"], :root [href*=3D"pigiuqproxy.com"], :=
+root [href*=3D"driftawayforfun.com"], :root [href*=3D"://clickpzk.com/"], :=
+root [href*=3D"://click.1k3web.net/"], :root [href*=3D"://click.1k3web.com/=
+"], :root [href*=3D"://click.1k3pub.com/"], :root [href*=3D"://browseit.ru/=
+"], :root [href*=3D"/zfvklk.ru"], :root [href*=3D"/vaigowoa.com"], :root [h=
+ref*=3D"//loadbrowser.ru/"], :root [data-url*=3D"://installpack.net"], :roo=
+t [data-link*=3D"amigo-browser.ru/dkit-"], :root [data-la-show-block-id], :=
+root [data-la-refresh-timeout], :root [data-la-block], :root a[href*=3D"fil=
+ms.ws"], :root [data-la-block-show-id], :root [class^=3D"flat_"][class*=3D"=
+_out"], :root .mywidget__col > .mywidget__link_advert, :root [id^=3D"unit_"=
+] > a[href*=3D"://smi2.ru"], :root .base-page_left-side > #left_ban, :root =
+.base-page_center > .banerTopOver, :root .base-page_center > .banerTop, :ro=
+ot #adv_unisound ~ #main > #slidercontentContainer, :root a[href*=3D"/get-t=
+orrent.ru"], :root #adv_kod_frame ~ #gotimer, :root #PopWin[onmousemove], :=
+root #MT_overroll ~ div[class][style=3D"left:0px;top:0px;height:480px;width=
+:650px;"], :root topadblock, :root div[id^=3D"cpa_rotator_block"], :root sc=
+ript[src^=3D"http://free-shoutbox.net/app/webroot/shoutbox/sb.php?shoutbox=
+=3D"] + #freeshoutbox_content, :root input[onclick^=3D"window.open('http://=
+www.FriendlyDuck.com/"], :root img[alt^=3D"Fuckbook"], :root iframe[src^=3D=
+"http://static.mozo.com.au/strips/"], :root div[jscontroller=3D"U835zd"] + =
+c-wiz[jsrenderer=3D"YnuqN"], :root div[id^=3D"zergnet-widget"], :root div[i=
+d^=3D"traffective-ad-"], :root div[id^=3D"sticky_ad_"], :root div[id^=3D"rc=
+-widget-"], :root div[id^=3D"q1-adset-"], :root div[id^=3D"proadszone-"], :=
+root a[href*=3D"land-gooods.ru"], :root div[id^=3D"lazyad-"], :root div[id^=
+=3D"gtm-ad-"], :root div[id^=3D"ezoic-pub-ad-"], :root div[id^=3D"dmRosAdWr=
+apper"], :root div[id^=3D"div-adtech-ad-"], :root div[id^=3D"dfp-slot-"], :=
+root div[id^=3D"dfp-ad-"], :root div[id^=3D"block-views-topheader-ad-block-=
+"], :root div[id^=3D"advt-"], :root div[id^=3D"advads_"], :root a[href*=3D"=
+netcrys.com"], :root [class^=3D"flat_"][class*=3D"_crss"], :root div[id^=3D=
+"ads300_600-widget"], :root iframe[src*=3D"//refpakglscpj."], :root a[href^=
+=3D"http://olivka.biz/"], :root input[onclick^=3D"window.open('http://www.f=
+riendlyduck.com/"], :root div[id^=3D"ads300_250-widget"], :root div[id^=3D"=
+ads300_100-widget"], :root div[id^=3D"ads250_250-widget"], :root div[id^=3D=
+"ads120_600-widget"], :root a[href*=3D"trk-1.com"], :root div[id^=3D"adrota=
+te_widgets-"], :root div[id^=3D"ad_script_"], :root a[href*=3D"/rating/"] >=
+ img[width=3D"88"][height=3D"31"], :root div[id^=3D"ad_rect_"], :root #root=
+ > .app > #layout > #very-right-column > .aggregator > .aggregator__items, =
+:root div[id^=3D"ad_position_"], :root div[id^=3D"ad-server-"], :root a[hre=
+f*=3D"//gerocenius.com/"], :root div[id^=3D"ad-cid-"], :root div[id^=3D"acm=
+-ad-tag-"], :root a[href^=3D"http://hitcounter.ru/top/stat.php"], :root div=
+[id^=3D"YFBMSN"], :root div[id^=3D"ADV-SLOT-"], :root div[data-spotim-slot]=
+, :root div[data-role=3D"sidebarAd"], :root div[data-native_ad], :root div[=
+data-mediatype=3D"advertising"], :root div[data-id-advertdfpconf], :root di=
+v[data-crl=3D"true"][data-id^=3D"CarouselPLA-"], :root div[data-content=3D"=
+Advertisement"], :root div[data-adunit], :root div[data-adunit-path], :root=
+ div[data-adname], :root div[class^=3D"zn-sponsored-outbrain-"], :root div[=
+class^=3D"proadszone-"], :root div[class^=3D"pane-google-admanager-"], :roo=
+t div[class^=3D"lifeOnwerAd"], :root div[class^=3D"largeRectangleAd_"], :ro=
+ot div[class^=3D"kiwiad-popup"], :root div[class^=3D"kiwiad-desktop"], :roo=
+t div[class^=3D"index_adBeforeContent_"], :root a[href*=3D"tvroff.net"], :r=
+oot div[class^=3D"index_adAfterContent_"], :root img[title=3D"bigmir)net TO=
+P 100"], :root div[class^=3D"index__adWrapper"], :root div[class^=3D"block-=
+openx-"], :root div[class^=3D"backfill-taboola-home-slot-"], :root div[clas=
+s^=3D"articleAdUnitMPU_"], :root a[href*=3D"//adoffer.pro/"], :root div[cla=
+ss^=3D"advertisement-desktop"], :root div[class^=3D"adsbutt_wrapper_"], :ro=
+ot a[href*=3D"linkmyc.com"], :root div[class^=3D"ads-partner-"], :root div[=
+class^=3D"adbanner_"], :root div[class^=3D"ad_position_"], :root div[class^=
+=3D"SponsoredAds"], :root div[class^=3D"ResponsiveAd-"], :root div[class^=
+=3D"PreAd_"], :root div[class^=3D"Display_displayAd"], :root div[id^=3D"rep=
+ubler_"], :root div[class^=3D"Directory__footerAds"], :root a[href^=3D"http=
+://datxxx.com"], :root div[class^=3D"BannerAd_"], :root div[class^=3D"Adhes=
+ionAd_"], :root div[class^=3D"Ad__bigBox"], :root a[href*=3D"thor-media.ru/=
+click/"], :root div[class^=3D"Ad__adContainer"], :root img[width=3D"728"][h=
+eight=3D"90"], :root div[id^=3D"divAdvAD_"], :root div[class^=3D"ad_border_=
+"], :root div[class^=3D"AdItem-"], :root [id^=3D"relap-custom-iframe-rec"],=
+ :root div[class^=3D"AdEmbeded__AddWrapper"], :root span[data-component-typ=
+e=3D"s-ads-metrics"], :root div[class^=3D"AdBannerWrapper-"], :root div[cla=
+ss*=3D"_AdInArticle_"], :root div[class*=3D"-storyBodyAd-"], :root div[cel_=
+widget_id=3D"dpx-sponsored-products-detail_csm_instrumentation_wrapper"], :=
+root a[href*=3D"://bestnewsoft.ru/"], :root div[id^=3D"adfox_"], :root div#=
+main > div.D1fz0e, :root div > [class][onclick*=3D".updateAnalyticsEvents"]=
+, :root bottomadblock, :root aside[id^=3D"tn_ads_widget-"], :root aside[id^=
+=3D"adrotate_widgets-"], :root amp-ad-custom, :root iframe[src*=3D"fwdcdn.c=
+om/frame/partners/"], :root a[target=3D"_blank"][onmousedown=3D"this.href^=
+=3D'http://paid.outbrain.com/network/redir?"], :root a[href*=3D"shakespoint=
+.com"], :root a[target=3D"_blank"][href^=3D"http://api.taboola.com/"], :roo=
+t a[style=3D"display:block;width:300px;min-height:250px"][href^=3D"http://l=
+i.cnet.com/click?"], :root div[class^=3D"BlockAdvert-"], :root a[src^=3D"ht=
+tps://www.utherverse.com/net/"], :root a[onmousedown^=3D"this.href=3D'http:=
+//paid.outbrain.com/network/redir?"][target=3D"_blank"] + .ob_source, :root=
+ a[onmousedown^=3D"this.href=3D'http://paid.outbrain.com/network/redir?"][t=
+arget=3D"_blank"], :root a[href*=3D"://ruprivate.club/"], :root div[role=3D=
+"navigation"] + c-wiz > script + div > .kxhcC, :root a[onclick*=3D"//m.econ=
+omictimes.com/etmack/click.htm"], :root a[href^=3D"https://zononi.com/"], :=
+root a[href*=3D"offhealth.ru"], :root a[href^=3D"https://www.what-sexdating=
+.com/"], :root a[href^=3D"https://www.vewwrmp.com/"], :root a[href^=3D"http=
+s://www.spyoff.com/"], :root a[href^=3D"https://www.sheetmusicplus.com/?aff=
+_id=3D"], :root a[href^=3D"https://www.sheetmusicplus.com/"][href*=3D"?aff_=
+id=3D"], :root a[href^=3D"https://www.share-online.biz/affiliate/"], :root =
+a[href^=3D"https://www.securegfm.com/"], :root a[href^=3D"https://www.priva=
+teinternetaccess.com/"] > img, :root a[href^=3D"https://www.passeura.com/"]=
+, :root div[id^=3D"amzn-assoc-ad"], :root a[href^=3D"https://www.oboom.com/=
+ref/"], :root div[itemtype=3D"http://schema.org/WPAdBlock"], :root a[href^=
+=3D"https://www.nudeidols.com/cams/"], :root a[href^=3D"https://www.myporns=
+tarcams.com/landing/click/"], :root a[href^=3D"https://www.kingsoffetish.co=
+m/tour?partner_id=3D"], :root div[data-adzone], :root a[href^=3D"https://ww=
+w.iyalc.com/"], :root a[href^=3D"https://www.goldenfrog.com/vyprvpn?offer_i=
+d=3D"][href*=3D"&aff_id=3D"], :root a[href^=3D"https://www.get-express-vpn.=
+com/offer/"], :root a[href*=3D"/mosday.ru/ad/"], :root a[href^=3D"https://w=
+ww.gambling-affiliation.com/cpc/"], :root a[href^=3D"http://webgirlz.online=
+/landing/"], :root a[href^=3D"https://www.g4mz.com/"], :root a[href^=3D"htt=
+ps://www.clicktraceclick.com/"], :root a[href^=3D"https://www.camsoda.com/e=
+nter.php?id=3D"], :root a[href^=3D"https://www.brazzersnetwork.com/landing/=
+"], :root a[href^=3D"https://mob1ledev1ces.com/"], :root a[href^=3D"https:/=
+/www.bet365.com/"][href*=3D"affiliate=3D"], :root a[href^=3D"https://www.be=
+bi.com"], :root a[href^=3D"https://www.awin1.com/cread.php?awinaffid=3D"], =
+:root a[href^=3D"https://www.adskeeper.co.uk/"], :root div[id^=3D"ad_head_c=
+eltra_"], :root a[href^=3D"https://t.grtyi.com/"], :root a[href^=3D"https:/=
+/wittered-mainging.com/"], :root a[href^=3D"http://farm.plista.com/pets"], =
+:root a[href^=3D"https://windscribe.com/promo/"], :root iframe[src*=3D"hd.g=
+g33.top/"], :root a[href^=3D"https://unreshiramor.com/"], :root a[href^=3D"=
+http://ad-emea.doubleclick.net/"], :root a[href^=3D"https://understandsolar=
+.com/signup/?lead_source=3D"][href*=3D"&tracking_code=3D"], :root div[id^=
+=3D"tms-ad-dfp-"], :root a[href^=3D"https://trust.zone/go/r.php?RID=3D"], :=
+root a[href^=3D"https://trf.bannerator.com/"], :root a[href*=3D"kodielinktr=
+ust.ru"], :root a[href*=3D"//universalin.info/"], :root a[href^=3D"http://g=
+o.247traffic.com/"], :root a[href^=3D"https://bestcond1tions.com/"], :root =
+a[href^=3D"https://trappist-1d.com/"], :root a[href^=3D"https://traffic.ban=
+nerator.com/"], :root a[href^=3D"https://tracking.truthfinder.com/?a=3D"], =
+:root .base-page_center > .banerBottom, :root #rhs_block .xpdopen > ._OKe >=
+ div > .mod > ._yYf, :root a[href^=3D"https://tracking.gitads.io/"], :root =
+a[href^=3D"https://track.ultravpn.com/"], :root a[href*=3D"/myuniversalnk.n=
+et/"], :root a[href^=3D"https://www.adultempire.com/"][href*=3D"?partner_id=
+=3D"], :root a[href^=3D"https://track.healthtrader.com/"], :root a[href^=3D=
+"https://track.clickmoi.xyz/"], :root div[class^=3D"da-widget-"], :root a[h=
+ref^=3D"https://control.trafficfabrik.com/"], :root a[href^=3D"https://trac=
+k.52zxzh.com/"], :root a[href*=3D"//historategory.com/"], :root #BlWrapper =
+> .b-temp_rbc, :root .ra[align=3D"right"][width=3D"30%"], :root a[href^=3D"=
+https://axdsz.pro/"], :root a[href^=3D"https://tour.mrskin.com/"], :root a[=
+href^=3D"http://www.greenmangaming.com/?tap_a=3D"], :root a[href^=3D"https:=
+//tm-offers.gamingadult.com/"], :root a[href^=3D"https://t.mobtya.com/"], :=
+root a[href^=3D"https://t.hrtyj.com/"], :root a[href^=3D"https://t.hrtye.co=
+m/"], :root a[href*=3D"top-info24.ru"], :root a[href^=3D"https://syndicatio=
+n.optimizesrv.com/splash.php?"], :root a[href^=3D"http://cdn3.adexprts.com/=
+"], :root a[href^=3D"https://spygasm.com/track?"], :root [class^=3D"flat_"]=
+[class*=3D"_modal"], :root div[id^=3D"ad-div-"], :root a[href^=3D"https://s=
+ecure.eveonline.com/ft/?aid=3D"], :root a[href*=3D"/afftraf.co/"], :root a[=
+href^=3D"https://secure.bstlnk.com/"], :root div[class^=3D"kiwi-ad-wrapper"=
+], :root a[href^=3D"https://rev.adsession.com/"], :root [href*=3D".trackmst=
+r.com"], :root a[href^=3D"https://refpasrasw.world/"], :root a[href^=3D"htt=
+ps://refpaexhil.top/"], :root ad-slot, :root a[href^=3D"https://pubads.g.do=
+ubleclick.net/"], :root a[href^=3D"https://prf.hn/click/"][href*=3D"/camref=
+:"], :root a[href^=3D"https://prf.hn/click/"][href*=3D"/adref:"], :root #rh=
+s_block .mod > .gws-local-hotels__booking-module, :root a[href^=3D"http://w=
+ww.my-dirty-hobby.com/?sub=3D"], :root a[href^=3D"https://porndeals.com/?tr=
+ack=3D"], :root a[href^=3D"https://offerforge.net/"], :root a[href^=3D"http=
+s://myusenet.xyz/"], :root a[href^=3D"https://my-movie.club/"], :root a[hre=
+f*=3D"bestforexplmdb.com"], :root a[href^=3D"https://msecure117.com/"], :ro=
+ot a[href^=3D"https://mk-cdn.net/"], :root a[href^=3D"https://mk-ads.com/"]=
+, :root div[data-adv-type=3D"dfp"], :root a[href^=3D"https://misspkl.com/"]=
+, :root a[href*=3D"/amigo-browser.ru"][target=3D"_blank"], :root a[href^=3D=
+"https://medleyads.com/"], :root iframe[src^=3D"https://tpc.googlesyndicati=
+on.com/"], :root a[href*=3D".approvallamp.club/"], :root a[href^=3D"https:/=
+/landing1.brazzersnetwork.com"], :root a[href^=3D"http://adrunnr.com/"], :r=
+oot a[href^=3D"https://landing.brazzersplus.com/"], :root a[href^=3D"https:=
+//land.rk.com/landing/"], :root .lads[width=3D"100%"][style=3D"background:#=
+FFF8DD"], :root a[href^=3D"https://land.brazzersnetwork.com/landing/"], :ro=
+ot a[href^=3D"https://juicyads.in/"], :root a[href^=3D"https://join.virtual=
+lust3d.com/"], :root body > #__promoStickyButton, :root a[href^=3D"http://w=
+ww.uniblue.com/cm/"], :root a[href^=3D"https://join.sexworld3d.com/track/"]=
+, :root a[href^=3D"https://join.dreamsexworld.com/"], :root a[href^=3D"http=
+s://incisivetrk.cvtr.io/click?"], :root a[href^=3D"https://iactrivago.ampxd=
+irect.com/"], :root a[href^=3D"https://iac.ampxdirect.com/"], :root div[dat=
+a-ismultirow=3D"true"][data-id^=3D"CarouselPLA-"], :root a[href^=3D"https:/=
+/horny-pussies.com/tds"], :root a[href^=3D"https://graizoah.com/"], :root t=
+d[valign=3D"top"] > .mainmenu[style=3D"padding:10px 0 0 0 !important;"], :r=
+oot a[href^=3D"http://feedads.g.doubleclick.net/"], :root a[href^=3D"https:=
+//redsittalvetoft.pro/"], :root a[href^=3D"https://googleads.g.doubleclick.=
+net/pcs/click"], :root a[href^=3D"http://cdn.adstract.com/"], :root a[href^=
+=3D"https://gogoman.me/"], :root div[jsdata*=3D"CarouselPLA-"][data-id^=3D"=
+CarouselPLA-"], :root a[href^=3D"https://go.trackitalltheway.com/"], :root =
+a[href^=3D"https://go.stripchat.com/"][href*=3D"&campaignId=3D"], :root a[h=
+ref^=3D"https://go.julrdr.com/"], :root a[href^=3D"https://go.hpyrdr.com/"]=
+, :root a[href^=3D"https://adnetwrk.com/"], :root a[href^=3D"https://go.gld=
+rdr.com/"], :root div[id^=3D"mainads"], :root a[href^=3D"https://go.currenc=
+y.com/"], :root [id^=3D"newPortal_informer_"], :root a[href^=3D"https://tra=
+ck.afftck.com/"], :root a[href^=3D"http://guideways.info/"], :root a[href^=
+=3D"https://go.cmrdr.com/"], :root a[href*=3D".inclk.com/"], :root a[href^=
+=3D"https://go.ad2up.com/"], :root a[href^=3D"https://giftsale.co.uk/?utm_"=
+], :root a[href^=3D"https://freeadult.games/"], :root a[href^=3D"https://fo=
+nts.fontplace9.com/"], :root a[href*=3D"://yadistr.ru/"], :root a[href^=3D"=
+http://clkmon.com/adServe/"], :root a[href^=3D"https://flirtaescopa.com/"],=
+ :root a[href^=3D"https://fleshlight.sjv.io/"], :root a[href^=3D"https://fa=
+kelay.com/"], :root a[href^=3D"https://earandmarketing.com/"], :root [lazy-=
+ad=3D"leftthin_banner"], :root a[href^=3D"https://dynamicadx.com/"], :root =
+.GFYY1SVE2 > .GFYY1SVD2 > .GFYY1SVG5, :root a[href^=3D"https://djtcollector=
+club.org/"][href*=3D"?affiliate_id=3D"], :root a[href^=3D"https://tc.tradet=
+racker.net/"] > img, :root a[href^=3D"//srv.buysellads.com/"], :root a[href=
+^=3D"https://dianches-inchor.com/"], :root a[href*=3D"blogi-novosti.ru"], :=
+root a[href^=3D"http://adf.ly/?id=3D"], :root a[href^=3D"https://uncensored=
+3d.com/"], :root a[href^=3D"https://creacdn.top-convert.com/"], :root a[hre=
+f*=3D"=3Dexoclick"], :root a[href^=3D"https://www.chngtrack.com/"], :root i=
+frame[src^=3D"https://pagead2.googlesyndication.com/"], :root a[href^=3D"ht=
+tps://retiremely.com/"], :root a[href^=3D"https://cpmspace.com/"], :root .c=
+ommercial-unit-mobile-top > .v7hl4d, :root a[href^=3D"https://click.plista.=
+com/pets"], :root a[href*=3D"twtn.ru/"], :root a[href^=3D"https://chaturbat=
+e.xyz/"], :root a[href^=3D"http://look.djfiln.com/"], :root a[href^=3D"http=
+s://chaturbate.jjgirls.com/"][href*=3D"?tour=3D"], :root a[href^=3D"https:/=
+/chaturbate.com/in/?track=3D"], :root a[href^=3D"https://chaturbate.com/in/=
+?tour=3D"], :root a[href^=3D"https://chaturbate.com/affiliates/"], :root a[=
+href*=3D"://womens-journal.ru/"], :root [href*=3D"wap4dollar.com/"], :root =
+.__y_elastic .__y_item, :root a[href^=3D"https://mcdlks.com/"], :root a[hre=
+f^=3D"https://bs.serving-sys.com"], :root .mod > ._jH + .rscontainer, :root=
+ a[href^=3D"https://blackorange.go2cloud.org/"], :root a[href^=3D"https://a=
+ffiliates.bet-at-home.com/processing/"], :root a[href^=3D"https://ads.ad4ga=
+me.com/"], :root a[href^=3D"https://betway.com/"][href*=3D"&a=3D"], :root a=
+[href*=3D"//bestonewos.com/"], :root a[href^=3D"http://www.linkbucks.com/re=
+ferral/"], :root a[href^=3D"https://azpresearch.club/"], :root a[href^=3D"h=
+ttps://awptjmp.com/"], :root a[href^=3D"http://www.fleshlight.com/"], :root=
+ a[href^=3D"https://aweptjmp.com/"], :root a[href^=3D"https://awentw.com/"]=
+, :root a[href^=3D"https://albionsoftwares.com/"], :root a[href^=3D"http://=
+amigodistr.ru/"], :root a[href^=3D"//postlnk.com/"], :root a[href^=3D"https=
+://affiliate.rusvpn.com/click.php?"], :root a[href^=3D"https://adultfriendf=
+inder.com/go/page/landing"], :root a[href*=3D"pussl3.com"], :root a[href^=
+=3D"https://adswick.com/"], :root .GKJYXHBF2 > .GKJYXHBE2 > .GKJYXHBH5, :ro=
+ot ads-right, :root a[href^=3D"https://adserver.adreactor.com/"], :root a[h=
+ref^=3D"https://refpaano.host/"], :root a[href^=3D"https://meet-to-fuck.com=
+/tds"], :root a[href*=3D"/loaderu.ru/"], :root a[href^=3D"https://adhealers=
+.com/"], :root div[class*=3D"relap"][class*=3D"-rec-item"], :root a[href^=
+=3D"https://static.fleshlight.com/images/banners/"], :root app-advertisemen=
+t, :root a[href^=3D"https://ad.doubleclick.net/"], :root a[href^=3D"http://=
+zevera.com/afi.html"], :root a[href^=3D"http://go.oclaserver.com/"], :root =
+a[href^=3D"https://ad.atdmt.com/"], :root .trc_rbox .syndicatedItem, :root =
+a[href^=3D"https://aaucwbe.com/"], :root a[href^=3D"http://xtgem.com/click?=
+"], :root [data-la-show-id], :root a[href^=3D"https://ads.trafficpoizon.com=
+/"], :root a[href*=3D"down-news-games.ru"], :root a[href*=3D"//portakamus.c=
+om/"], :root div[class^=3D"local-feed-banner-ads"], :root a[href^=3D"http:/=
+/wxdownloadmanager.com/dl/"], :root div[id^=3D"adpartner-jsunit-"], :root a=
+[href*=3D"/yfiles1.ru"], :root a[href^=3D"http://www.zergnet.com/i/"], :roo=
+t a[onmousedown^=3D"this.href=3D'http://staffpicks.outbrain.com/network/red=
+ir?"][target=3D"_blank"] + .ob_source, :root a[href^=3D"http://www.usearchm=
+edia.com/signup?"], :root a[href^=3D"http://www.torntv-downloader.com/"], :=
+root a[href^=3D"http://www.tirerack.com/affiliates/"], :root a[href^=3D"htt=
+p://www.text-link-ads.com/"], :root a[href^=3D"https://weedzy.co.uk/"][href=
+*=3D"&utm_"], :root a[href^=3D"http://pokershibes.com/index.php?ref=3D"], :=
+root a[href^=3D"https://usenetxs.website/"], :root a[href^=3D"https://gghf.=
+mobi/"], :root a[href^=3D"http://www.terraclicks.com/"], :root a[href^=3D"h=
+ttps://ads-for-free.com/click.php?"], :root iframe[title=3D"mixAd"], :root =
+div[id^=3D"DIV_NNN_"], :root a[href^=3D"http://www.socialsex.com/"], :root =
+img[src*=3D"//counter.yadro.ru/"], :root a[onmousedown^=3D"this.href=3D'htt=
+ps://paid.outbrain.com/network/redir?"][target=3D"_blank"], :root a[href^=
+=3D"http://www.sfippa.com/"], :root a[href*=3D"kma1.biz"], :root a[href^=3D=
+"http://www.xmediaserve.com/"], :root a[href^=3D"http://www.sex.com/videos/=
+?utm_"], :root a[href^=3D"http://paid.outbrain.com/network/redir?"], :root =
+a[href^=3D"http://www.sex.com/?utm_"], :root a[href^=3D"http://secure.signu=
+p-page.com/"], :root a[href^=3D"http://www.quick-torrent.com/download.html?=
+aff"], :root a[href^=3D"http://www.pinkvisualgames.com/?revid=3D"], :root a=
+[href^=3D"http://glprt.ru/affiliate/"], :root a[href^=3D"https://trklvs.com=
+/"], :root a[href^=3D"http://www.paddypower.com/?AFF_ID=3D"], :root iframe[=
+src*=3D"://rstbtmd.com/"], :root a[href^=3D"http://www.onwebcam.com/random?=
+t_link=3D"], :root a[href*=3D"/rapidtor.ru"], :root a[href^=3D"https://go.2=
+47traffic.com/"], :root a[href^=3D"http://www.freefilesdownloader.com/"], :=
+root a[href^=3D"http://www.mysuperpharm.com/"], :root .trc_rbox_border_elm =
+.syndicatedItem, :root a[href^=3D"http://www.myfreepaysite.com/sfw_int.php?=
+aid"], :root a[href^=3D"http://www.myfreepaysite.com/sfw.php?aid"], :root a=
+[href*=3D"://bubblevard.com/"], :root a[href^=3D"http://bcntrack.com/"], :r=
+oot a[href^=3D"http://www.securegfm.com/"], :root a[href^=3D"http://www.liv=
+ersely.net/"], :root [href*=3D"//trackmstr.com"], :root [href*=3D"prayuserp=
+arka.com/"], :root a[href^=3D"http://www.idownloadplay.com/"], :root a[href=
+^=3D"http://www.hitcpm.com/"], :root a[href^=3D"http://fusionads.net"], :ro=
+ot a[href^=3D"http://www.hibids10.com/"], :root div[class^=3D"awpcp-random-=
+ads"], :root [href*=3D"//securesafemembers.com"], :root a[href^=3D"http://w=
+ww.graboid.com/affiliates/"], :root a[href^=3D"http://www.gamebookers.com/c=
+gi-bin/intro.cgi?"], :root div[id^=3D"div_openx_ad_"], :root a[href^=3D"htt=
+p://www.friendlyquacks.com/"], :root a[href^=3D"https://www.financeads.net/=
+tc.php?"], :root a[href*=3D".tfaln.com/"], :root a[href^=3D"http://www.frie=
+ndlyduck.com/AF_"], :root a[href^=3D"https://content.oneindia.com/www/deliv=
+ery/"], :root a[href^=3D"http://www.fpcTraffic2.com/blind/in.cgi?"], :root =
+a[href^=3D"http://www.flashx.tv/downloadthis"], :root a[href*=3D"//loderls.=
+ru"], :root .trc_rbox_div a[target=3D"_blank"][href^=3D"http://tab"], :root=
+ a[href^=3D"https://americafirstpolls.com/"], :root a[href^=3D"http://click=
+serv.sitescout.com/"], :root a[href^=3D"http://www.firstload.de/affiliate/"=
+], :root a[href^=3D"http://www.twinplan.com/AF_"], :root a[href^=3D"http://=
+www.fducks.com/"], :root a[href^=3D"http://www.easydownloadnow.com/"], :roo=
+t #root > .app .adfox, :root a[href^=3D"http://www.duckssolutions.com/"], :=
+root a[href^=3D"https://offers.refchamp.com/"], :root a[href^=3D"https://go=
+.trkclick2.com/"], :root a[href^=3D"https://www.mrskin.com/account/"], :roo=
+t a[href^=3D"http://www.duckcash.eu/"], :root [href*=3D"postlnk.com"], :roo=
+t a[href^=3D"http://go.seomojo.com/tracking202/"], :root a[href^=3D"http://=
+www.downloadweb.org/"], :root a[href*=3D"//advtise.ru/"], :root a[href^=3D"=
+http://www.down1oads.com/"], :root a[href^=3D"http://www.dealcent.com/regis=
+ter.php?affid=3D"], :root .rscontainer > .ellip, :root a[href^=3D"http://ww=
+w.clkads.com/adServe/"], :root a[href^=3D"https://track.interactivegf.com/"=
+], :root div[class^=3D"adpubs-"], :root a[href*=3D"deliver.trafficfabrik.co=
+m"], :root a[href^=3D"http://www.cash-duck.com/"], :root a[href^=3D"https:/=
+/aff-ads.stickywilds.com/"], :root a[href^=3D"http://www.bitlord.me/share/"=
+], :root a[href*=3D"medicalblogs.ru"], :root .grid > .container > #aside-pr=
+omotion, :root a[href^=3D"http://www.babylon.com/welcome/index?affID"], :ro=
+ot a[href*=3D".orgsales.ru"], :root [id^=3D"unit_"] > a[href*=3D"://smi2.ne=
+t"], :root a[onmousedown^=3D"this.href=3D'/wp-content/embed-ad-content/"], =
+:root a[href^=3D"//adbit.co/?a=3DAdvertise&"], :root a[href^=3D"http://popu=
+p.taboola.com/"], :root a[href^=3D"https://fast-redirecting.com/"], :root a=
+[href^=3D"http://www.sexgangsters.com/?pid=3D"], :root a[href^=3D"http://ww=
+w.amazon.co.uk/exec/obidos/external-search?"], :root a[href^=3D"http://go.a=
+d2up.com/"], :root a[href^=3D"https://badoinkvr.com/"], :root a[href*=3D"/a=
+dServe/banners?"], :root a[href^=3D"http://www.adxpansion.com"], :root .pli=
+staList > .itemLinkPET, :root a[href^=3D"http://www.adbrite.com/mb/commerce=
+/purchase_form.php?"], :root a[href^=3D"http://www.adultdvdempire.com/?part=
+ner_id=3D"][href*=3D"&utm_"], :root a[href^=3D"http://www.ragazzeinvendita.=
+com/?rcid=3D"], :root a[href^=3D"http://www.TwinPlan.com/AF_"], :root a[hre=
+f^=3D"https://www.googleadservices.com/pagead/aclk?"], :root a[href^=3D"htt=
+p://www.1clickdownloader.com/"], :root a[href*=3D"//loderna.ru"], :root a[h=
+ref^=3D"http://www.123-reg.co.uk/affiliate2.cgi"], :root div[itemtype=3D"ht=
+tp://www.schema.org/WPAdBlock"], :root a[href^=3D"http://wopertific.info/"]=
+, :root a[href^=3D"http://bodelen.com/"], :root a[href^=3D"http://wgpartner=
+.com/"], :root div[class^=3D"block_fortress"], :root a[href^=3D"http://web.=
+adblade.com/"], :root a[href*=3D"://analyticsq.com"], :root a[href^=3D"http=
+s://go.onclasrv.com/"], :root img[src*=3D"top.mail.ru/counter?"], :root a[h=
+ref^=3D"http://wct.link/"], :root a[href^=3D"https://topoffers.com/"][href*=
+=3D"/?pid=3D"], :root a[href*=3D"://dafeb.ru/"], :root a[href^=3D"http://vi=
+nfdv6b4j.com/"], :root a[href^=3D"http://us.marketgid.com"], :root a[href^=
+=3D"http://ul.to/ref/"], :root a[href^=3D"http://ucam.xxx/?utm_"], :root a[=
+href^=3D"https://adsrv4k.com/"], :root a[href^=3D"http://trk.mdrtrck.com/"]=
+, :root a[href^=3D"http://traffic.tc-clicks.com/"], :root a[href*=3D"retaga=
+pp.com"], :root a[href^=3D"http://www.liutilities.com/"], :root a[href^=3D"=
+http://www.dl-provider.com/search/"], :root a[href^=3D"http://tc.tradetrack=
+er.net/"] > img, :root a[href^=3D"http://tracking.deltamediallc.com/"], :ro=
+ot [data-leadlink*=3D"admitlead."][data-leadlink*=3D"/sb/clk/"], :root div[=
+aria-label=3D"Ads"], :root a[href^=3D"http://axdsz.pro/"], :root a[href^=3D=
+"https://go.ebrokerserve.com/"], :root a[href^=3D"http://galleries.securewe=
+bsiteaccess.com/"], :root a[href^=3D"http://stateresolver.link/"], :root a[=
+href^=3D"http://sharesuper.info/"], :root a[href^=3D"https://awecrptjmp.com=
+/"], :root img[src^=3D"/stat/"][width=3D"88"][height=3D"31"], :root a[href*=
+=3D"rapidtor.ru/sb/clk/"], :root a[href^=3D"http://server.cpmstar.com/click=
+.aspx?poolid=3D"], :root div[id^=3D"advertur_"], :root a[href*=3D"://lapina=
+.xyz/"], :root .trc_related_container div[data-item-syndicated=3D"true"], :=
+root a[href^=3D"https://www.firstload.com/affiliate/"], :root div[id^=3D"rt=
+n4p"], :root a[href^=3D"http://see.kmisln.com/"], :root a[href*=3D"//offerg=
+ate.pro/"], :root a[href^=3D"//db52cc91beabf7e8.com/"], :root a[href^=3D"ht=
+tps://go.nordvpn.net/aff"] > img, :root a[href^=3D"http://secure.vivid.com/=
+track/"], :root a[href*=3D"://news.mirtesen.ru/newdata/"], :root a[href^=3D=
+"http://www.downloadthesefiles.com/"], :root a[href^=3D"http://secure.cbdpu=
+re.com/aff/"], :root aside[id^=3D"advads_ad_widget-"], :root a[href^=3D"htt=
+p://lp.ezdownloadpro.info/"], :root a[href^=3D"http://uploaded.net/ref/"], =
+:root a[href^=3D"https://www.nutaku.net/signup/landing/"], :root a[href^=3D=
+"http://s9kkremkr0.com/"], :root a[href^=3D"http://azmobilestore.co/"], :ro=
+ot a[href^=3D"http://s5prou7ulr.com/"], :root a[href^=3D"https://easygamepr=
+omo.com/ef/custom_affiliate/"], :root a[href^=3D"http://record.betsafe.com/=
+"], :root a[onclick*=3D"//msetup.pro/"], :root a[href^=3D"http://mo8mwxi1.c=
+om/"], :root a[href^=3D"https://bnsjb1ab1e.com/"], :root a[href*=3D"/onvix.=
+co/promo/"][target=3D"_blank"], :root a[href^=3D"https://prf.hn/click/"][hr=
+ef*=3D"/creativeref:"], :root a[href^=3D"//oardilin.com/"], :root a[href^=
+=3D"http://pwrads.net/"], :root a[href*=3D"top.24smi.info"], :root a[href^=
+=3D"http://promos.bwin.com/"], :root a[href*=3D"//12traffic.ru/"], :root a[=
+data-redirect^=3D"https://paid.outbrain.com/network/redir?"], :root a[href^=
+=3D"http://play4k.co/"], :root a[href*=3D"://clickstats.pw/"], :root div[id=
+^=3D"ad-gpt-"], :root a[href^=3D"http://pan.adraccoon.com?"], :root a[href*=
+=3D"//ezofferz.com/"], :root a[href^=3D"https://dltags.com/"], :root a[href=
+^=3D"http://onclickads.net/"], :root a[href*=3D"admitlead."][href*=3D"/sb/c=
+lk/"], :root a[href^=3D"http://n.admagnet.net/"], :root a[href^=3D"//awejmp=
+.com/"], :root a[href^=3D"http://mob1ledev1ces.com/"], :root a[href^=3D"htt=
+p://mmo123.co/"], :root iframe[src*=3D"traffic-media.co"], :root a[href^=3D=
+"http://media.paddypower.com/redirect.aspx?"], :root a[href^=3D"https://fil=
+eboom.me/pr/"], :root a[href*=3D"/rlink/simptizer/"], :root a[href^=3D"http=
+://marketgid.com"], :root a[href^=3D"http://liversely.net/"], :root div[id^=
+=3D"drudge-column-ads-"], :root a[href^=3D"http://tour.mrskin.com/"], :root=
+ a[href*=3D"//tranqvilius.com/"], :root [src^=3D"/Redirect.a2b?"], :root a[=
+href^=3D"http://linksnappy.com/?ref=3D"], :root a[href^=3D"https://deliver.=
+ptgncdn.com/"], :root a[href^=3D"http://latestdownloads.net/download.php?"]=
+, :root a[href*=3D"feellights.ru"], :root a[data-redirect^=3D"http://click.=
+plista.com/pets"], :root .section-subheader > .section-hotel-prices-header,=
+ :root a[href^=3D"http://landingpagegenius.com/"], :root a[href*=3D"re-dire=
+ctme.com"], :root a[href^=3D"http://keep2share.cc/pr/"], :root [src*=3D"htt=
+ps://cdn.cloudimagesb.com/"], :root a[href^=3D"http://k2s.cc/pr/"], :root a=
+[href^=3D"http://k2s.cc/code/"], :root div[id^=3D"criteo-"][style], :root a=
+[href*=3D"://edugrampromo.com/"], :root a[href^=3D"http://www.revenuehits.c=
+om/"], :root a[href^=3D"http://install.securewebsiteaccess.com/"], :root .w=
+idget-pane-section-result[data-result-ad-type], :root a[href^=3D"http://ima=
+ds.integral-marketing.com/"], :root div[id^=3D"crt-"][style], :root a[href^=
+=3D"http://igromir.info/"], :root a[href^=3D"https://intrev.co/"], :root a[=
+href^=3D"http://https://www.get-express-vpn.com/offer/"], :root body > ifra=
+me[style^=3D"position"][style*=3D"fixed"][id^=3D"iFb"][src^=3D"/?"], :root =
+a[href*=3D".directtl.xyz/"], :root a[href^=3D"http://websitedhoome.com/"], =
+:root .ob_container .item-container-obpd, :root a[href^=3D"http://www.adske=
+eper.co.uk/"], :root a[href^=3D"https://clickadilla.com/"], :root a[href^=
+=3D"http://www.gfrevenge.com/landing/"], :root a[href*=3D"//universalies.in=
+fo/"], :root a[href^=3D"http://45eijvhgj2.com/"], :root a[href^=3D"http://h=
+pn.houzz.com/"], :root a[href*=3D"://et-cod.com/"], :root a[href^=3D"http:/=
+/searchtabnew.com/"], :root a[href*=3D"?adlivk=3D"][href*=3D"&refer=3D"], :=
+root a[href^=3D"//look.djfiln.com/"], :root a[href*=3D"muz-loader.site"], :=
+root a[href^=3D"http://greensmoke.com/"], :root a[href*=3D"/kshop3.biz"], :=
+root a[href^=3D"https://look.utndln.com/"], :root a[href^=3D"//5e1fcb75b6d6=
+62d.com/"], :root #tads[aria-label], :root a[href^=3D"http://googleads.g.do=
+ubleclick.net/pcs/click"], :root aside[itemtype=3D"https://schema.org/WPAdB=
+lock"], :root a[href^=3D"https://watchmygirlfriend.tv/"], :root .nrelate .n=
+r_partner, :root [data-link*=3D"://ubar-pro"], :root a[href^=3D"http://go.x=
+tbaffiliates.com/"], :root [data-link*=3D"://topclicks.club/"], :root a[hre=
+f^=3D"http://go.mobisla.com/"], :root a[href^=3D"http://g1.v.fwmrm.net/ad/"=
+], :root a[href^=3D"http://freesoftwarelive.com/"], :root a[href^=3D"http:/=
+/adtrackone.eu/"], :root a[href*=3D"://takenewsoft.ru/"], :root a[href^=3D"=
+http://finaljuyu.com/"], :root a[href^=3D"http://fileloadr.com/"], :root a[=
+href^=3D"http://t.wowtrk.com/"], :root a[href^=3D"//syndication.dynsrvtbg.c=
+om/splash.php?"], :root a[href^=3D"http://extra.bet365.com/"][href*=3D"?aff=
+iliate=3D"], :root a[href^=3D"http://ethfw0370q.com/"], :root div[id^=3D"bi=
+dvol-widget-"], :root a[href^=3D"https://tracking.comfortclick.eu/"], :root=
+ a[href^=3D"https://bongacams"][href*=3D"com/track?"], :root [id^=3D"bunyad=
+_ads_"], :root a[href^=3D"http://elitefuckbook.com/"], :root a[href*=3D"kin=
+qon.ru"], :root a[href^=3D"http://eclkmpsa.com/"], :root a[href^=3D"http://=
+earandmarketing.com/"], :root a[href*=3D".mfroute.com/"], :root #content > =
+#center > .dose > .dosesingle, :root a[href^=3D"http://campaign.bharatmatri=
+mony.com/track/"], :root a[href*=3D"3wr110.xyz/"], :root a[href^=3D"http://=
+d2.zedo.com/"], :root a[href^=3D"https://iqoption.com/lp/mobile-partner/"][=
+href*=3D"?aff=3D"], :root a[href^=3D"http://cp.cbbp1.com"], :root body > di=
+v[style=3D"position: fixed; z-index: 999999; width: 400px; height: 308px; r=
+ight: 5px; bottom: 5px;"], :root a[href^=3D"http://codec.codecm.com/"], :ro=
+ot a[href^=3D"https://paid.outbrain.com/network/redir?"], :root a[href^=3D"=
+http://www.downloadplayer1.com/"], :root a[href^=3D"http://clicks.binarypro=
+mos.com/"], :root a[href^=3D"https://dediseedbox.com/clients/aff.php?"], :r=
+oot [href^=3D"/ucmini.php"], :root a[href^=3D"http://www.wantstraffic.com/"=
+], :root a[href^=3D"http://databass.info/"], :root div[class^=3D"AdCard_"],=
+ :root a[href^=3D"http://www.urmediazone.com/signup"], :root a[href^=3D"htt=
+p://click.plista.com/pets"], :root a[href^=3D"http://chaturbate.com/affilia=
+tes/"], :root a[href^=3D"http://www.firstload.com/affiliate/"], :root a[hre=
+f^=3D"http://www.friendlyadvertisements.com/"], :root a[href*=3D"/universal=
+lnk.net/"], :root a[href^=3D"http://go.fpmarkets.com/"], :root a[href^=3D"/=
+/00ae8b5a9c1d597.com/"], :root a[href^=3D"http://cdn3.adbrau.com/"], :root =
+[href^=3D"https://secure.bmtmicro.com/servlets/"], :root a[href^=3D"http://=
+amzn.to/"] > img[src^=3D"data"], :root a[href^=3D"http://bs.serving-sys.com=
+/"], :root a[href^=3D"http://cpaway.afftrack.com/"], :root a[href^=3D"http:=
+//cdn.adsrvmedia.net/"], :root [lazy-ad=3D"top_banner"], :root a[href^=3D"h=
+ttp://360ads.go2cloud.org/"], :root a[href^=3D"http://dftrck.com/"], :root =
+a[href^=3D"http://casino-x.com/?partner"], :root a[href*=3D"ex.24smi.info"]=
+, :root a[href^=3D"http://record.sportsbetaffiliates.com.au/"], :root a[hre=
+f^=3D"http://campeeks.com/"][href*=3D"&utm_"], :root #flowplayer > div[styl=
+e=3D"position: absolute; width: 300px; height: 275px; left: 222.5px; top: 8=
+5px; z-index: 999;"], :root a[href^=3D"http://download-performance.com/"], =
+:root a[href^=3D"http://www.on2url.com/app/adtrack.asp"], :root #__nq__hh[s=
+tyle=3D"display:block!important"], :root a[href*=3D"turbotraf.com"], :root =
+div[data-flt-ve=3D"sponsored_search_ads"], :root [href^=3D"https://affect3d=
+network.com/track/"], :root div[class^=3D"index_displayAd_"], :root a[href^=
+=3D"http://adultgames.xxx/"], :root a[href^=3D"https://s.zlink2.com/"], :ro=
+ot a[href^=3D"http://semi-cod.com/clicks/"], :root a[href^=3D"https://prime=
+.rambler.ru/promo/"], :root a[href*=3D"/installpack.net"], :root a[href^=3D=
+"http://campaign.bharatmatrimony.com/cbstrack/"], :root a[href^=3D"http://i=
+stri.it/?"], :root a[href^=3D"https://gamescarousel.com/"], :root a[href*=
+=3D"fortedrow.pro"], :root a[href^=3D"http://yads.zedo.com/"], :root a[href=
+^=3D"https://bullads.net/get/"], :root a[href^=3D"http://down1oads.com/"], =
+:root a[href^=3D"http://buysellads.com/"], :root a#mobtop[title=3D"=D0=A0=
+=D0=B5=D0=B9=D1=82=D0=B8=D0=BD=D0=B3 =D0=BC=D0=BE=D0=B1=D0=B8=D0=BB=D1=8C=
+=D0=BD=D1=8B=D1=85 =D1=81=D0=B0=D0=B9=D1=82=D0=BE=D0=B2"], :root a[href^=3D=
+"https://uncensored.game/"], :root div[id^=3D"smi_teaser_"], :root a[href^=
+=3D"http://betahit.click/"], :root a[href^=3D"https://torguard.net/aff.php"=
+] > img, :root a[href^=3D"http://bestorican.com/"], :root a[href^=3D"http:/=
+/bcp.crwdcntrl.net/"], :root a[href^=3D"http://bc.vc/?r=3D"], :root a[href^=
+=3D"http://banners.victor.com/processing/"], :root a[href^=3D"http://www.fb=
+ooksluts.com/"], :root a[href^=3D"http://www.cdjapan.co.jp/aff/click.cgi/"]=
+, :root a[href^=3D"http://intent.bingads.com/"], :root a[href*=3D"//ridingi=
+ntractable.com/"], :root a[href^=3D"http://c.actiondesk.com/"], :root a[hre=
+f^=3D"http://affiliate.glbtracker.com/"], :root a[onclick*=3D"/link-fes.ru"=
+], :root a[href^=3D"https://transfer.xe.com/signup/track/redirect?"], :root=
+ a[href^=3D"http://anonymous-net.com/"], :root div[style=3D"width: 252px; h=
+eight: 450px; position: fixed; right: 0px; top: 0px; overflow: hidden; z-in=
+dex: 10000;"], :root a[href^=3D"http://hotcandyland.com/partner/"], :root a=
+[href^=3D"http://affiliates.thrixxx.com/"], :root a[href^=3D"http://affilia=
+te.coral.co.uk/processing/"], :root a[href^=3D"http://aff.ironsocket.com/"]=
+, :root a[href^=3D"http://adsrv.keycaptcha.com"], :root a[href*=3D"://insta=
+llpack.ru"], :root a[href^=3D"https://secure.adnxs.com/clktrb?"], :root a[h=
+ref^=3D"http://adserver.adtechus.com/"], :root a[href^=3D"http://adserver.a=
+dreactor.com/"], :root a[href^=3D"//go.onclasrv.com/"], :root .GHOFUQ5BG2 >=
+ .GHOFUQ5BF2 > .GHOFUQ5BG5, :root #__mom_ad_2, :root a[href^=3D"http://ads.=
+sprintrade.com/"], :root a[href^=3D"http://amigodistrib.ru/dkit-hps/"], :ro=
+ot a[href^=3D"https://www.mrskin.com/tour"], :root a[href^=3D"http://adserv=
+er.adtech.de/"], :root a[href*=3D"//universalie.info/"], :root a[href^=3D"h=
+ttp://cwcams.com/landing/click/"], :root a[href^=3D"http://ads.betfair.com/=
+redirect.aspx?"], :root a[href^=3D"http://reallygoodlink.extremefreegames.c=
+om/"], :root a[href^=3D"http://adlev.neodatagroup.com/"], :root a[href^=3D"=
+http://ad.doubleclick.net/"], :root a[href^=3D"https://k2s.cc/pr/"], :root =
+a[href^=3D"http://ad.au.doubleclick.net/"], :root a[href^=3D"http://srvpub.=
+com/"], :root a[href*=3D"/ulike.farm"], :root [data-dynamic-ads], :root a[h=
+ref^=3D"http://a.adquantix.com/"], :root a[href^=3D"http://NowDownloadAll.c=
+om"], :root object[data*=3D"ads.com/clk.swf"], :root a[href*=3D"/eversaree.=
+bid"], :root a[href^=3D"http://adtrack123.pl/"], :root ad-desktop-sidebar, =
+:root [id*=3D"MGWrap"], :root [src^=3D"//am15.net/?"], :root a[href^=3D"htt=
+p://9amq5z4y1y.com/"], :root a[href^=3D"http://1phads.com/"], :root [alt=3D=
+"Rambler's Top100"], :root a[href^=3D"https://ismlks.com/"], :root a[href^=
+=3D"//zenhppyad.com/"], :root a[href^=3D"//www.pd-news.com/"], :root [href*=
+=3D".doubleclick-net.com"], :root a[href^=3D"//www.mgid.com/"], :root a[hre=
+f^=3D"http://lp.ncdownloader.com/"], :root a[href^=3D"//pubads.g.doubleclic=
+k.net/"], :root a[href^=3D"https://www.travelzoo.com/oascampaignclick/"], :=
+root a[href^=3D"https://see.kmisln.com/"], :root a[href^=3D"http://refer.we=
+bhostingbuzz.com/"], :root body > div[style=3D"position: fixed; z-index: 99=
+9999; width: 400px; height: 308px; left: 5px; bottom: 5px;"], :root a[href*=
+=3D"info-blog24.ru"], :root a[onmousedown^=3D"this.href=3D'http://staffpick=
+s.outbrain.com/network/redir?"][target=3D"_blank"], :root a[href^=3D"//nlkd=
+om.com/"], :root a[href^=3D"//medleyads.com/spot/"], :root a[href^=3D"https=
+://ilovemyfreedoms.com/"][href*=3D"?affiliate_id=3D"], :root a[href*=3D"/vk=
+out.ru"], :root [href*=3D".afftracks.online/"], :root div[class^=3D"Compone=
+nt-dfp-"], :root a[href^=3D"//healthaffiliate.center/"], :root [onclick*=3D=
+"content.ad/"], :root a[href^=3D"https://clixtrac.com/"], :root a[href^=3D"=
+//4f6b2af479d337cf.com/"], :root a[href*=3D"/ribnadzo.ru"], :root a[href^=
+=3D"//4c7og3qcob.com/"], :root a[href*=3D"mixadvert.com"], :root a[href*=3D=
+"/ogclick.com/api/redirect"], :root a[href^=3D"https://www.arthrozene.com/"=
+][href*=3D"?tid=3D"], :root a[href^=3D"http://tezfiles.com/pr/"], :root #rh=
+s_block > ol > .rhsvw > .kp-blk > .xpdopen > ._OKe > ol > ._DJe > .luhb-div=
+, :root a[href^=3D".vddfe.club/"], :root [href^=3D"/ucdownloader.php"], :ro=
+ot a[href^=3D"https://awejmp.com/"], :root [href*=3D"//go2page.net"], :root=
+ a[href^=3D" http://www.sex.com/"][href*=3D"&utm_"], :root .GPMV2XEDA2 > .G=
+PMV2XEDP1 > .GPMV2XEDJBB, :root a[href*=3D"onclkds."], :root a[href^=3D"htt=
+ps://adclick.g.doubleclick.net/"], :root a[href*=3D".intab.fun/"], :root a[=
+href*=3D"get-express-vpn.xyz"], :root a[href*=3D"=3Dadscript"], :root #mn #=
+center_col > div > h2.spon:first-child { display: none !important; }
+
+:root a[href*=3D"realgoodies.ru"], :root a[href*=3D"/onvix.me/promo/"][targ=
+et=3D"_blank"], :root a[href*=3D"=3DAdtracker"], :root a[href^=3D"http://4c=
+7og3qcob.com/"], :root a[href^=3D"https://trusted-click-host.com/"], :root =
+a[href^=3D"https://members.linkifier.com/public/affiliateLanding?refCode=3D=
+"], :root a[href^=3D"https://jmp.awempire.com/"], :root [href^=3D"https://w=
+ct.link/"], :root a[href^=3D"https://track.totalav.com/"], :root a[href^=3D=
+"http://ad-apac.doubleclick.net/"], :root div[class^=3D"bidvol-widget-"], :=
+root c-wiz[jsrenderer=3D"YnuqN"] > div > div > .Rn1jbe, :root a[href*=3D"/s=
+ervlet/click/zone?"], :root a[href*=3D"//webbrowser.club/"], :root a[href^=
+=3D"http://refpaano.host/"], :root a[href*=3D"/cmd.php?ad=3D"], :root a[hre=
+f^=3D"http://track.trkvluum.com/"], :root #atvcap + #tvcap > .mnr-c > .comm=
+ercial-unit-mobile-top, :root a[href*=3D"/adrotate-out.php?"], :root a[href=
+^=3D"https://track.trkinator.com/"], :root div[id^=3D"ad-position-"], :root=
+ a[data-redirect^=3D"this.href=3D'http://paid.outbrain.com/network/redir?"]=
+, :root a[href^=3D"http://liversely.com/"], :root a[href^=3D"http://www.fir=
+stclass-download.com/"], :root a[href*=3D"//bongacams7.com/track?"], :root =
+#root > .app .adfox-top, :root a[href*=3D"joycasino.com/?partner=3D"], :roo=
+t a[href*=3D"idealmedia.io"], :root div[id^=3D"advads-"], :root a[href^=3D"=
+http://www.myfreecams.com/?co_id=3D"][href*=3D"&track=3D"], :root a[href^=
+=3D"https://track.afcpatrk.com/"], :root a[href*=3D"webdiana.ru/click"], :r=
+oot a[href*=3D".ad-center.com/"], :root a[href*=3D".udncoeln.com/"], :root =
+a[href*=3D".trust.zone"], :root a[href*=3D".surfmdia.com/"], :root a[href*=
+=3D".smartadserver.com"], :root a[href*=3D".revimedia.com/"], :root .commer=
+cial-unit-desktop-rhs > div[jscontroller=3D"YD5eo"], :root [id^=3D"div-gpt-=
+ad"], :root .__ywvr .__y_item, :root a[href^=3D"https://farm.plista.com/pet=
+s"], :root div[class*=3D"td-a-rec-id-"], :root a[href*=3D".red90121.com/"],=
+ :root a[href*=3D".opskln.com/"], :root a[href*=3D"//yojlf.com"], :root a[h=
+ref^=3D"http://z1.zedo.com/"], :root a[href*=3D".irtyc.com/"], :root div[id=
+^=3D"div_ad_stack_"], :root a[href*=3D".ichlnk.com/"], :root a[href*=3D"//n=
+ewbrowser.me/"], :root div[id^=3D"ad_bigbox_"], :root #content > #right > .=
+dose > .dosesingle, :root a[href^=3D"http://eaplay.ru/"], :root #assetsList=
+ings[style=3D"display: block;"], :root a[href^=3D"http://9nl.es/"], :root [=
+lazy-ad=3D"leftbottom_banner"], :root a[href*=3D".fwd28.com/"], :root img[s=
+rc*=3D"://r.i.ua/"], :root div[id^=3D"yandex_ad"], :root a[href^=3D"https:/=
+/www.pornhat.com/"][rel=3D"nofollow"], :root a[href^=3D"https://www.hotgirl=
+s4fuck.com/"], :root a[href^=3D"http://y1jxiqds7v.com/"], :root a[href*=3D"=
+.frtyl.com/"], :root a[href^=3D"http://api.content.ad/"], :root a[href*=3D"=
+.clkcln.com/"], :root a[href^=3D"http://click.payserve.com/"], :root iframe=
+[src^=3D"http://ad.yieldmanager.com/"], :root a[href^=3D"http://pubads.g.do=
+ubleclick.net/"], :root a[href^=3D"http://serve.williamhill.com/promoRedire=
+ct?"], :root a[href*=3D"n47adshostnet.com/"], :root a[href*=3D".cfm?fp=3D"]=
+[href*=3D"&prvtof=3D"], :root a[href*=3D"//universalini.info/"], :root a[hr=
+ef^=3D"http://www.badoink.com/go.php?"], :root a[class=3D"RBAd"], :root a[h=
+ref^=3D"http://a63t9o1azf.com/"], :root a[href*=3D".axdsz.pro/"], :root div=
+[class^=3D"adUnit_"], :root a[href^=3D"https://deliver.tf2www.com/"], :root=
+ a[href*=3D"//loderla.online"], :root a[href^=3D"http://spygasm.com/track?"=
+], :root .ob_dual_right > .ob_ads_header ~ .odb_div, :root a[href*=3D"tvks.=
+ru"], :root [src*=3D"//www.dianomi.com/smartads.epl"], :root a[href*=3D".ad=
+k2x.com/"], :root a[href*=3D".allsports4you.club"], :root a[href*=3D"makegr=
+eat.website"], :root a[href^=3D"https://track.bruceads.com/"], :root div[da=
+ta-adservice-param-tagid=3D"contentad"], :root #MAIN.ShowTopic > .ad, :root=
+ a[id^=3D"ads_banner_"], :root a[href^=3D"https://porngames.adult/?SID=3D"]=
+, :root a[href^=3D"http://findersocket.com/"], :root div[id^=3D"traffim-wid=
+get"], :root a[href^=3D"https://m.do.co/c/"] > img, :root [href*=3D".ltrout=
+e.com/"], :root div[class*=3D"margin-Advert"], :root #tads + div + .c, :roo=
+t a[href^=3D"//jsmptjmp.com/"], :root .commercial-unit-mobile-top .jackpot-=
+main-content-container > .UpgKEd + .nZZLFc > .vci, :root a[href^=3D"https:/=
+/financeads.net/tc.php?"], :root #ssmiwdiv[jsdisplay], :root a[href*=3D".ad=
+form.net/"], :root a[href^=3D"http://duckcash.eu/"], :root a[href^=3D"http:=
+//www.mobileandinternetadvertising.com/"], :root a[href*=3D"ultrabit.ws"], =
+:root a[href^=3D"http://join3.bannedsextapes.com/track/"], :root a[data-wid=
+get-outbrain-redirect^=3D"http://paid.outbrain.com/network/redir?"], :root =
+.GB3L-QEDGY .GB3L-QEDF- > .GB3L-QEDE-, :root a[data-url^=3D"http://paid.out=
+brain.com/network/redir?"] + .author, :root [href^=3D"https://www.reimagepl=
+us.com/"], :root a[href*=3D"lifenews24x7.ru"], :root .base-page_container >=
+ .banerRight, :root div[id^=3D"cns_ads_"], :root a[data-obtrack^=3D"http://=
+paid.outbrain.com/network/redir?"], :root a[href^=3D"http://www.getyourguid=
+e.com/?partner_id=3D"], :root [onclick^=3D"window.open('https://www.brazzer=
+snetwork.com/landing/"], :root #resultspanel > #topads, :root a[href^=3D"ht=
+tp://admrotate.iplayer.org/"], :root a[href^=3D"http://espn.zlbu.net/"], :r=
+oot a[href^=3D"https://vod09197d7.club/"], :root [href^=3D"/admdownload.php=
+"], :root [onclick^=3D"window.open('window.open('//delivery.trafficfabrik.c=
+om/"], :root a[href^=3D"https://keep2share.cc/pr/"], :root div[class^=3D"mi=
+xadvert"], :root [id*=3D"MarketGid"], :root iframe[id^=3D"marketgid_"], :ro=
+ot a[onclick*=3D"n284adserv.com"], :root a[href^=3D"https://scurewall.co/"]=
+, :root .commercial-unit-desktop-rhs > .iKidV > .Ee92ae + .P2mpm + .hp3sk, =
+:root a[href*=3D"goext.info"], :root div[class*=3D"_browserAdOuterContainer=
+_"], :root [name^=3D"google_ads_iframe"], :root a[href*=3D"tdstrk.ru"], :ro=
+ot a[data-oburl^=3D"http://paid.outbrain.com/network/redir?"], :root a[href=
+^=3D"http://refpa.top/"], :root a[href*=3D"//bongacams.com/track?"], :root =
+a[href^=3D"https://servedbyadbutler.com/"], :root a[data-redirect^=3D"http:=
+//paid.outbrain.com/network/redir?"], :root a[href^=3D"https://explore.find=
+answersnow.net/"], :root [id^=3D"adframe_wrap_"], :root .mw > #rcnt > #cent=
+er_col > #taw > #tvcap > .c, :root a[href^=3D"https://playuhd.host/"], :roo=
+t [href^=3D"https://go.affiliatexe.com/"], :root a[href^=3D"http://mgid.com=
+/"], :root a[href*=3D".adsrv.eacdn.com/"] > img, :root a[href^=3D"http://td=
+s-2.ru"], :root [href*=3D"//etracking.pro"], :root a[href^=3D"http://www.fo=
+nts.com/BannerScript/"], :root a[href^=3D"http://c.ketads.com/"], :root a[h=
+ref^=3D"http://6kup12tgxx.com/"], :root a[href^=3D"http://www.roboform.com/=
+php/land.php"], :root a[href*=3D"nhebd.xyz"], :root a[href^=3D"http://onlin=
+e.ladbrokes.com/promoRedirect?"], :root a[href^=3D"//mob1ledev1ces.com/"], =
+:root a[href*=3D"kshop2.biz"], :root .ra[width=3D"30%"][align=3D"right"] + =
+table[width=3D"70%"][cellpadding=3D"0"], :root a[href^=3D"http://www.coiwqe=
+.site/"], :root iframe[id^=3D"google_ads_frame"], :root a[href^=3D"http://w=
+ww.bet365.com/"][href*=3D"affiliate=3D"], :root a[href^=3D"http://www.blueh=
+ost.com/track/"] > img, :root a[data-url^=3D"http://paid.outbrain.com/netwo=
+rk/redir?"], :root a[href^=3D"https://www.popads.net/users/"], :root a[href=
+^=3D"http://adultfriendfinder.com/p/register.cgi?pid=3D"], :root a[href*=3D=
+"a2g-secure.com"], :root [href^=3D"http://raboninco.com/"], :root .GFYY1SVD=
+2 > .GFYY1SVC2 > .GFYY1SVF5, :root [href^=3D"https://join3.bannedsextapes.c=
+om"], :root [href^=3D"https://bulletprofitsmartlink.com/"], :root a[href*=
+=3D"wow-partners.com/click.php"], :root [class^=3D"flat_"][class*=3D"_cross=
+"], :root a[href^=3D"http://www.pinkvisualpad.com/?revid=3D"], :root a[href=
+^=3D"https://www.oneclickroot.com/?tap_a=3D"] > img, :root dfp-ad, :root a[=
+href^=3D"//porngames.adult/?SID=3D"], :root a[href*=3D"//refpabjgth.top/"],=
+ :root a[href^=3D"https://www.friendlyduck.com/AF_"], :root [href^=3D"http:=
+//advertisesimple.info/"], :root a[href^=3D"http://secure.hostgator.com/~af=
+filiat/"], :root a[href*=3D".braun634.com/"], :root [onclick^=3D"window.ope=
+n('http://adultfriendfinder.com/search/"], :root [href*=3D".revrtb.com/"], =
+:root .mod > .gws-local-promotions__border, :root .icons-rss-feed + .icons-=
+rss-feed div[class$=3D"_item"], :root a[data-oburl^=3D"https://paid.outbrai=
+n.com/network/redir?"], :root a[href*=3D"://topclicks.club/"], :root a[href=
+^=3D"http://affiliates.score-affiliates.com/"], :root div[id^=3D"admixer_"]=
+, :root [href^=3D"/ucdownload.php"], :root a[href^=3D"http://allaptair.club=
+/"], :root a[href^=3D"http://affiliates.pinnaclesports.com/processing/"], :=
+root #header + #content > #left > #rlblock_left, :root a[href^=3D"http://pa=
+rtners.etoro.com/"], :root [id^=3D"google_ads_iframe"], :root [href*=3D"cad=
+secs.com/"], :root a[href^=3D"http://adserving.unibet.com/"], :root [href*=
+=3D"//trackout.business"], :root #rhs_block .mod > .luhb-div > div[data-asy=
+nc-type=3D"updateHotelBookingModule"], :root a[href^=3D"http://adclick.g.do=
+ubleclick.net/"], :root [href*=3D"//mclick.net"], :root a[href*=3D"katuhus.=
+com"], :root a[data-href*=3D"recreativ.ru"], :root [href^=3D"https://refpah=
+rwzjlv.top/"], :root a[href^=3D"http://czotra-32.com/"], :root a[href*=3D"b=
+rowser-ru.site"], :root div[role=3D"navigation"] + c-wiz > div > .kxhcC, :r=
+oot a[href^=3D"http://www.download-provider.org/"], :root a[href*=3D".qerte=
+wrt.com/"], :root [href*=3D"//doubleclick-net.com"], :root a[href^=3D"http:=
+//deloplen.com/afu.php?zoneid=3D"], :root a[href^=3D"http://putanapartners.=
+com/go."], :root [id*=3D"ScriptRoot"], :root [href*=3D".xiloy.site/"], :roo=
+t [src^=3D"http://api.lanistaads.com/ServeAd?"], :root a[href^=3D"http://we=
+btrackerplus.com/"], :root a[href^=3D"https://ad13.adfarm1.adition.com/"], =
+:root a[href^=3D"http://clickandjoinyourgirl.com/"], :root [href*=3D".track=
+out.business"], :root a[href*=3D".xromp.com/landing/click/"], :root #center=
+_col > #res > #topstuff + #search > div > #ires > #rso > #flun, :root [href=
+*=3D".jetx.info/"], :root div[id^=3D"beroll_rotator"], :root #center_col > =
+#taw > #tvcap > .rscontainer, :root [href*=3D".securesafemembers.com"], :ro=
+ot a[href^=3D"https://a.bestcontentfood.top/"], :root .commercial-unit-mobi=
+le-top .jackpot-main-content-container > .UpgKEd + .nZZLFc > div > .vci, :r=
+oot a[href*=3D"delivery.trafficfabrik.com"], :root #ads > .dose > .dosesing=
+le, :root [data-link*=3D"/sb/clk/"], :root .header-banner > #moneyback[targ=
+et=3D"_blank"], :root [href*=3D".grtya.com/"], :root .gbfwa > div[class$=3D=
+"_item"], :root a[href^=3D"https://goraps.com/"], :root div[id^=3D"gnezdo_r=
+u_"], :root [href*=3D".etracking.pro"], :root #main-content > [style=3D"pad=
+ding:10px 0 0 0 !important;"], :root #center_col > #resultStats + div[style=
+=3D"border:1px solid #dedede;margin-bottom:11px;padding:5px 7px 5px 6px"], =
+:root a[href^=3D"https://www.oboom.com/ad/"], :root [href*=3D".adcampo.com/=
+"], :root [data-ad-module], :root a[href^=3D"http://get.slickvpn.com/"], :r=
+oot a[href^=3D"https://track.themadtrcker.com/"], :root a[href^=3D"http://h=
+yperlinksecure.com/go/"], :root a[href^=3D"http://xads.zedo.com/"], :root a=
+[href^=3D"http://www.affiliates1128.com/processing/"], :root a[href^=3D"htt=
+p://c.jumia.io/"], :root [class^=3D"div-gpt-ad"], :root [href*=3D".go2page.=
+net"], :root a[href^=3D"http://hd-plugins.com/download/"], :root a[href^=3D=
+"//voyeurhit.com/cs/"], :root [href*=3D"/uni-tds.com/"], :root a[href^=3D"h=
+ttp://www.afgr3.com/"], :root [ad-id^=3D"googlead"], :root .ra[align=3D"lef=
+t"][width=3D"30%"], :root a[href^=3D"https://trackjs.com/?utm_source"], :ro=
+ot a[href^=3D"https://relap.io/"][href*=3D"promo_ad_link"], :root afs-ad, :=
+root [id^=3D"ad-wrap-"], :root #center_col > #_Emc, :root .content_rb[id^=
+=3D"content_rb_"], :root a[href^=3D"http://ads2.williamhill.com/redirect.as=
+px?"], :root ad-triple-box, :root #center_col > div[style=3D"font-size:14px=
+;margin-right:0;min-height:5px"] > div[style=3D"font-size:14px;margin:0 4px=
+;padding:1px 5px;background:#fff8e7"], :root a[href*=3D".trck5.com/"], :roo=
+t .trc_rbox_div .syndicatedItem, :root a[href^=3D"http://www.streamate.com/=
+exports/"], :root [data-href^=3D"https://download.cdn.yandex.net/yandex-tag=
+/weboffer/"], :root [href*=3D"maskip.co/"], :root a[href^=3D"http://aflrm.c=
+om/"], :root div[id^=3D"google_dfp_"], :root [href*=3D"get-download.club/"]=
+, :root .section-result[data-result-ad-type], :root a[href^=3D"https://synd=
+ication.exoclick.com/splash.php?"], :root #mn div[style=3D"position:relativ=
+e"] > #center_col > div > ._dPg, :root .rhsvw[style=3D"background-color:#ff=
+f;margin:0 0 14px;padding-bottom:1px;padding-top:1px;"], :root a[href*=3D"/=
+/bongacams5.com/track?"], :root fbs-ad, :root a[href^=3D"http://see-work.in=
+fo/"], :root .inlineNewsletterSubscription + .inlineNewsletterSubscription =
+div[class$=3D"_item"], :root a[href*=3D".orange2258.com/"], :root #taw > .m=
+ed + div > #tvcap > .mnr-c:not(.qs-ic) > .commercial-unit-mobile-top, :root=
+ .plista_widget_belowArticleRelaunch_item[data-type=3D"pet"], :root a[href*=
+=3D".clksite.com/"], :root a[href^=3D"http://www.webtrackerplus.com/"], :ro=
+ot .GJJKPX2N1 > .GJJKPX2M1 > .GJJKPX2P4, :root a[href*=3D".bang.com/"][href=
+*=3D"&aff=3D"], :root #topstuff > #tads, :root a[href*=3D".purple6401.com/"=
+], :root a[href^=3D"http://goldmoney.com/?gmrefcode=3D"], :root a[href^=3D"=
+http://papi.mynativeplatform.com:80/pub2/"], :root leaderboard-ad, :root #m=
+n #center_col > div > h2.spon:first-child + ol:last-child, :root #center_co=
+l > #taw > #tvcap > .commercial-unit-desktop-top, :root .plistaList > .plis=
+ta_widget_underArticle_item[data-type=3D"pet"], :root a[href^=3D"http://ser=
+vicegetbook.net/"], :root [lazy-ad=3D"lefttop_banner"], :root a[href*=3D"tv=
+kw.ru"], :root a[href*=3D"://etcodes.com/"], :root a[href^=3D"http://www.mr=
+skin.com/tour"], :root .jobs-information-call-to-action + .jobs-information=
+-call-to-action div[class$=3D"_item"], :root a[href*=3D"://lapina.best/"], =
+:root a[href^=3D"https://go.hpyjmp.com/"], :root .vi-lb-placeholder[title=
+=3D"ADVERTISEMENT"], :root a[href^=3D"http://www.menaon.com/installs/"], :r=
+oot a[href^=3D"http://taboola-"][href*=3D"/redirect.php?app.type=3D"], :roo=
+t .mw > #rcnt > #center_col > #taw > .c, :root a[href*=3D"/ber-ter.com"], :=
+root .commercial-unit-mobile-top > div[data-pla=3D"1"], :root #rhs_block > =
+script + .c._oc._Ve.rhsvw, :root #__mom_ad_12, :root a[href*=3D"//adretarge=
+t.net/"], :root .__zinit .__y_item, :root .ch[onclick=3D"ga(this,event)"], =
+:root img[width=3D"120"][height=3D"600"], :root .__ywl .__y_item, :root div=
+[id^=3D"div-ads-"], :root a[onmousedown^=3D"this.href=3D'https://paid.outbr=
+ain.com/network/redir?"][target=3D"_blank"] + .ob_source, :root a[href^=3D"=
+http://at.atwola.com/"], :root a[href*=3D"media-rotate.com"], :root #center=
+_col > #resultStats + #tads, :root .__yinit .__y_item, :root a[href^=3D"htt=
+ps://secure.cbdpure.com/aff/"], :root div[style*=3D"am15.net/img/player_ski=
+ns"], :root amp-ad, :root iframe[src*=3D"mellowads.com"], :root .__y_inner =
+> .__y_item, :root a[href^=3D"https://affiliate.geekbuying.com/gkbaffiliate=
+.php?"], :root #cnt #center_col > #res > #topstuff > .ts, :root a[href^=3D"=
+https://landing.brazzersnetwork.com/"], :root #cnt #center_col > #taw > #tv=
+cap > .c._oc._Lp, :root div[class^=3D"hp-ad-rect-"], :root a[href^=3D"http:=
+//dwn.pushtraffic.net/"], :root a[href$=3D"/vghd.shtml"], :root a[href^=3D"=
+https://a.adtng.com/"], :root a[href*=3D"://loderkkis.ru"], :root a[href^=
+=3D"http://static.fleshlight.com/images/banners/"], :root #rhswrapper > #rh=
+ssection[border=3D"0"][bgcolor=3D"#ffffff"], :root .Mpopup + #Mad > #MadZon=
+e, :root a[href^=3D"http://ads.expekt.com/affiliates/"], :root a[href^=3D"h=
+ttp://www.streamtunerhd.com/signup?"], :root a[href^=3D"http://www.seekbang=
+.com/cs/"], :root a[href^=3D"http://syndication.exoclick.com/"], :root a[hr=
+ef^=3D"http://bluehost.com/track/"], :root a[href^=3D"http://fsoft4down.com=
+/"], :root a[href*=3D"ad2upapp.com/"], :root a[href*=3D"m1cpl.ru"], :root #=
+rhs_block > #mbEnd, :root a[href^=3D"https://www.adxtro.com/"], :root [href=
+*=3D".mclick.net"], :root iframe[src*=3D"trafic-media.ru"], :root #center_c=
+ol > #taw > #tvcap > .cu-container > .commercial-unit-desktop-top, :root a[=
+href*=3D"//promo-bc.com/track?"], :root a[href^=3D"https://sexsimulator.gam=
+e/tab/?SID=3D"], :root .rc-cta[data-target], :root #rhs_block > .ts[cellspa=
+cing=3D"0"][cellpadding=3D"0"][style=3D"padding:0"], :root a[href*=3D"://r.=
+advmusic.com/"], :root a[href*=3D"/clubleads.ru"], :root div[data-ad-underp=
+layer], :root #mbEnd[cellspacing=3D"0"][cellpadding=3D"0"], :root a[href^=
+=3D"http://www.ducksnetwork.com/"], :root a[href^=3D"http://3wr110.net/"], =
+:root a[href*=3D"verismediya.ru/sb/clk/"], :root .trc_rbox_div .syndicatedI=
+temUB, :root a[href^=3D"https://www.im88trk.com/"], :root a[href^=3D"http:/=
+/ffxitrack.com/"], :root #center_col > #main > .dfrd > .mnr-c > .c._oc._zs,=
+ :root a[href^=3D"https://squren.com/rotator/?atomid=3D"], :root #root > .a=
+pp .brand-widget__right-cl, :root div[id^=3D"adspot-"], :root #__admvnlb_mo=
+dal_container, :root a[href^=3D"//40ceexln7929.com/"], :root a[href*=3D"gpc=
+lick.ru"], :root #center_col > #resultStats + div + #res + #tads, :root a[h=
+ref^=3D"//88d7b6aa44fb8eb.com/"], :root a[href^=3D"http://www.afgr2.com/"],=
+ :root div[data-id^=3D"div-gpt-ad-"], :root a[href*=3D"//tekaners.com/"], :=
+root #mn div[style=3D"position:relative"] > #center_col > ._Ak, :root .l-co=
+ntainer > #fishtank, :root #tadsb[aria-label], :root a[href^=3D"http://luck=
+iestclick.com/goto."], :root a[href*=3D"//bongacams2.com/track?"], :root #c=
+enter_col > #resultStats + #tads + #res + #tads, :root a[href^=3D"//z6naous=
+b.com/"], :root a[href*=3D"/sarimsolus.com/"], :root a[href^=3D"https://rea=
+chtrgt.com/"], :root div[data-subscript=3D"Advertising"], :root div[class$=
+=3D"dealnews"] > .dealnews, :root a[href^=3D"http://t.mdn2015x2.com/"], :ro=
+ot div[class^=3D"Ad__container"], :root a[href^=3D"http://adprovider.adlure=
+.net/"], :root a[href^=3D"http://rs-stripe.wsj.com/stripe/redirect"], :root=
+ #main_col > #center_col div[style=3D"font-size:14px;margin:0 4px;padding:1=
+px 5px;background:#fff7ed"], :root a[data-nvp*=3D"'trafficUrl':'https://pai=
+d.outbrain.com/network/redir?"], :root [href^=3D"https://www.xvbelink.com/"=
+], :root a[href^=3D"http://www.sex.com/pics/?utm_"], :root a[href^=3D"http:=
+//vo2.qrlsx.com/"], :root a[href^=3D"http://engine.newsmaxfeednetwork.com/"=
+], :root a[href^=3D"http://ad.yieldmanager.com/"], :root [href*=3D"://simpa=
+lsid.com/ad/click?id"], :root a[href^=3D"http://www.plus500.com/?id=3D"], :=
+root #adv_unisound ~ #ad_module_cont > [id^=3D"ad_module"], :root #flowplay=
+er > div[style=3D"z-index: 208; position: absolute; width: 300px; height: 2=
+75px; left: 222.5px; top: 85px;"], :root a[href^=3D"https://syndication.dyn=
+srvtbg.com/splash.php?"] { display: none !important; }
+------MultipartBoundary--Dj6lkfPR1JvBOSOFsHijyUvVKhS48Rf6Zik4zbzm0h----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: https://translate.googleapis.com/translate_static/css/translateelement.css
+
+@charset "utf-8";
+
+.goog-te-banner-frame { left: 0px; top: 0px; height: 39px; width: 100%; z-i=
+ndex: 10000001; position: fixed; border-top: none; border-right: none; bord=
+er-left: none; border-image: initial; border-bottom: 1px solid rgb(107, 144=
+, 218); margin: 0px; box-shadow: rgb(153, 153, 153) 0px 0px 8px 1px; }
+
+.goog-te-menu-frame { z-index: 10000002; position: fixed; border: none; box=
+-shadow: rgb(153, 153, 153) 0px 3px 8px 2px; }
+
+.goog-te-ftab-frame { z-index: 10000000; border: none; margin: 0px; }
+
+.goog-te-gadget { font-family: arial; font-size: 11px; color: rgb(102, 102,=
+ 102); white-space: nowrap; }
+
+.goog-te-gadget img { vertical-align: middle; border: none; }
+
+.goog-te-gadget-simple { background-color: rgb(255, 255, 255); border-width=
+: 1px; border-style: solid; border-color: rgb(155, 155, 155) rgb(213, 213, =
+213) rgb(232, 232, 232); font-size: 10pt; display: inline-block; padding-to=
+p: 1px; padding-bottom: 2px; cursor: pointer; zoom: 1; }
+
+.goog-te-gadget-icon { margin-left: 2px; margin-right: 2px; width: 19px; he=
+ight: 19px; border: none; vertical-align: middle; }
+
+.goog-te-combo { margin-left: 4px; margin-right: 4px; vertical-align: basel=
+ine; }
+
+.goog-te-gadget .goog-te-combo { margin: 4px 0px; }
+
+.goog-logo-link, .goog-logo-link:link, .goog-logo-link:visited, .goog-logo-=
+link:hover, .goog-logo-link:active { font-size: 12px; font-weight: bold; co=
+lor: rgb(68, 68, 68); text-decoration: none; }
+
+.goog-te-banner .goog-logo-link, .goog-close-link { display: block; margin:=
+ 0px 10px; }
+
+.goog-te-banner .goog-logo-link { padding-top: 2px; padding-left: 4px; }
+
+.goog-te-combo, .goog-te-banner *, .goog-te-ftab *, .goog-te-menu *, .goog-=
+te-menu2 *, .goog-te-balloon * { font-family: arial; font-size: 10pt; }
+
+.goog-te-banner { margin: 0px; background-color: rgb(228, 239, 251); overfl=
+ow: hidden; }
+
+.goog-te-banner img { border: none; }
+
+.goog-te-banner-content { color: rgb(0, 0, 0); }
+
+.goog-te-banner-content img { vertical-align: middle; }
+
+.goog-te-banner-info { color: rgb(102, 102, 102); vertical-align: top; marg=
+in-top: 0px; font-size: 7pt; }
+
+.goog-te-banner-margin { width: 8px; }
+
+.goog-te-button { border-color: rgb(231, 231, 231); border-style: none soli=
+d solid none; border-width: 0px 1px 1px 0px; }
+
+.goog-te-button div { border-color: rgb(204, 204, 204) rgb(153, 153, 153) r=
+gb(153, 153, 153) rgb(204, 204, 204); border-style: solid; border-width: 1p=
+x; height: 20px; }
+
+.goog-te-button button { background: transparent; border: none; cursor: poi=
+nter; height: 20px; overflow: hidden; margin: 0px; vertical-align: top; whi=
+te-space: nowrap; }
+
+.goog-te-button button:active { background: none 0px 0px repeat scroll rgb(=
+204, 204, 204); }
+
+.goog-te-ftab { margin: 0px; background-color: rgb(255, 255, 255); white-sp=
+ace: nowrap; }
+
+.goog-te-ftab-link { text-decoration: none; font-weight: bold; font-size: 1=
+0pt; border: 1px outset rgb(136, 136, 136); padding: 6px 10px; white-space:=
+ nowrap; position: absolute; left: 0px; top: 0px; }
+
+.goog-te-ftab-link img { margin-left: 2px; margin-right: 2px; width: 19px; =
+height: 19px; border: none; vertical-align: middle; }
+
+.goog-te-ftab-link span { text-decoration: underline; margin-left: 2px; mar=
+gin-right: 2px; vertical-align: middle; }
+
+.goog-float-top .goog-te-ftab-link { padding: 2px; border-top-width: 0px; }
+
+.goog-float-bottom .goog-te-ftab-link { padding: 2px; border-bottom-width: =
+0px; }
+
+.goog-te-menu-value { text-decoration: none; color: rgb(0, 0, 204); white-s=
+pace: nowrap; margin-left: 4px; margin-right: 4px; }
+
+.goog-te-menu-value span { text-decoration: underline; }
+
+.goog-te-menu-value img { margin-left: 2px; margin-right: 2px; }
+
+.goog-te-gadget-simple .goog-te-menu-value { color: rgb(0, 0, 0); }
+
+.goog-te-gadget-simple .goog-te-menu-value span { text-decoration: none; }
+
+.goog-te-menu { background-color: rgb(255, 255, 255); text-decoration: none=
+; border: 2px solid rgb(195, 217, 255); overflow: hidden scroll; position: =
+absolute; left: 0px; top: 0px; }
+
+.goog-te-menu-item { padding: 3px; text-decoration: none; }
+
+.goog-te-menu-item, .goog-te-menu-item:link { color: rgb(0, 0, 204); backgr=
+ound: rgb(255, 255, 255); }
+
+.goog-te-menu-item:visited { color: rgb(85, 26, 139); }
+
+.goog-te-menu-item:hover { background: rgb(195, 217, 255); }
+
+.goog-te-menu-item:active { color: rgb(0, 0, 204); }
+
+.goog-te-menu2 { background-color: rgb(255, 255, 255); text-decoration: non=
+e; border: 1px solid rgb(107, 144, 218); overflow: hidden; padding: 4px; }
+
+.goog-te-menu2-colpad { width: 16px; }
+
+.goog-te-menu2-separator { margin: 6px 0px; height: 1px; background-color: =
+rgb(170, 170, 170); overflow: hidden; }
+
+.goog-te-menu2-item div, .goog-te-menu2-item-selected div { padding: 4px; }
+
+.goog-te-menu2-item .indicator { display: none; }
+
+.goog-te-menu2-item-selected .indicator { }
+
+.goog-te-menu2-item-selected .text { padding-left: 4px; padding-right: 4px;=
+ }
+
+.goog-te-menu2-item, .goog-te-menu2-item-selected { text-decoration: none; =
+}
+
+.goog-te-menu2-item div, .goog-te-menu2-item:link div, .goog-te-menu2-item:=
+visited div, .goog-te-menu2-item:active div { color: rgb(0, 0, 204); backgr=
+ound: rgb(255, 255, 255); }
+
+.goog-te-menu2-item:hover div { color: rgb(255, 255, 255); background: rgb(=
+51, 102, 204); }
+
+.goog-te-menu2-item-selected div, .goog-te-menu2-item-selected:link div, .g=
+oog-te-menu2-item-selected:visited div, .goog-te-menu2-item-selected:hover =
+div, .goog-te-menu2-item-selected:active div { color: rgb(0, 0, 0); font-we=
+ight: bold; }
+
+.goog-te-balloon { background-color: rgb(255, 255, 255); overflow: hidden; =
+padding: 8px; border: none; border-radius: 10px; }
+
+.goog-te-balloon-frame { background-color: rgb(255, 255, 255); border: 1px =
+solid rgb(107, 144, 218); box-shadow: rgb(153, 153, 153) 0px 3px 8px 2px; b=
+order-radius: 8px; }
+
+.goog-te-balloon img { border: none; }
+
+.goog-te-balloon-text { margin-top: 6px; }
+
+.goog-te-balloon-zippy { margin-top: 6px; white-space: nowrap; }
+
+.goog-te-balloon-zippy * { vertical-align: middle; }
+
+.goog-te-balloon-zippy .minus { background-image: url("//www.google.com/ima=
+ges/zippy_minus_sm.gif"); }
+
+.goog-te-balloon-zippy .plus { background-image: url("//www.google.com/imag=
+es/zippy_plus_sm.gif"); }
+
+.goog-te-balloon-zippy span { color: rgb(0, 0, 204); text-decoration: under=
+line; cursor: pointer; margin: 0px 4px; }
+
+.goog-te-balloon-form { margin: 6px 0px 0px; }
+
+.goog-te-balloon-form form { margin: 0px; }
+
+.goog-te-balloon-form form textarea { margin-bottom: 4px; width: 100%; }
+
+.goog-te-balloon-footer { margin: 6px 0px 4px; }
+
+.goog-te-spinner-pos { z-index: 1000; position: fixed; transition-delay: 0.=
+6s; left: -1000px; top: -1000px; }
+
+.goog-te-spinner-animation { display: flex; align-items: center; justify-co=
+ntent: center; width: 104px; height: 104px; border-radius: 50px; background=
+: url("//www.gstatic.com/images/branding/product/2x/translate_24dp.png") 50=
+% 50% no-repeat rgb(255, 255, 255); transition: all 0.6s ease-in-out 0s; tr=
+ansform: scale(0.4); opacity: 0; }
+
+.goog-te-spinner-animation-show { transform: scale(0.5); opacity: 1; }
+
+.goog-te-spinner { margin: 2px 0px 0px 2px; animation: 1.4s linear 0s infin=
+ite normal none running goog-te-spinner-rotator; }
+
+@keyframes goog-te-spinner-rotator {=20
+  0% { transform: rotate(0deg); }
+  100% { transform: rotate(270deg); }
+}
+
+.goog-te-spinner-path { stroke-dasharray: 187; stroke-dashoffset: 0; stroke=
+: rgb(66, 133, 244); transform-origin: center center; animation: 1.4s ease-=
+in-out 0s infinite normal none running goog-te-spinner-dash; }
+
+@keyframes goog-te-spinner-dash {=20
+  0% { stroke-dashoffset: 187; }
+  50% { stroke-dashoffset: 46.75; transform: rotate(135deg); }
+  100% { stroke-dashoffset: 187; transform: rotate(450deg); }
+}
+
+#goog-gt-tt html, #goog-gt-tt body, #goog-gt-tt div, #goog-gt-tt span, #goo=
+g-gt-tt iframe, #goog-gt-tt h1, #goog-gt-tt h2, #goog-gt-tt h3, #goog-gt-tt=
+ h4, #goog-gt-tt h5, #goog-gt-tt h6, #goog-gt-tt p, #goog-gt-tt a, #goog-gt=
+-tt img, #goog-gt-tt ol, #goog-gt-tt ul, #goog-gt-tt li, #goog-gt-tt table,=
+ #goog-gt-tt form, #goog-gt-tt tbody, #goog-gt-tt tr, #goog-gt-tt td { marg=
+in: 0px; padding: 0px; border: 0px; font-style: inherit; font-variant: inhe=
+rit; font-weight: inherit; font-stretch: inherit; font-size: inherit; font-=
+family: inherit; vertical-align: baseline; text-align: left; line-height: n=
+ormal; }
+
+#goog-gt-tt ol, #goog-gt-tt ul { list-style: none; }
+
+#goog-gt-tt table { border-collapse: collapse; border-spacing: 0px; }
+
+#goog-gt-tt caption, #goog-gt-tt th, #goog-gt-tt td { text-align: left; fon=
+t-weight: normal; }
+
+div#goog-gt-tt { padding: 10px 14px; }
+
+#goog-gt-tt { color: rgb(34, 34, 34); background-color: rgb(255, 255, 255);=
+ border: 1px solid rgb(238, 238, 238); box-shadow: rgba(0, 0, 0, 0.2) 0px 4=
+px 16px; display: none; font-family: arial; font-size: 10pt; width: 420px; =
+padding: 12px; position: absolute; z-index: 10000; }
+
+#goog-gt-tt .original-text, .gt-hl-layer { clear: both; font-size: 10pt; po=
+sition: relative; text-align: justify; width: 100%; }
+
+#goog-gt-tt .title { color: rgb(153, 153, 153); font-family: arial, sans-se=
+rif; margin: 4px 0px; text-align: left; }
+
+#goog-gt-tt .close-button { display: none; }
+
+#goog-gt-tt .logo { float: left; margin: 0px; }
+
+#goog-gt-tt .activity-links { display: inline-block; }
+
+#goog-gt-tt .started-activity-container { display: none; width: 100%; }
+
+#goog-gt-tt .activity-root { margin-top: 20px; }
+
+#goog-gt-tt .left { float: left; }
+
+#goog-gt-tt .right { float: right; }
+
+#goog-gt-tt .bottom { min-height: 15px; position: relative; height: 1%; }
+
+#goog-gt-tt .status-message { background: rgb(41, 145, 13); border-radius: =
+4px; box-shadow: rgb(30, 102, 9) 0px 2px 2px inset; color: white; font-size=
+: 9pt; font-weight: bolder; margin-top: 12px; padding: 6px; text-shadow: rg=
+b(30, 102, 9) 1px 1px 1px; }
+
+#goog-gt-tt .activity-link { color: rgb(17, 85, 204); cursor: pointer; font=
+-family: arial; font-size: 11px; margin-right: 15px; text-decoration: none;=
+ }
+
+#goog-gt-tt textarea { font-family: arial; resize: vertical; width: 100%; m=
+argin-bottom: 10px; border-radius: 1px; border-width: 1px; border-style: so=
+lid; border-color: silver rgb(217, 217, 217) rgb(217, 217, 217); border-ima=
+ge: initial; font-size: 13px; height: auto; overflow-y: auto; padding: 1px;=
+ }
+
+#goog-gt-tt textarea:focus { box-shadow: rgba(0, 0, 0, 0.3) 0px 1px 2px ins=
+et; border: 1px solid rgb(77, 144, 254); outline: none; }
+
+#goog-gt-tt .activity-cancel { margin-right: 10px; }
+
+#goog-gt-tt .translate-form { min-height: 25px; vertical-align: middle; pad=
+ding-top: 8px; }
+
+#goog-gt-tt .translate-form .activity-form { margin-bottom: 0px; }
+
+#goog-gt-tt .translate-form .activity-form input { display: inline-block; m=
+in-width: 54px; border: 1px solid rgba(0, 0, 0, 0.1); text-align: center; c=
+olor: rgb(68, 68, 68); font-size: 11px; font-weight: bold; height: 27px; ou=
+tline: 0px; padding: 0px 8px; vertical-align: middle; line-height: 27px; ma=
+rgin: 0px 16px 0px 0px; box-shadow: rgba(0, 0, 0, 0.1) 0px 1px 2px; border-=
+radius: 2px; transition: all 0.218s ease 0s; background-color: rgb(245, 245=
+, 245); background-image: -webkit-linear-gradient(top, rgb(245, 245, 245), =
+rgb(241, 241, 241)); user-select: none; cursor: default; }
+
+#goog-gt-tt .translate-form .activity-form input:hover { border: 1px solid =
+rgb(198, 198, 198); color: rgb(34, 34, 34); transition: all 0s ease 0s; bac=
+kground-color: rgb(248, 248, 248); background-image: -webkit-linear-gradien=
+t(top, rgb(248, 248, 248), rgb(241, 241, 241)); }
+
+#goog-gt-tt .translate-form .activity-form input:active { border: 1px solid=
+ rgb(198, 198, 198); color: rgb(51, 51, 51); background-color: rgb(246, 246=
+, 246); background-image: -webkit-linear-gradient(top, rgb(246, 246, 246), =
+rgb(241, 241, 241)); }
+
+#goog-gt-tt .translate-form .activity-form input:focus, #goog-gt-tt .transl=
+ate-form .activity-form input.focus { outline: none; border: 1px solid rgb(=
+77, 144, 254); z-index: 4 !important; }
+
+#goog-gt-tt .translate-form .activity-form input.selected { background-colo=
+r: rgb(238, 238, 238); background-image: -webkit-linear-gradient(top, rgb(2=
+38, 238, 238), rgb(224, 224, 224)); box-shadow: rgba(0, 0, 0, 0.1) 0px 1px =
+2px inset; border: 1px solid rgb(204, 204, 204); color: rgb(51, 51, 51); }
+
+#goog-gt-tt .translate-form .activity-form input.activity-submit { color: w=
+hite; border-color: rgb(48, 121, 237); background-color: rgb(77, 144, 254);=
+ background-image: -webkit-linear-gradient(top, rgb(77, 144, 254), rgb(71, =
+135, 237)); }
+
+#goog-gt-tt .translate-form .activity-form input.activity-submit:hover #goo=
+g-gt-tt .translate-form .activity-form input.activity-submit:focus, #goog-g=
+t-tt .translate-form .activity-form input.activity-submit.focus #goog-gt-tt=
+ .translate-form .activity-form input.activity-submit:active { border-color=
+: rgb(48, 121, 237); background-color: rgb(53, 122, 232); background-image:=
+ -webkit-linear-gradient(top, rgb(77, 144, 254), rgb(53, 122, 232)); }
+
+#goog-gt-tt .translate-form .activity-form input.activity-submit:hover { bo=
+x-shadow: rgb(255, 255, 255) 0px 0px 0px 1px inset, rgba(0, 0, 0, 0.1) 0px =
+1px 1px; }
+
+#goog-gt-tt .translate-form .activity-form input:focus, #goog-gt-tt .transl=
+ate-form .activity-form input.focus, #goog-gt-tt .translate-form .activity-=
+form input:active, #goog-gt-tt .translate-form .activity-form input:hover, =
+#goog-gt-tt .translate-form .activity-form input.activity-submit:focus, #go=
+og-gt-tt .translate-form .activity-form input.activity-submit.focus, #goog-=
+gt-tt .translate-form .activity-form input.activity-submit:active, #goog-gt=
+-tt .translate-form .activity-form input.activity-submit:hover { border-col=
+or: rgb(48, 121, 237); }
+
+#goog-gt-tt .gray { color: rgb(153, 153, 153); font-family: arial, sans-ser=
+if; }
+
+#goog-gt-tt .alt-helper-text { color: rgb(153, 153, 153); font-size: 11px; =
+font-family: arial, sans-serif; margin: 15px 0px 5px; }
+
+#goog-gt-tt .alt-error-text { color: rgb(136, 0, 0); display: none; font-si=
+ze: 9pt; }
+
+.goog-text-highlight { background-color: rgb(201, 215, 241); box-shadow: rg=
+b(153, 153, 170) 2px 2px 4px; box-sizing: border-box; position: relative; }
+
+#goog-gt-tt .alt-menu.goog-menu { background: rgb(255, 255, 255); border: 1=
+px solid rgb(221, 221, 221); box-shadow: rgb(153, 153, 170) 0px 2px 4px; mi=
+n-width: 0px; outline: none; padding: 0px; position: absolute; z-index: 200=
+0; }
+
+#goog-gt-tt .alt-menu .goog-menuitem { cursor: pointer; padding: 2px 5px 5p=
+x; margin-right: 0px; border-style: none; }
+
+#goog-gt-tt .alt-menu div.goog-menuitem:hover { background: rgb(221, 221, 2=
+21); }
+
+#goog-gt-tt .alt-menu .goog-menuitem h1 { font-size: 100%; font-weight: bol=
+d; margin: 4px 0px; }
+
+#goog-gt-tt .alt-menu .goog-menuitem strong { color: rgb(52, 90, 173); }
+
+#goog-gt-tt .goog-submenu-arrow { text-align: right; position: absolute; ri=
+ght: 0px; left: auto; }
+
+#goog-gt-tt .goog-menuitem-rtl .goog-submenu-arrow { text-align: left; posi=
+tion: absolute; left: 0px; right: auto; }
+
+#goog-gt-tt .gt-hl-text, #goog-gt-tt .trans-target-highlight { background-c=
+olor: rgb(241, 234, 0); border-radius: 4px; box-shadow: rgba(0, 0, 0, 0.5) =
+3px 3px 4px; box-sizing: border-box; color: rgb(241, 234, 0); cursor: point=
+er; margin: -2px -2px -2px -3px; padding: 2px 2px 2px 3px; position: relati=
+ve; }
+
+#goog-gt-tt .trans-target-highlight { color: rgb(34, 34, 34); }
+
+#goog-gt-tt .gt-hl-layer { color: white; position: absolute !important; }
+
+#goog-gt-tt .trans-target, #goog-gt-tt .trans-target .trans-target-highligh=
+t { background-color: rgb(201, 215, 241); border-radius: 4px 4px 0px 0px; b=
+ox-shadow: rgba(0, 0, 0, 0.5) 3px 3px 4px; box-sizing: border-box; cursor: =
+pointer; margin: -2px -2px -2px -3px; padding: 2px 2px 3px 3px; position: r=
+elative; }
+
+#goog-gt-tt span:focus { outline: none; }
+
+#goog-gt-tt .trans-edit { background-color: transparent; border: 1px solid =
+rgb(77, 144, 254); border-radius: 0em; margin: -2px; padding: 1px; }
+
+#goog-gt-tt .gt-trans-highlight-l { border-left: 2px solid red; margin-left=
+: -2px; }
+
+#goog-gt-tt .gt-trans-highlight-r { border-right: 2px solid red; margin-rig=
+ht: -2px; }
+
+#goog-gt-tt #alt-input { padding: 2px; }
+
+#goog-gt-tt #alt-input-text { font-size: 11px; padding: 2px 2px 3px; margin=
+: 0px; background-color: rgb(255, 255, 255); color: rgb(51, 51, 51); border=
+-width: 1px; border-style: solid; border-color: rgb(192, 192, 192) rgb(217,=
+ 217, 217) rgb(217, 217, 217); border-image: initial; display: inline-block=
+; vertical-align: top; height: 21px; box-sizing: border-box; border-radius:=
+ 1px; }
+
+#goog-gt-tt #alt-input-text:hover { border-width: 1px; border-style: solid;=
+ border-color: rgb(160, 160, 160) rgb(185, 185, 185) rgb(185, 185, 185); bo=
+rder-image: initial; box-shadow: rgba(0, 0, 0, 0.1) 0px 1px 2px inset; }
+
+#goog-gt-tt #alt-input-text:focus { box-shadow: rgba(0, 0, 0, 0.3) 0px 1px =
+2px inset; outline: none; border: 1px solid rgb(77, 144, 254); }
+
+#goog-gt-tt #alt-input-submit { font-size: 11px; padding: 2px 6px 3px; marg=
+in: 0px 0px 0px 2px; height: 21px; }
+------MultipartBoundary--Dj6lkfPR1JvBOSOFsHijyUvVKhS48Rf6Zik4zbzm0h----
+Content-Type: image/png
+Content-Transfer-Encoding: base64
+Content-Location: https://www.gstatic.com/images/branding/product/2x/translate_24dp.png
+
+iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAYAAABXAvmHAAAG/klEQVR4Ae2Y1XMjSR6Ee5+P8d9Z
+Zt6BQ/tMy8xoHDDbO8zMzIxmGIvZzDAkGM9zXuVJ1VaHSlZUXMiHivjUNegvq/InaOPf5fH/B4BH
+8teF8xc1RieWrHqIJT/OsTjBogRvNKbyekOc1xK8t3bmpwIj25iL3DV38ykuWawSlySLJ5DiryZ4
+uWLoDYGRbczFoob4zkus8uoAr88T4MUV000CI9uYi8y7rxGA1D/E30odvxQY2cRcSGGFfIYAFFcH
+eOGHvqUCI5uYC1359P2XARamRuZCJa5fH2uAhaiRuVCLq+Uz12eOF78fXCIwsoW5SC8u5fV3/xVB
+/rr7sNl7MTAwhvGJKUxNTWF6eppXk8nJSZCJiYkUxsfHTcbGxiaHhkb/JDAk5kKK6surd18GIEcu
+uOEPDAoJCk9jZmaGISSWIFbUoXp7+/8sMIghF2pxDXnF7kuW7RlEe4cTff3DQsoSgOLaAYaHh8cE
+BjHkwiqrls/fNIv9zTF4hyK4czeMu/fC8Iv1/pYY8jbOKnef5K65g+YWO+x2L0bHJiiuF0CNQQy5
+mE+cVJ9+gJm7EYTDYSXTd8IoO/IgRf7lOhKvUVe3G15vQHR5XDuAYi4MYsgFJVVI+ftJssGRCE53
+x4hYx0OFRsIoECf0qkKesEatbQ44XV4EAiGKLEwA1kbuPCvTcDZm6T3XdadjyF0/m3b3XxLkrJY1
+8sDnD4pB7KVEenn9AOoB3Sc6T3my7qKoiHpo08rLAOTIedbIBY/Hj2AwxBB8adTuvzIAZVVwYCk/
+PBVhOH15SXKNnPEahUIh9PX1MUR2AlCSrzYMcN0VTRFPN9CXHVGrPKmN16ip2Q6bLV6jYDBepcLi
+ahSVNWjURxEgpRqKAFI8U4Ab7miKvOTweZdZo0BgLkBBcQ1PQiH/TwbwDMYrNCIrlFSZ+jMxkw2X
+5mbleEcsbYDXv7+Gv35RjdxvKpH/fRUKfiDVRASpwZvl9XirolFc5ygqb8gcgFIq9jbNia2/9ED2
+PKXzm6/M/b3Kkw+U8i8KXl4xghwRIO8bIV5M6SoUltSgiJSKAGW1DGGRJ1JeOwBfHqdvh82X0VXn
++UpkHVYKy6qNTIbxRuOsUl5y+JwLnV0uuN0+s0aEA01qtuwVM1GP01ebKU40Aih2eMVx6xtZ72gE
+Z29FcaY7Cv+w9d15mfi788m/UDOLit2DaGm1ocfmgs8XsASwu9ziJOrESdQh0NunklcHsEqrQ0zF
+T0LJbXECDWdiUjqtPPnLqjv4tnY7cr+qxKpdh/lqZAZYs/sQONCNOw5iYGCAg60bwNJtC39dN4vd
+N2NwD0SEcPwDnU+cwMGWKAo3P8woL3lesPlQO3K+qkb+d1W40dYJBmjq6AYHmSfQbXOgv78fg4OD
+GB0dzRxASmbiJRW1evKkfPcAqtcfQM7XK/FF9XrYnW58UbMWfDXacvAk5QlPgVhD6AZ4KT0q8Qzy
+hDW6i6vXu/HJ8jXIEy+n75TXIV/If12/AcFQSAaQISwnwVoJDGLIhVVMT1pLXlI9i0PnXDh3pRV5
+31UL+HJai+4eO2eB4rxaAgwNDTGEfgAprS+eXp6U7uhHaeMOUaNKMEDeD1ViqA9yHtIGICMjI8Qg
+hlyo5fTEdeTJq5Xj+OOnlSj8rhb7Tl7A26yRCPHjzoMIhXrTBZAYxJALfWldcSvPJfjTV1tw8lwT
++NnoekunCFEPzkLD9gMMoR9AKashriNPvtjoR2ubHY7ER+zrrR1ioBvAELXb9rNOMoBEHcAqpi8t
+xXXkn60SJ9B4F03NNvMjNr8j3BAh3q6oB2eiZts+eQrzB3huZXhKV1hf3CovOXjWiY5OZ/I3NRGi
+E2+V1WHn0TMyAEkf4IWVkzlqQQ1pUq0n/4ygdOcAWlrtcLp8rJHlc5EcZJI2gOSp7waKnll+d+r5
+qghUPDcflak8Wxm28MxKK08n+GP9NJpbHLDZPZYA8koyB8gCXxZfW/74aydBHnv1hJVXErx8Al9X
+XEJruwMOh1d+vLbwLwvwzufHfv/EorOw8EYSr59F8Ypr4KtQ9y1+zQxwBjjIFOdVFUBiED5llbwP
+L915cul5/IMlSSw+j5LqG2jvcKC7xwWXywufjwGCFCeqAGRhA5RUNRU/JYQtCPmyqhtoa7ehu5vV
+4S1HP+tDaYZQBSALH+Cbb6785qklFyB5ctF5lFZx5+24dcsJynu8Pvj9AYoTVQCy8AEkeR9dvsPK
+UL4kaeftdhfcHlaHux8glM9UI57UpMAgfMo63y2/Vix3vrWtB11ddlDe5faI6vhEAJ6APyUAr6oA
+Fy935AsMwqeswxqVVF5BU1MnWlu7RIAe2OzsvhMuF+9OiBp5GMabQlI4/v2p8xfbCgzDeMT4/+Pf
+5PF339yL/IxXqK4AAAAASUVORK5CYII=
+
+------MultipartBoundary--Dj6lkfPR1JvBOSOFsHijyUvVKhS48Rf6Zik4zbzm0h----
+Content-Type: image/png
+Content-Transfer-Encoding: base64
+Content-Location: https://www.gstatic.com/images/branding/product/1x/translate_24dp.png
+
+iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAADAElEQVR4Ab2TA5djWRRGaxlj/51h
+27Zt23xltG3btrtj2zbHM9/c87LuvKCNumvtYrL3zTlJVaucIeuz/bs3pv/s1ZRHT0YPTmMe3Rnd
+GvLoypiwPvzxWwVI3rs5j1cFOq32dHurAIm5nJDkpYHOq2O33irAxS+8PaeesfTW528c+F/6gttz
+OVFz1AebzQu/P4BQKIRgMCgSCARE/H4/8YfF7upZGmiUKJfzQBfGsPUJPJPp4PX6mTjE5eUB+Hy+
+36VAmXjt6Sz0rhRi8SSM7Pvqk1lRTnSuy+PUVR10OjOT+F8YIKR3UbH8VBaJZBKH72ew9GgWh++l
+Mf9QjstF1hxwQSbTwGy2kvTVARoFR+9M4fjDdMnci+WdGENa4nj8RAWt1sD2YSPZ80YkBUjGobGs
+OZUVxTtvZJBMJkUMrhTJC9TSmLRQqfUwGIwYuaSW7cTLqQyQjEOik48y4q0Hb8hh0q4cHuhTuKdL
+cTk6MnouvoEhcwQMW7AWIxYJGLW0FmNWNGDMysbKAMk4tFDawZEHaSw/nsUhtgv6fRn7mcuJQc1x
+bNl/GvceydguzBC27sPJSzdIzJECfL4citAu4okkjO4UhNOl8g41ObRnCNuuYEH9dpy7fhszq9ez
+kAVOp/PFgU7l1EqUy4lV+5yYV7MVIxbW4Mb9x7RwEZfLRbuQAqXSF4olOVGdQ/+GKEYvbMDMtRuw
+8cAxWK1WMeBwOOiVSIEXSEvE5XKiHaNhzy08fabCwqatLHKCBwgp0LY2/UfHNxQTbYUcVrIxyeQa
+qDV6LG7ejqt3HsBut5cGugnBPr+sjv/eXsiA066ctWmRtgXQZk2Bgc0RKJRaGI0mmMzmkjFVvemZ
+Mv/Mdz/2PIcfehT4vvs5rKi9Jd7eZDLDYrEQbx+gM3zKlehPvS6BWFF3G3I2Hq2OAib6PPAAjent
+AouEO4t/7s3ktYXlKpUa6MoChTHZf3+rwLx5175aUXMLDx/JIJMpoVZrodVqodfrRQwGAwV/v3L9
+ab+q1jj/Aa5bwO+xfluQAAAAAElFTkSuQmCC
+
+------MultipartBoundary--Dj6lkfPR1JvBOSOFsHijyUvVKhS48Rf6Zik4zbzm0h----
+Content-Type: text/html
+Content-ID: <frame-801D19016E68A41A37C590E16A3CA758@mhtml.blink>
+Content-Transfer-Encoding: quoted-printable
+Content-Location: http://localhost/practice_28/%E2%84%962/
+
+<html><head><meta http-equiv=3D"Content-Type" content=3D"text/html; charset=
+=3DUTF-8"><link rel=3D"stylesheet" type=3D"text/css" href=3D"https://transl=
+ate.googleapis.com/translate_static/css/translateelement.css"></head><body =
+class=3D"goog-te-banner" scroll=3D"no" border=3D"0" dir=3D"ltr" style=3D"ba=
+ckground-image: url(&quot;https://translate.googleapis.com/translate_static=
+/img/te_bk.gif&quot;);"><table border=3D"0" cellspacing=3D"0" cellpadding=
+=3D"0" width=3D"100%" height=3D"100%"><tbody><tr valign=3D"middle"><td widt=
+h=3D"1" nowrap=3D""><a href=3D"https://translate.google.com/" class=3D"goog=
+-logo-link" target=3D"_blank"><img src=3D"https://www.gstatic.com/images/br=
+anding/googlelogo/1x/googlelogo_color_68x28dp.png" alt=3D"Google =D0=9F=D0=
+=B5=D1=80=D0=B5=D0=B2=D0=BE=D0=B4=D1=87=D0=B8=D0=BA"></a></td><td width=3D"=
+1"><img src=3D"https://www.google.com/images/cleardot.gif" width=3D"9" heig=
+ht=3D"15" title=3D"=D0=A1=D0=BE=D0=B4=D0=B5=D1=80=D0=B6=D0=B0=D0=BD=D0=B8=
+=D0=B5 =D1=8D=D1=82=D0=BE=D0=B9 =D0=B7=D0=B0=D1=89=D0=B8=D1=89=D0=B5=D0=BD=
+=D0=BD=D0=BE=D0=B9 =D1=81=D1=82=D1=80=D0=B0=D0=BD=D0=B8=D1=86=D1=8B =D0=B1=
+=D1=83=D0=B4=D0=B5=D1=82 =D0=BF=D0=B5=D1=80=D0=B5=D0=B4=D0=B0=D0=BD=D0=BE =
+=D0=B4=D0=BB=D1=8F =D0=BF=D0=B5=D1=80=D0=B5=D0=B2=D0=BE=D0=B4=D0=B0 =D0=B2 =
+Google =D1=87=D0=B5=D1=80=D0=B5=D0=B7 =D0=B1=D0=B5=D0=B7=D0=BE=D0=BF=D0=B0=
+=D1=81=D0=BD=D0=BE=D0=B5 =D1=81=D0=BE=D0=B5=D0=B4=D0=B8=D0=BD=D0=B5=D0=BD=
+=D0=B8=D0=B5." alt=3D"=D0=A1=D0=BE=D0=B4=D0=B5=D1=80=D0=B6=D0=B0=D0=BD=D0=
+=B8=D0=B5 =D1=8D=D1=82=D0=BE=D0=B9 =D0=B7=D0=B0=D1=89=D0=B8=D1=89=D0=B5=D0=
+=BD=D0=BD=D0=BE=D0=B9 =D1=81=D1=82=D1=80=D0=B0=D0=BD=D0=B8=D1=86=D1=8B =D0=
+=B1=D1=83=D0=B4=D0=B5=D1=82 =D0=BF=D0=B5=D1=80=D0=B5=D0=B4=D0=B0=D0=BD=D0=
+=BE =D0=B4=D0=BB=D1=8F =D0=BF=D0=B5=D1=80=D0=B5=D0=B2=D0=BE=D0=B4=D0=B0 =D0=
+=B2 Google =D1=87=D0=B5=D1=80=D0=B5=D0=B7 =D0=B1=D0=B5=D0=B7=D0=BE=D0=BF=D0=
+=B0=D1=81=D0=BD=D0=BE=D0=B5 =D1=81=D0=BE=D0=B5=D0=B4=D0=B8=D0=BD=D0=B5=D0=
+=BD=D0=B8=D0=B5." style=3D"background-image:url(https://translate.googleapi=
+s.com/translate_static/img/te_ctrl3.gif);background-position:-56px 0px;marg=
+in:0 4px"></td><td class=3D"goog-te-banner-margin"></td><td><table border=
+=3D"0" cellspacing=3D"0" cellpadding=3D"0" height=3D"100%"><tbody><tr id=3D=
+":0.promptSection" style=3D"" valign=3D"middle"><td nowrap=3D""><span class=
+=3D"goog-te-banner-content">=D0=9F=D0=BE=D0=BA=D0=B0=D0=B7=D0=B0=D1=82=D1=
+=8C =D0=BF=D0=B5=D1=80=D0=B5=D0=B2=D0=BE=D0=B4 =D1=8D=D1=82=D0=BE=D0=B9 =D1=
+=81=D1=82=D1=80=D0=B0=D0=BD=D0=B8=D1=86=D1=8B =D0=BD=D0=B0 <span id=3D":0.p=
+romptTargetLang"><a aria-haspopup=3D"true" class=3D"goog-te-menu-value"><sp=
+an>=D1=80=D1=83=D1=81=D1=81=D0=BA=D0=B8=D0=B9</span><img src=3D"https://www=
+.google.com/images/cleardot.gif" alt=3D"" width=3D"14" height=3D"14" style=
+=3D"background-image: url(&quot;https://translate.googleapis.com/translate_=
+static/img/te_ctrl3.gif&quot;); background-position: -14px 0px; border: non=
+e;"></a></span></span></td><td class=3D"goog-te-banner-margin"></td><td now=
+rap=3D""><div class=3D"goog-te-button"><div style=3D"background-image: url(=
+&quot;https://translate.googleapis.com/translate_static/img/te_bk.gif&quot;=
+); background-repeat: repeat-x; background-position: 0px -39px;"><button id=
+=3D":0.confirm"><b>=D0=9F=D0=B5=D1=80=D0=B5=D0=B2=D0=B5=D1=81=D1=82=D0=B8</=
+b></button></div></div></td><td class=3D"goog-te-banner-margin"></td><td no=
+wrap=3D""><div class=3D"goog-te-button" style=3D"display: none;"><div style=
+=3D"background-image: url(&quot;https://translate.googleapis.com/translate_=
+static/img/te_bk.gif&quot;); background-repeat: repeat-x; background-positi=
+on: 0px -39px;"><button id=3D":0.noAutoPopup">=D0=9E=D1=82=D0=BA=D0=BB=D1=
+=8E=D1=87=D0=B8=D1=82=D1=8C =D0=B4=D0=BB=D1=8F =D1=81=D0=BB=D0=B5=D0=B4=D1=
+=83=D1=8E=D1=89=D0=B5=D0=B3=D0=BE =D1=8F=D0=B7=D1=8B=D0=BA=D0=B0: =D0=9E=D0=
+=BF=D1=80=D0=B5=D0=B4=D0=B5=D0=BB=D0=B8=D1=82=D1=8C =D1=8F=D0=B7=D1=8B=D0=
+=BA</button></div></div></td></tr><tr id=3D":0.progressSection" style=3D"di=
+splay:none" valign=3D"middle"><td><span class=3D"goog-te-banner-content">=
+=D0=92=D1=8B=D0=BF=D0=BE=D0=BB=D0=BD=D1=8F=D0=B5=D1=82=D1=81=D1=8F =D0=BF=
+=D0=B5=D1=80=D0=B5=D0=B2=D0=BE=D0=B4&nbsp;<span dir=3D"ltr">(<b id=3D":0.pr=
+ogressValue"></b>%)</span>&nbsp;<img src=3D"https://translate.googleapis.co=
+m/translate_static/img/loading.gif"></span></td><td class=3D"goog-te-banner=
+-margin"></td><td nowrap=3D""><div class=3D"goog-te-button"><div style=3D"b=
+ackground-image: url(&quot;https://translate.googleapis.com/translate_stati=
+c/img/te_bk.gif&quot;); background-repeat: repeat-x; background-position: 0=
+px -39px;"><button id=3D":0.cancel">=D0=9E=D1=82=D0=BC=D0=B5=D0=BD=D0=B8=D1=
+=82=D1=8C</button></div></div></td></tr><tr id=3D":0.finishSection" style=
+=3D"display:none"><td><span class=3D"goog-te-banner-content">=D0=9F=D0=B5=
+=D1=80=D0=B5=D0=B2=D0=B5=D0=B4=D0=B5=D0=BD=D0=BE =D0=BD=D0=B0 <span id=3D":=
+0.finishTargetLang"></span></span></td><td class=3D"goog-te-banner-margin">=
+</td><td nowrap=3D""><div class=3D"goog-te-button"><div style=3D"background=
+-image: url(&quot;https://translate.googleapis.com/translate_static/img/te_=
+bk.gif&quot;); background-repeat: repeat-x; background-position: 0px -39px;=
+"><button id=3D":0.restore">=D0=9F=D0=BE=D0=BA=D0=B0=D0=B7=D0=B0=D1=82=D1=
+=8C =D0=B8=D1=81=D1=85=D0=BE=D0=B4=D0=BD=D1=8B=D0=B9 =D1=82=D0=B5=D0=BA=D1=
+=81=D1=82</button></div></div></td></tr><tr id=3D":0.errorSection" style=3D=
+"display:none" valign=3D"middle"><td><span id=3D":0.errorContent" class=3D"=
+goog-te-banner-content">=D0=9E=D1=88=D0=B8=D0=B1=D0=BA=D0=B0. =D0=A1=D0=B5=
+=D1=80=D0=B2=D0=B5=D1=80 =D0=BD=D0=B5 =D0=BC=D0=BE=D0=B6=D0=B5=D1=82 =D0=B2=
+=D1=8B=D0=BF=D0=BE=D0=BB=D0=BD=D0=B8=D1=82=D1=8C =D0=B2=D0=B0=D1=88 =D0=B7=
+=D0=B0=D0=BF=D1=80=D0=BE=D1=81. =D0=9F=D0=BE=D0=B2=D1=82=D0=BE=D1=80=D0=B8=
+=D1=82=D0=B5 =D0=BF=D0=BE=D0=BF=D1=8B=D1=82=D0=BA=D1=83 =D0=BF=D0=BE=D0=B7=
+=D0=B6=D0=B5.</span></td></tr></tbody></table></td><td></td><td class=3D"go=
+og-te-banner-margin"></td><td width=3D"1" id=3D"options"><div class=3D"goog=
+-te-button"><div style=3D"background: url(&quot;https://translate.googleapi=
+s.com/translate_static/img/te_bk.gif&quot;) 0px -39px repeat-x;"><button>=
+=D0=9D=D0=B0=D1=81=D1=82=D1=80=D0=BE=D0=B9=D0=BA=D0=B8&nbsp;=E2=96=BC</butt=
+on></div></div></td><td width=3D"1"><a id=3D":0.close" class=3D"goog-close-=
+link" title=3D"=D0=97=D0=B0=D0=BA=D1=80=D1=8B=D1=82=D1=8C"><img src=3D"http=
+s://www.google.com/images/cleardot.gif" width=3D"15" height=3D"15" alt=3D"=
+=D0=97=D0=B0=D0=BA=D1=80=D1=8B=D1=82=D1=8C" style=3D"background-image:url(h=
+ttps://translate.googleapis.com/translate_static/img/te_ctrl3.gif);backgrou=
+nd-position:-28px 0px"></a></td></tr></tbody></table></body></html>
+------MultipartBoundary--Dj6lkfPR1JvBOSOFsHijyUvVKhS48Rf6Zik4zbzm0h----
+Content-Type: image/gif
+Content-Transfer-Encoding: base64
+Content-Location: https://translate.googleapis.com/translate_static/img/te_bk.gif
+
+R0lGODlhAQA7APcAANfX19/f3+Hh4eLi4uTk5Obm5ujo6Orq6uvr6+3t7e7u7uTv++bw++fw/Ojx
+/Ory/O30/O71/fHx8fP4/fT5/fb6/vj7/vr8/vz9//7+/wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACwAAAAAAQA7AAAINQAzCBxI
+UCCGCwgtVFhIYcKECA8jQHgw8UEDBg4aLGCwIIOEjyAlKEiA4ICBAgQGCAgQAEBAADs=
+
+------MultipartBoundary--Dj6lkfPR1JvBOSOFsHijyUvVKhS48Rf6Zik4zbzm0h----
+Content-Type: image/png
+Content-Transfer-Encoding: base64
+Content-Location: https://www.gstatic.com/images/branding/googlelogo/1x/googlelogo_color_68x28dp.png
+
+iVBORw0KGgoAAAANSUhEUgAAAEQAAAAcCAYAAADYzhkoAAAGBElEQVRYw+1ZXWwUVRQe2N22ViP1
+36gvigZSocTOzLrEynZmdhtiihqkaqw/LzxA1MQHIcRGV9idthIRIdbSWNGHQtYGEkOMYre1CRpL
+G3nAP9CW1GCg+5d2OzPL1i7d67kzd3Znt9Pd1Sam0t5kMum9Z+ee+91zzvfdW4paasU3pyd0Ay/K
+d2w8kCpdtCDwolRZK8rtnChd5EUFqY9XStV6lbOcqOza6IneuNDXwPi3PMv4N7fS/i0vziMakJUT
+5dZaUZpJA2H6SJcFr1y7kAGhj27uYvxPIQDl838NBu9TjhsWPsI1K68LzVfWc3vkByFt3JxPeR/A
+imvjcsc1DQjnk8U0GD7lw7lqhtubuBfGPR4PWn7NAsJ5YytrvdJVAshRCqFl//c6OC9AIPz3ktqQ
+cHvk2+frDPJQyyN19Oowx26IcMwqRFHLCtlPnSxZPd1n3TDVV7IKofz2Dd3IAj5XubxSTZ0ndvM/
+BQTRtC0sMA+FefujY+71s9eL2YOkyvH5ghER2MawQI+GBRalH469AA48Y2Z/NWBrnA5YRpO9NpR5
+LBeg39Qeinkj75P+NLDfNO+TW2ANv8AThbr32FyA4I0JCeyr4FNE9y0osKkQR3dNONdVGACRFTLB
+W6YR5JNf4XzSp+aP8oFuF+bZpgwQdAImO4/fel+It+80fne619qkg/BXjy2R7LGcV9+kD8Z3Ztc5
+ZYcBiCsAwG8qIFkMGH9yLkAADNEAxARs1I9BgU6SvtO/b7y/VNcdCfLBN8xTSjk2FwVjilYjg3uY
+xmirCwfEx130CtyPkQ9xrF91gmNngkL1WhWMb2w0LD5FFt6FApRqj/qpCvjbr4LUa5sBm7UkravS
+csCrHNG1kHOvcidoo28LARLi7OvSYPDMAX3xIa56ZZijo6rfLnaXtmCvMow/BhrkE9OiK0rbgYU6
+sx5R6dd3iqB/iEw4jHPU+Hs8eTqNeOYg7kv22A6pkRCwDKMfqCz71JdUqSGNDpJNadPlAN2Bsuxd
+78Tvgk1N5geE2af5x5zFNWvU6SyDvhfAnwFD1JzRKbeTTBZx7EtdVxQzifLbZLd+UtMFQk5H38we
+HGnXJmVOqYAEbKfJgk3tYbxdHe+xnSIRMkB8NLWv9UlD+QCB+b/WNoQ9BiC0GOsIRHB/2MU+jRoq
+SzRR5os7DBrEUwiMBg8q0aMK7N8jETKoflxg95sCwrNtxKHvSIQMahFiM7WHsTYyrtrDUWJQS1Fl
+/xxMOVAUIHo0cPQkjtYob680p16v8pl+ZhGalZfyKlpR/lh1DrSLa8/kAxogTKcWIew51NBgmU1z
+7AgBpE0DxNJJGOUc6qay7SGFYHyERFAbiciPtLRWfsW0a7SvEaXbwJepvCkjMO+mI0Jgt4+5q643
+0r5e8wwLnaiAD/5sKJjdUMQewQDg8XoPKgeg6vWdItHRpP8+6LI7MmzCdlx0ONTUu1RPl0PfYZ3i
+wnx1tVpUe6wOA812pL6nVHt0giqHunKYME8KCmu1xnRxe6aQy+3gV5nuN7DdV4WK6pibWZMu+lDv
+9PRQ6xtECmzkZRirzwFFuhU+2pdzkEsCvcVy2QV2zJeraElukpBkY5CbQ/ht2JndOWnRkqbdXlsM
+3kPkjUi67M5Ji+YM7SrjuG4YJENB2gUf3sxoIzqK0xxq2njGP2bHrJTAZxQsfiA6zsyiWUgnDBiM
+OU0VJwgfQHpbmGNCWcJMoIOQKltzFStWpECx2wCEkFGYQWQEoW/rLMUKGwCgvIzBMPqEtRBsWlCN
+Hl/8iXzCDPuh+pNVT9hLQAbPFz4BA8eDAxzXHH8cy+SalthNRUl3qBlRnrZHeGZTRGBY5HRa89pD
+zQBg7Mnekk3TASsLWsRa4GRehv3BqhRS6W4VKK8iYUCKuZbA/mG/sH/Yz0L+Lcjmah1fAYr5Nagf
+J3JP4rjWZQhh8pZFcYsntCTu05kEF1GnKK/BahWipA7q3B/kjuaLRXW1CYX8OcM1Rc4RQglh0Bbd
+fS++wYOIOKlHCz7hYl3kbI3fs6j/G4DZsNhjxlJbakttqf2X7W8TpV8yKnnUNAAAAABJRU5ErkJg
+gg==
+
+------MultipartBoundary--Dj6lkfPR1JvBOSOFsHijyUvVKhS48Rf6Zik4zbzm0h----
+Content-Type: image/gif
+Content-Transfer-Encoding: base64
+Content-Location: https://translate.googleapis.com/translate_static/img/te_ctrl3.gif
+
+R0lGODlhVAATAOePAAAAyxZBmhdFrBhHrhpMyB1Uxh1Vzh5X0R9ZzR9awSFf1SNk2CYW0SZq2yZs
+4Cka2yt45TB9ITJ11TODHjODIDWKGzdgrDmUGjuaRTybGT1svj6hGUClGEF1tEGnFkGpGUKrFUNn
+rkWjYUWoUkZtskdww0dxy0l/EkmP5EqlLUtLS0uxFFCmLlGY6lON3la4E1e0GFhYD1uxRlu5EVyy
+U1+vLGW8FGef5mmTx22p7W6PEW+d32+e4XKa2Hp6en6p5H9lE4eHh4i06YurxYyqyYyufoy8iI29
+ho7AhpCz55DEhJW55ZaT15jClqGm9afE2KgeFavK7LDN47rV7b7J4cTa9cXi0MjX8Mrd9c0lGs3l
+/9QmGtbW1tfq/9jl9djl+NmcANns0dnt4NonG9otM9yGft4pG9/x4OCrIuG3I+Hv/+Lfz+Px4eRW
+TOSaAeSyNuUpHOWIgOalAOby/+c5P+egD+exAefJcOhYXuqjAOq3Tuq9YOtqbuvHG+vz++xYTOy8
+AO2sAe6xAO7x9+/Ecu/SaPDYaPD2//D47/KzAPS7APfpy/ng3fzp7P347f//////////////////
+////////////////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////////////////
+/////////////////////////////////////////////////////yH5BAEKAP8ALAAAAABUABMA
+AAj+AP+pGEiw4MB//4goXMhQ4b8gECNKnIiwosWLGBE+2sjxkaNGIB115KjCB5eTKFP6UEEkypyX
+MGNGIRJkpM2NQSwO2bkzI8aRjOL8oUP0TxxGI1WkXIqSZcynMGnetJnz386OanpWxNGhKw6NHOMQ
+HUs2jsiNSpkudQr1qVScI2vitLpRTZe7XdRoGYKQ65K/Hb5yxEO2MJ0/HdNyYQCgMQAGTYnAfOAY
+wIOociNy1Pwo55BHXZZ07XC3Ct9/HZZUFP1vo9ixfNYsWsOHDp6kKJlUZhIZppPKTjBvhtiZOM7P
+dlN34Xp3Ct/Uqzu0XjT2z5qRaxrhRsn4cUq2Lyn+W475FqfEjkE+4+0yhXkXKUNGy+/6yFAdotc7
+HrqpmItuALz15ltjwQmHnnGbqddcV3jBl9pfEIrmSB+KKILYVNtxB9l3ksX0wGXkyWUeZ8eBdheD
+DcY332iOVKiIIR0tgcKMNKKQwyP9+ReggL4VaGBxNZGYnl3r4TXFE/FFCGEHLVa4SEdR1EhjDofk
+qBZ4bb30lpDGeUYkiu89t2JXTb4Yo5Qz3mglU1hmWZ6IcM01hBZVrDeFFEiipiRgE1ZYREdzaCGo
+Fi3MKASOJql10kotZfnSTHBiWNVOd0qBp1Zj0mdIGiOMYMVNVdAYxSMCGWQqQg2lSsRDGKKnE09j
+p/lU0SNhdDqCCJ929EWhKLTQBamyBuvTRMRKJKywGxlh6whGWOGsESLQeCiwx1Zr7bWyckTDstxi
+0MENHGEr7rjWdqQst7Ya0RG57LZ70UhWQGurCM2O5O697N6EyL773hQQADs=
+
+------MultipartBoundary--Dj6lkfPR1JvBOSOFsHijyUvVKhS48Rf6Zik4zbzm0h----
+Content-Type: image/gif
+Content-Transfer-Encoding: base64
+Content-Location: https://www.google.com/images/cleardot.gif
+
+R0lGODlhAQABAID/AMDAwAAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==
+
+------MultipartBoundary--Dj6lkfPR1JvBOSOFsHijyUvVKhS48Rf6Zik4zbzm0h----
+Content-Type: image/gif
+Content-Transfer-Encoding: base64
+Content-Location: https://translate.googleapis.com/translate_static/img/loading.gif
+
+R0lGODlhEAAQAPIAAP///wAAAMLCwkJCQgAAAGJiYoKCgpKSkiH/C05FVFNDQVBFMi4wAwEAAAAh
+/h1CdWlsdCB3aXRoIEdJRiBNb3ZpZSBHZWFyIDQuMAAh/hVNYWRlIGJ5IEFqYXhMb2FkLmluZm8A
+IfkECQoAAAAsAAAAABAAEAAAAzMIutz+MMpJaxNjCDoIGZwHTphmCUWxMcK6FJnBti5gxMJx0C1b
+GDndpgc5GAwHSmvnSAAAIfkECQoAAAAsAAAAABAAEAAAAzQIutz+TowhIBuEDLuw5opEcUJRVGAx
+GSBgTEVbGqh8HLV13+1hGAeAINcY4oZDGbIlJCoSACH5BAkKAAAALAAAAAAQABAAAAM2CLoyIyvK
+QciQzJRWLwaFYxwO9BlO8UlCYZircBzwCsyzvRzGqCsCWe0X/AGDww8yqWQan78EACH5BAkKAAAA
+LAAAAAAQABAAAAMzCLpiJSvKMoaR7JxWX4WLpgmFIQwEMUSHYRwRqkaCsNEfA2JSXfM9HzA4LBqP
+yKRyOUwAACH5BAkKAAAALAAAAAAQABAAAAMyCLpyJytK52QU8BjzTIEMJnbDYFxiVJSFhLkeaFlC
+Kc/KQBADHuk8H8MmLBqPyKRSkgAAIfkECQoAAAAsAAAAABAAEAAAAzMIuiDCkDkX43TnvNqeMBnH
+HOAhLkK2ncpXrKIxDAYLFHNhu7A195UBgTCwCYm7n20pSgAAIfkECQoAAAAsAAAAABAAEAAAAzII
+utz+8AkR2ZxVXZoB7tpxcJVgiN1hnN00loVBRsUwFJBgm7YBDQTCQBCbMYDC1s6RAAAh+QQJCgAA
+ACwAAAAAEAAQAAADMgi63P4wykmrZULUnCnXHggIwyCOx3EOBDEwqcqwrlAYwmEYB1bapQIgdWIY
+gp5bEZAAADsAAAAAAAAAAAAK
+
+------MultipartBoundary--Dj6lkfPR1JvBOSOFsHijyUvVKhS48Rf6Zik4zbzm0h----
+Content-Type: text/html
+Content-ID: <frame-B77ED01F3534935191EAE7A07CEB8D7A@mhtml.blink>
+Content-Transfer-Encoding: quoted-printable
+Content-Location: http://localhost/practice_28/%E2%84%962/
+
+<html><head><meta http-equiv=3D"Content-Type" content=3D"text/html; charset=
+=3DUTF-8"><link rel=3D"stylesheet" type=3D"text/css" href=3D"https://transl=
+ate.googleapis.com/translate_static/css/translateelement.css"></head><body =
+scroll=3D"no" style=3D"margin:0px;overflow:hidden" dir=3D"ltr" marginheight=
+=3D"0" marginwidth=3D"0" leftmargin=3D"0" topmargin=3D"0" border=3D"0"><div=
+ id=3D":1.menuBody" class=3D"goog-te-menu2" style=3D"box-sizing: content-bo=
+x; width: 1168px; height: 253px;"><table cellspacing=3D"0" cellpadding=3D"0=
+" border=3D"0"><tbody><tr valign=3D"top"><td><a class=3D"goog-te-menu2-item=
+-selected"><div style=3D"white-space: nowrap;"><span class=3D"indicator">=
+=E2=80=BA</span><span class=3D"text">=D1=80=D1=83=D1=81=D1=81=D0=BA=D0=B8=
+=D0=B9</span></div></a><a class=3D"goog-te-menu2-item"><div style=3D"white-=
+space: nowrap;"><span class=3D"indicator">=E2=80=BA</span><span class=3D"te=
+xt">=D0=B0=D0=B7=D0=B5=D1=80=D0=B1=D0=B0=D0=B9=D0=B4=D0=B6=D0=B0=D0=BD=D1=
+=81=D0=BA=D0=B8=D0=B9</span></div></a><a class=3D"goog-te-menu2-item"><div =
+style=3D"white-space: nowrap;"><span class=3D"indicator">=E2=80=BA</span><s=
+pan class=3D"text">=D0=B0=D0=BB=D0=B1=D0=B0=D0=BD=D1=81=D0=BA=D0=B8=D0=B9</=
+span></div></a><a class=3D"goog-te-menu2-item"><div style=3D"white-space: n=
+owrap;"><span class=3D"indicator">=E2=80=BA</span><span class=3D"text">=D0=
+=B0=D0=BC=D1=85=D0=B0=D1=80=D1=81=D0=BA=D0=B8=D0=B9</span></div></a><a clas=
+s=3D"goog-te-menu2-item"><div style=3D"white-space: nowrap;"><span class=3D=
+"indicator">=E2=80=BA</span><span class=3D"text">=D0=B0=D0=BD=D0=B3=D0=BB=
+=D0=B8=D0=B9=D1=81=D0=BA=D0=B8=D0=B9</span></div></a><a class=3D"goog-te-me=
+nu2-item"><div style=3D"white-space: nowrap;"><span class=3D"indicator">=E2=
+=80=BA</span><span class=3D"text">=D0=B0=D1=80=D0=B0=D0=B1=D1=81=D0=BA=D0=
+=B8=D0=B9</span></div></a><a class=3D"goog-te-menu2-item"><div style=3D"whi=
+te-space: nowrap;"><span class=3D"indicator">=E2=80=BA</span><span class=3D=
+"text">=D0=B0=D1=80=D0=BC=D1=8F=D0=BD=D1=81=D0=BA=D0=B8=D0=B9</span></div><=
+/a><a class=3D"goog-te-menu2-item"><div style=3D"white-space: nowrap;"><spa=
+n class=3D"indicator">=E2=80=BA</span><span class=3D"text">=D0=B0=D1=84=D1=
+=80=D0=B8=D0=BA=D0=B0=D0=B0=D0=BD=D1=81</span></div></a><a class=3D"goog-te=
+-menu2-item"><div style=3D"white-space: nowrap;"><span class=3D"indicator">=
+=E2=80=BA</span><span class=3D"text">=D0=B1=D0=B0=D1=81=D0=BA=D1=81=D0=BA=
+=D0=B8=D0=B9</span></div></a><a class=3D"goog-te-menu2-item"><div style=3D"=
+white-space: nowrap;"><span class=3D"indicator">=E2=80=BA</span><span class=
+=3D"text">=D0=B1=D0=B5=D0=BB=D0=BE=D1=80=D1=83=D1=81=D1=81=D0=BA=D0=B8=D0=
+=B9</span></div></a><a class=3D"goog-te-menu2-item"><div style=3D"white-spa=
+ce: nowrap;"><span class=3D"indicator">=E2=80=BA</span><span class=3D"text"=
+>=D0=B1=D0=B5=D0=BD=D0=B3=D0=B0=D0=BB=D1=8C=D1=81=D0=BA=D0=B8=D0=B9</span><=
+/div></a></td><td class=3D"goog-te-menu2-colpad">&nbsp;</td><td><a class=3D=
+"goog-te-menu2-item"><div style=3D"white-space: nowrap;"><span class=3D"ind=
+icator">=E2=80=BA</span><span class=3D"text">=D0=B1=D0=B8=D1=80=D0=BC=D0=B0=
+=D0=BD=D1=81=D0=BA=D0=B8=D0=B9</span></div></a><a class=3D"goog-te-menu2-it=
+em"><div style=3D"white-space: nowrap;"><span class=3D"indicator">=E2=80=BA=
+</span><span class=3D"text">=D0=B1=D0=BE=D0=BB=D0=B3=D0=B0=D1=80=D1=81=D0=
+=BA=D0=B8=D0=B9</span></div></a><a class=3D"goog-te-menu2-item"><div style=
+=3D"white-space: nowrap;"><span class=3D"indicator">=E2=80=BA</span><span c=
+lass=3D"text">=D0=B1=D0=BE=D1=81=D0=BD=D0=B8=D0=B9=D1=81=D0=BA=D0=B8=D0=B9<=
+/span></div></a><a class=3D"goog-te-menu2-item"><div style=3D"white-space: =
+nowrap;"><span class=3D"indicator">=E2=80=BA</span><span class=3D"text">=D0=
+=B2=D0=B0=D0=BB=D0=BB=D0=B8=D0=B9=D1=81=D0=BA=D0=B8=D0=B9</span></div></a><=
+a class=3D"goog-te-menu2-item"><div style=3D"white-space: nowrap;"><span cl=
+ass=3D"indicator">=E2=80=BA</span><span class=3D"text">=D0=B2=D0=B5=D0=BD=
+=D0=B3=D0=B5=D1=80=D1=81=D0=BA=D0=B8=D0=B9</span></div></a><a class=3D"goog=
+-te-menu2-item"><div style=3D"white-space: nowrap;"><span class=3D"indicato=
+r">=E2=80=BA</span><span class=3D"text">=D0=B2=D1=8C=D0=B5=D1=82=D0=BD=D0=
+=B0=D0=BC=D1=81=D0=BA=D0=B8=D0=B9</span></div></a><a class=3D"goog-te-menu2=
+-item"><div style=3D"white-space: nowrap;"><span class=3D"indicator">=E2=80=
+=BA</span><span class=3D"text">=D0=B3=D0=B0=D0=B2=D0=B0=D0=B9=D1=81=D0=BA=
+=D0=B8=D0=B9</span></div></a><a class=3D"goog-te-menu2-item"><div style=3D"=
+white-space: nowrap;"><span class=3D"indicator">=E2=80=BA</span><span class=
+=3D"text">=D0=B3=D0=B0=D0=BB=D0=B8=D1=81=D0=B8=D0=B9=D1=81=D0=BA=D0=B8=D0=
+=B9</span></div></a><a class=3D"goog-te-menu2-item"><div style=3D"white-spa=
+ce: nowrap;"><span class=3D"indicator">=E2=80=BA</span><span class=3D"text"=
+>=D0=B3=D1=80=D0=B5=D1=87=D0=B5=D1=81=D0=BA=D0=B8=D0=B9</span></div></a><a =
+class=3D"goog-te-menu2-item"><div style=3D"white-space: nowrap;"><span clas=
+s=3D"indicator">=E2=80=BA</span><span class=3D"text">=D0=B3=D1=80=D1=83=D0=
+=B7=D0=B8=D0=BD=D1=81=D0=BA=D0=B8=D0=B9</span></div></a><a class=3D"goog-te=
+-menu2-item"><div style=3D"white-space: nowrap;"><span class=3D"indicator">=
+=E2=80=BA</span><span class=3D"text">=D0=B3=D1=83=D0=B4=D0=B6=D0=B0=D1=80=
+=D0=B0=D1=82=D0=B8</span></div></a></td><td class=3D"goog-te-menu2-colpad">=
+&nbsp;</td><td><a class=3D"goog-te-menu2-item"><div style=3D"white-space: n=
+owrap;"><span class=3D"indicator">=E2=80=BA</span><span class=3D"text">=D0=
+=B4=D0=B0=D1=82=D1=81=D0=BA=D0=B8=D0=B9</span></div></a><a class=3D"goog-te=
+-menu2-item"><div style=3D"white-space: nowrap;"><span class=3D"indicator">=
+=E2=80=BA</span><span class=3D"text">=D0=B7=D1=83=D0=BB=D1=83</span></div><=
+/a><a class=3D"goog-te-menu2-item"><div style=3D"white-space: nowrap;"><spa=
+n class=3D"indicator">=E2=80=BA</span><span class=3D"text">=D0=B8=D0=B2=D1=
+=80=D0=B8=D1=82</span></div></a><a class=3D"goog-te-menu2-item"><div style=
+=3D"white-space: nowrap;"><span class=3D"indicator">=E2=80=BA</span><span c=
+lass=3D"text">=D0=B8=D0=B3=D0=B1=D0=BE</span></div></a><a class=3D"goog-te-=
+menu2-item"><div style=3D"white-space: nowrap;"><span class=3D"indicator">=
+=E2=80=BA</span><span class=3D"text">=D0=B8=D0=B4=D0=B8=D1=88</span></div><=
+/a><a class=3D"goog-te-menu2-item"><div style=3D"white-space: nowrap;"><spa=
+n class=3D"indicator">=E2=80=BA</span><span class=3D"text">=D0=B8=D0=BD=D0=
+=B4=D0=BE=D0=BD=D0=B5=D0=B7=D0=B8=D0=B9=D1=81=D0=BA=D0=B8=D0=B9</span></div=
+></a><a class=3D"goog-te-menu2-item"><div style=3D"white-space: nowrap;"><s=
+pan class=3D"indicator">=E2=80=BA</span><span class=3D"text">=D0=B8=D1=80=
+=D0=BB=D0=B0=D0=BD=D0=B4=D1=81=D0=BA=D0=B8=D0=B9</span></div></a><a class=
+=3D"goog-te-menu2-item"><div style=3D"white-space: nowrap;"><span class=3D"=
+indicator">=E2=80=BA</span><span class=3D"text">=D0=B8=D1=81=D0=BB=D0=B0=D0=
+=BD=D0=B4=D1=81=D0=BA=D0=B8=D0=B9</span></div></a><a class=3D"goog-te-menu2=
+-item"><div style=3D"white-space: nowrap;"><span class=3D"indicator">=E2=80=
+=BA</span><span class=3D"text">=D0=B8=D1=81=D0=BF=D0=B0=D0=BD=D1=81=D0=BA=
+=D0=B8=D0=B9</span></div></a><a class=3D"goog-te-menu2-item"><div style=3D"=
+white-space: nowrap;"><span class=3D"indicator">=E2=80=BA</span><span class=
+=3D"text">=D0=B8=D1=82=D0=B0=D0=BB=D1=8C=D1=8F=D0=BD=D1=81=D0=BA=D0=B8=D0=
+=B9</span></div></a><a class=3D"goog-te-menu2-item"><div style=3D"white-spa=
+ce: nowrap;"><span class=3D"indicator">=E2=80=BA</span><span class=3D"text"=
+>=D0=B9=D0=BE=D1=80=D1=83=D0=B1=D0=B0</span></div></a></td><td class=3D"goo=
+g-te-menu2-colpad">&nbsp;</td><td><a class=3D"goog-te-menu2-item"><div styl=
+e=3D"white-space: nowrap;"><span class=3D"indicator">=E2=80=BA</span><span =
+class=3D"text">=D0=BA=D0=B0=D0=B7=D0=B0=D1=85=D1=81=D0=BA=D0=B8=D0=B9</span=
+></div></a><a class=3D"goog-te-menu2-item"><div style=3D"white-space: nowra=
+p;"><span class=3D"indicator">=E2=80=BA</span><span class=3D"text">=D0=BA=
+=D0=B0=D0=BD=D0=BD=D0=B0=D0=B4=D0=B0</span></div></a><a class=3D"goog-te-me=
+nu2-item"><div style=3D"white-space: nowrap;"><span class=3D"indicator">=E2=
+=80=BA</span><span class=3D"text">=D0=BA=D0=B0=D1=82=D0=B0=D0=BB=D0=B0=D0=
+=BD=D1=81=D0=BA=D0=B8=D0=B9</span></div></a><a class=3D"goog-te-menu2-item"=
+><div style=3D"white-space: nowrap;"><span class=3D"indicator">=E2=80=BA</s=
+pan><span class=3D"text">=D0=BA=D0=B8=D1=80=D0=B3=D0=B8=D0=B7=D1=81=D0=BA=
+=D0=B8=D0=B9</span></div></a><a class=3D"goog-te-menu2-item"><div style=3D"=
+white-space: nowrap;"><span class=3D"indicator">=E2=80=BA</span><span class=
+=3D"text">=D0=BA=D0=B8=D1=82=D0=B0=D0=B9=D1=81=D0=BA=D0=B8=D0=B9 (=D1=82=D1=
+=80=D0=B0=D0=B4=D0=B8=D1=86=D0=B8=D0=BE=D0=BD=D0=BD=D1=8B=D0=B9)</span></di=
+v></a><a class=3D"goog-te-menu2-item"><div style=3D"white-space: nowrap;"><=
+span class=3D"indicator">=E2=80=BA</span><span class=3D"text">=D0=BA=D0=B8=
+=D1=82=D0=B0=D0=B9=D1=81=D0=BA=D0=B8=D0=B9 (=D1=83=D0=BF=D1=80=D0=BE=D1=89=
+=D0=B5=D0=BD=D0=BD=D1=8B=D0=B9)</span></div></a><a class=3D"goog-te-menu2-i=
+tem"><div style=3D"white-space: nowrap;"><span class=3D"indicator">=E2=80=
+=BA</span><span class=3D"text">=D0=BA=D0=BE=D1=80=D0=B5=D0=B9=D1=81=D0=BA=
+=D0=B8=D0=B9</span></div></a><a class=3D"goog-te-menu2-item"><div style=3D"=
+white-space: nowrap;"><span class=3D"indicator">=E2=80=BA</span><span class=
+=3D"text">=D0=BA=D0=BE=D1=80=D1=81=D0=B8=D0=BA=D0=B0=D0=BD=D1=81=D0=BA=D0=
+=B8=D0=B9</span></div></a><a class=3D"goog-te-menu2-item"><div style=3D"whi=
+te-space: nowrap;"><span class=3D"indicator">=E2=80=BA</span><span class=3D=
+"text">=D0=BA=D1=80=D0=B5=D0=BE=D0=BB=D1=8C=D1=81=D0=BA=D0=B8=D0=B9 (=D0=93=
+=D0=B0=D0=B8=D1=82=D0=B8)</span></div></a><a class=3D"goog-te-menu2-item"><=
+div style=3D"white-space: nowrap;"><span class=3D"indicator">=E2=80=BA</spa=
+n><span class=3D"text">=D0=BA=D1=83=D1=80=D0=BC=D0=B0=D0=BD=D0=B4=D0=B6=D0=
+=B8</span></div></a><a class=3D"goog-te-menu2-item"><div style=3D"white-spa=
+ce: nowrap;"><span class=3D"indicator">=E2=80=BA</span><span class=3D"text"=
+>=D0=BA=D1=85=D0=BC=D0=B5=D1=80=D1=81=D0=BA=D0=B8=D0=B9</span></div></a></t=
+d><td class=3D"goog-te-menu2-colpad">&nbsp;</td><td><a class=3D"goog-te-men=
+u2-item"><div style=3D"white-space: nowrap;"><span class=3D"indicator">=E2=
+=80=BA</span><span class=3D"text">=D0=BA=D1=85=D0=BE=D1=81=D0=B0</span></di=
+v></a><a class=3D"goog-te-menu2-item"><div style=3D"white-space: nowrap;"><=
+span class=3D"indicator">=E2=80=BA</span><span class=3D"text">=D0=BB=D0=B0=
+=D0=BE=D1=81=D1=81=D0=BA=D0=B8=D0=B9</span></div></a><a class=3D"goog-te-me=
+nu2-item"><div style=3D"white-space: nowrap;"><span class=3D"indicator">=E2=
+=80=BA</span><span class=3D"text">=D0=BB=D0=B0=D1=82=D0=B8=D0=BD=D1=81=D0=
+=BA=D0=B8=D0=B9</span></div></a><a class=3D"goog-te-menu2-item"><div style=
+=3D"white-space: nowrap;"><span class=3D"indicator">=E2=80=BA</span><span c=
+lass=3D"text">=D0=BB=D0=B0=D1=82=D1=8B=D1=88=D1=81=D0=BA=D0=B8=D0=B9</span>=
+</div></a><a class=3D"goog-te-menu2-item"><div style=3D"white-space: nowrap=
+;"><span class=3D"indicator">=E2=80=BA</span><span class=3D"text">=D0=BB=D0=
+=B8=D1=82=D0=BE=D0=B2=D1=81=D0=BA=D0=B8=D0=B9</span></div></a><a class=3D"g=
+oog-te-menu2-item"><div style=3D"white-space: nowrap;"><span class=3D"indic=
+ator">=E2=80=BA</span><span class=3D"text">=D0=BB=D1=8E=D0=BA=D1=81=D0=B5=
+=D0=BC=D0=B1=D1=83=D1=80=D0=B3=D1=81=D0=BA=D0=B8=D0=B9</span></div></a><a c=
+lass=3D"goog-te-menu2-item"><div style=3D"white-space: nowrap;"><span class=
+=3D"indicator">=E2=80=BA</span><span class=3D"text">=D0=BC=D0=B0=D0=BA=D0=
+=B5=D0=B4=D0=BE=D0=BD=D1=81=D0=BA=D0=B8=D0=B9</span></div></a><a class=3D"g=
+oog-te-menu2-item"><div style=3D"white-space: nowrap;"><span class=3D"indic=
+ator">=E2=80=BA</span><span class=3D"text">=D0=BC=D0=B0=D0=BB=D0=B0=D0=B3=
+=D0=B0=D1=81=D0=B8=D0=B9=D1=81=D0=BA=D0=B8=D0=B9</span></div></a><a class=
+=3D"goog-te-menu2-item"><div style=3D"white-space: nowrap;"><span class=3D"=
+indicator">=E2=80=BA</span><span class=3D"text">=D0=BC=D0=B0=D0=BB=D0=B0=D0=
+=B9=D1=81=D0=BA=D0=B8=D0=B9</span></div></a><a class=3D"goog-te-menu2-item"=
+><div style=3D"white-space: nowrap;"><span class=3D"indicator">=E2=80=BA</s=
+pan><span class=3D"text">=D0=BC=D0=B0=D0=BB=D0=B0=D1=8F=D0=BB=D0=B0=D0=BC</=
+span></div></a><a class=3D"goog-te-menu2-item"><div style=3D"white-space: n=
+owrap;"><span class=3D"indicator">=E2=80=BA</span><span class=3D"text">=D0=
+=BC=D0=B0=D0=BB=D1=8C=D1=82=D0=B8=D0=B9=D1=81=D0=BA=D0=B8=D0=B9</span></div=
+></a></td><td class=3D"goog-te-menu2-colpad">&nbsp;</td><td><a class=3D"goo=
+g-te-menu2-item"><div style=3D"white-space: nowrap;"><span class=3D"indicat=
+or">=E2=80=BA</span><span class=3D"text">=D0=BC=D0=B0=D0=BE=D1=80=D0=B8</sp=
+an></div></a><a class=3D"goog-te-menu2-item"><div style=3D"white-space: now=
+rap;"><span class=3D"indicator">=E2=80=BA</span><span class=3D"text">=D0=BC=
+=D0=B0=D1=80=D0=B0=D1=82=D1=85=D0=B8</span></div></a><a class=3D"goog-te-me=
+nu2-item"><div style=3D"white-space: nowrap;"><span class=3D"indicator">=E2=
+=80=BA</span><span class=3D"text">=D0=BC=D0=BE=D0=BD=D0=B3=D0=BE=D0=BB=D1=
+=8C=D1=81=D0=BA=D0=B8=D0=B9</span></div></a><a class=3D"goog-te-menu2-item"=
+><div style=3D"white-space: nowrap;"><span class=3D"indicator">=E2=80=BA</s=
+pan><span class=3D"text">=D0=BD=D0=B5=D0=BC=D0=B5=D1=86=D0=BA=D0=B8=D0=B9</=
+span></div></a><a class=3D"goog-te-menu2-item"><div style=3D"white-space: n=
+owrap;"><span class=3D"indicator">=E2=80=BA</span><span class=3D"text">=D0=
+=BD=D0=B5=D0=BF=D0=B0=D0=BB=D1=8C=D1=81=D0=BA=D0=B8=D0=B9</span></div></a><=
+a class=3D"goog-te-menu2-item"><div style=3D"white-space: nowrap;"><span cl=
+ass=3D"indicator">=E2=80=BA</span><span class=3D"text">=D0=BD=D0=B8=D0=B4=
+=D0=B5=D1=80=D0=BB=D0=B0=D0=BD=D0=B4=D1=81=D0=BA=D0=B8=D0=B9</span></div></=
+a><a class=3D"goog-te-menu2-item"><div style=3D"white-space: nowrap;"><span=
+ class=3D"indicator">=E2=80=BA</span><span class=3D"text">=D0=BD=D0=BE=D1=
+=80=D0=B2=D0=B5=D0=B6=D1=81=D0=BA=D0=B8=D0=B9</span></div></a><a class=3D"g=
+oog-te-menu2-item"><div style=3D"white-space: nowrap;"><span class=3D"indic=
+ator">=E2=80=BA</span><span class=3D"text">=D0=BE=D1=80=D0=B8=D1=8F</span><=
+/div></a><a class=3D"goog-te-menu2-item"><div style=3D"white-space: nowrap;=
+"><span class=3D"indicator">=E2=80=BA</span><span class=3D"text">=D0=BF=D0=
+=B0=D0=BD=D0=B4=D0=B6=D0=B0=D0=B1=D0=B8</span></div></a><a class=3D"goog-te=
+-menu2-item"><div style=3D"white-space: nowrap;"><span class=3D"indicator">=
+=E2=80=BA</span><span class=3D"text">=D0=BF=D0=B5=D1=80=D1=81=D0=B8=D0=B4=
+=D1=81=D0=BA=D0=B8=D0=B9</span></div></a><a class=3D"goog-te-menu2-item"><d=
+iv style=3D"white-space: nowrap;"><span class=3D"indicator">=E2=80=BA</span=
+><span class=3D"text">=D0=BF=D0=BE=D0=BB=D1=8C=D1=81=D0=BA=D0=B8=D0=B9</spa=
+n></div></a></td><td class=3D"goog-te-menu2-colpad">&nbsp;</td><td><a class=
+=3D"goog-te-menu2-item"><div style=3D"white-space: nowrap;"><span class=3D"=
+indicator">=E2=80=BA</span><span class=3D"text">=D0=BF=D0=BE=D1=80=D1=82=D1=
+=83=D0=B3=D0=B0=D0=BB=D1=8C=D1=81=D0=BA=D0=B8=D0=B9</span></div></a><a clas=
+s=3D"goog-te-menu2-item"><div style=3D"white-space: nowrap;"><span class=3D=
+"indicator">=E2=80=BA</span><span class=3D"text">=D0=BF=D1=83=D1=88=D1=82=
+=D1=83</span></div></a><a class=3D"goog-te-menu2-item"><div style=3D"white-=
+space: nowrap;"><span class=3D"indicator">=E2=80=BA</span><span class=3D"te=
+xt">=D1=80=D1=83=D0=B0=D0=BD=D0=B4=D0=B0</span></div></a><a class=3D"goog-t=
+e-menu2-item"><div style=3D"white-space: nowrap;"><span class=3D"indicator"=
+>=E2=80=BA</span><span class=3D"text">=D1=80=D1=83=D0=BC=D1=8B=D0=BD=D1=81=
+=D0=BA=D0=B8=D0=B9</span></div></a><a class=3D"goog-te-menu2-item"><div sty=
+le=3D"white-space: nowrap;"><span class=3D"indicator">=E2=80=BA</span><span=
+ class=3D"text">=D1=81=D0=B0=D0=BC=D0=BE=D0=B0=D0=BD=D1=81=D0=BA=D0=B8=D0=
+=B9</span></div></a><a class=3D"goog-te-menu2-item"><div style=3D"white-spa=
+ce: nowrap;"><span class=3D"indicator">=E2=80=BA</span><span class=3D"text"=
+>=D1=81=D0=B5=D0=B1=D1=83=D0=B0=D0=BD=D1=81=D0=BA=D0=B8=D0=B9</span></div><=
+/a><a class=3D"goog-te-menu2-item"><div style=3D"white-space: nowrap;"><spa=
+n class=3D"indicator">=E2=80=BA</span><span class=3D"text">=D1=81=D0=B5=D1=
+=80=D0=B1=D1=81=D0=BA=D0=B8=D0=B9</span></div></a><a class=3D"goog-te-menu2=
+-item"><div style=3D"white-space: nowrap;"><span class=3D"indicator">=E2=80=
+=BA</span><span class=3D"text">=D1=81=D0=B5=D1=81=D0=BE=D1=82=D0=BE</span><=
+/div></a><a class=3D"goog-te-menu2-item"><div style=3D"white-space: nowrap;=
+"><span class=3D"indicator">=E2=80=BA</span><span class=3D"text">=D1=81=D0=
+=B8=D0=BD=D0=B3=D0=B0=D0=BB=D1=8C=D1=81=D0=BA=D0=B8=D0=B9</span></div></a><=
+a class=3D"goog-te-menu2-item"><div style=3D"white-space: nowrap;"><span cl=
+ass=3D"indicator">=E2=80=BA</span><span class=3D"text">=D1=81=D0=B8=D0=BD=
+=D0=B4=D1=85=D0=B8</span></div></a><a class=3D"goog-te-menu2-item"><div sty=
+le=3D"white-space: nowrap;"><span class=3D"indicator">=E2=80=BA</span><span=
+ class=3D"text">=D1=81=D0=BB=D0=BE=D0=B2=D0=B0=D1=86=D0=BA=D0=B8=D0=B9</spa=
+n></div></a></td><td class=3D"goog-te-menu2-colpad">&nbsp;</td><td><a class=
+=3D"goog-te-menu2-item"><div style=3D"white-space: nowrap;"><span class=3D"=
+indicator">=E2=80=BA</span><span class=3D"text">=D1=81=D0=BB=D0=BE=D0=B2=D0=
+=B5=D0=BD=D1=81=D0=BA=D0=B8=D0=B9</span></div></a><a class=3D"goog-te-menu2=
+-item"><div style=3D"white-space: nowrap;"><span class=3D"indicator">=E2=80=
+=BA</span><span class=3D"text">=D1=81=D0=BE=D0=BC=D0=B0=D0=BB=D0=B8=D0=B9=
+=D1=81=D0=BA=D0=B8=D0=B9</span></div></a><a class=3D"goog-te-menu2-item"><d=
+iv style=3D"white-space: nowrap;"><span class=3D"indicator">=E2=80=BA</span=
+><span class=3D"text">=D1=81=D1=83=D0=B0=D1=85=D0=B8=D0=BB=D0=B8</span></di=
+v></a><a class=3D"goog-te-menu2-item"><div style=3D"white-space: nowrap;"><=
+span class=3D"indicator">=E2=80=BA</span><span class=3D"text">=D1=81=D1=83=
+=D0=B4=D0=B0=D0=BD=D1=81=D0=BA=D0=B8=D0=B9</span></div></a><a class=3D"goog=
+-te-menu2-item"><div style=3D"white-space: nowrap;"><span class=3D"indicato=
+r">=E2=80=BA</span><span class=3D"text">=D1=82=D0=B0=D0=B4=D0=B6=D0=B8=D0=
+=BA=D1=81=D0=BA=D0=B8=D0=B9</span></div></a><a class=3D"goog-te-menu2-item"=
+><div style=3D"white-space: nowrap;"><span class=3D"indicator">=E2=80=BA</s=
+pan><span class=3D"text">=D1=82=D0=B0=D0=B9=D1=81=D0=BA=D0=B8=D0=B9</span><=
+/div></a><a class=3D"goog-te-menu2-item"><div style=3D"white-space: nowrap;=
+"><span class=3D"indicator">=E2=80=BA</span><span class=3D"text">=D1=82=D0=
+=B0=D0=BC=D0=B8=D0=BB=D1=8C=D1=81=D0=BA=D0=B8=D0=B9</span></div></a><a clas=
+s=3D"goog-te-menu2-item"><div style=3D"white-space: nowrap;"><span class=3D=
+"indicator">=E2=80=BA</span><span class=3D"text">=D1=82=D0=B0=D1=82=D0=B0=
+=D1=80=D1=81=D0=BA=D0=B8=D0=B9</span></div></a><a class=3D"goog-te-menu2-it=
+em"><div style=3D"white-space: nowrap;"><span class=3D"indicator">=E2=80=BA=
+</span><span class=3D"text">=D1=82=D0=B5=D0=BB=D1=83=D0=B3=D1=83</span></di=
+v></a><a class=3D"goog-te-menu2-item"><div style=3D"white-space: nowrap;"><=
+span class=3D"indicator">=E2=80=BA</span><span class=3D"text">=D1=82=D1=83=
+=D1=80=D0=B5=D1=86=D0=BA=D0=B8=D0=B9</span></div></a><a class=3D"goog-te-me=
+nu2-item"><div style=3D"white-space: nowrap;"><span class=3D"indicator">=E2=
+=80=BA</span><span class=3D"text">=D1=82=D1=83=D1=80=D0=BA=D0=BC=D0=B5=D0=
+=BD=D1=81=D0=BA=D0=B8=D0=B9</span></div></a></td><td class=3D"goog-te-menu2=
+-colpad">&nbsp;</td><td><a class=3D"goog-te-menu2-item"><div style=3D"white=
+-space: nowrap;"><span class=3D"indicator">=E2=80=BA</span><span class=3D"t=
+ext">=D1=83=D0=B7=D0=B1=D0=B5=D0=BA=D1=81=D0=BA=D0=B8=D0=B9</span></div></a=
+><a class=3D"goog-te-menu2-item"><div style=3D"white-space: nowrap;"><span =
+class=3D"indicator">=E2=80=BA</span><span class=3D"text">=D1=83=D0=B9=D0=B3=
+=D1=83=D1=80=D1=81=D0=BA=D0=B8=D0=B9</span></div></a><a class=3D"goog-te-me=
+nu2-item"><div style=3D"white-space: nowrap;"><span class=3D"indicator">=E2=
+=80=BA</span><span class=3D"text">=D1=83=D0=BA=D1=80=D0=B0=D0=B8=D0=BD=D1=
+=81=D0=BA=D0=B8=D0=B9</span></div></a><a class=3D"goog-te-menu2-item"><div =
+style=3D"white-space: nowrap;"><span class=3D"indicator">=E2=80=BA</span><s=
+pan class=3D"text">=D1=83=D1=80=D0=B4=D1=83</span></div></a><a class=3D"goo=
+g-te-menu2-item"><div style=3D"white-space: nowrap;"><span class=3D"indicat=
+or">=E2=80=BA</span><span class=3D"text">=D1=84=D0=B8=D0=BB=D0=B8=D0=BF=D0=
+=BF=D0=B8=D0=BD=D1=81=D0=BA=D0=B8=D0=B9</span></div></a><a class=3D"goog-te=
+-menu2-item"><div style=3D"white-space: nowrap;"><span class=3D"indicator">=
+=E2=80=BA</span><span class=3D"text">=D1=84=D0=B8=D0=BD=D1=81=D0=BA=D0=B8=
+=D0=B9</span></div></a><a class=3D"goog-te-menu2-item"><div style=3D"white-=
+space: nowrap;"><span class=3D"indicator">=E2=80=BA</span><span class=3D"te=
+xt">=D1=84=D1=80=D0=B0=D0=BD=D1=86=D1=83=D0=B7=D1=81=D0=BA=D0=B8=D0=B9</spa=
+n></div></a><a class=3D"goog-te-menu2-item"><div style=3D"white-space: nowr=
+ap;"><span class=3D"indicator">=E2=80=BA</span><span class=3D"text">=D1=84=
+=D1=80=D0=B8=D0=B7=D1=81=D0=BA=D0=B8=D0=B9</span></div></a><a class=3D"goog=
+-te-menu2-item"><div style=3D"white-space: nowrap;"><span class=3D"indicato=
+r">=E2=80=BA</span><span class=3D"text">=D1=85=D0=B0=D1=83=D1=81=D0=B0</spa=
+n></div></a><a class=3D"goog-te-menu2-item"><div style=3D"white-space: nowr=
+ap;"><span class=3D"indicator">=E2=80=BA</span><span class=3D"text">=D1=85=
+=D0=B8=D0=BD=D0=B4=D0=B8</span></div></a><a class=3D"goog-te-menu2-item"><d=
+iv style=3D"white-space: nowrap;"><span class=3D"indicator">=E2=80=BA</span=
+><span class=3D"text">=D1=85=D0=BC=D0=BE=D0=BD=D0=B3</span></div></a></td><=
+td class=3D"goog-te-menu2-colpad">&nbsp;</td><td><a class=3D"goog-te-menu2-=
+item"><div style=3D"white-space: nowrap;"><span class=3D"indicator">=E2=80=
+=BA</span><span class=3D"text">=D1=85=D0=BE=D1=80=D0=B2=D0=B0=D1=82=D1=81=
+=D0=BA=D0=B8=D0=B9</span></div></a><a class=3D"goog-te-menu2-item"><div sty=
+le=3D"white-space: nowrap;"><span class=3D"indicator">=E2=80=BA</span><span=
+ class=3D"text">=D1=87=D0=B5=D0=B2=D0=B0</span></div></a><a class=3D"goog-t=
+e-menu2-item"><div style=3D"white-space: nowrap;"><span class=3D"indicator"=
+>=E2=80=BA</span><span class=3D"text">=D1=87=D0=B5=D1=88=D1=81=D0=BA=D0=B8=
+=D0=B9</span></div></a><a class=3D"goog-te-menu2-item"><div style=3D"white-=
+space: nowrap;"><span class=3D"indicator">=E2=80=BA</span><span class=3D"te=
+xt">=D1=88=D0=B2=D0=B5=D0=B4=D1=81=D0=BA=D0=B8=D0=B9</span></div></a><a cla=
+ss=3D"goog-te-menu2-item"><div style=3D"white-space: nowrap;"><span class=
+=3D"indicator">=E2=80=BA</span><span class=3D"text">=D1=88=D0=BE=D0=BD=D0=
+=B0</span></div></a><a class=3D"goog-te-menu2-item"><div style=3D"white-spa=
+ce: nowrap;"><span class=3D"indicator">=E2=80=BA</span><span class=3D"text"=
+>=D1=88=D0=BE=D1=82=D0=BB=D0=B0=D0=BD=D0=B4=D1=81=D0=BA=D0=B8=D0=B9 (=D0=B3=
+=D1=8D=D0=BB=D1=8C=D1=81=D0=BA=D0=B8=D0=B9)</span></div></a><a class=3D"goo=
+g-te-menu2-item"><div style=3D"white-space: nowrap;"><span class=3D"indicat=
+or">=E2=80=BA</span><span class=3D"text">=D1=8D=D1=81=D0=BF=D0=B5=D1=80=D0=
+=B0=D0=BD=D1=82=D0=BE</span></div></a><a class=3D"goog-te-menu2-item"><div =
+style=3D"white-space: nowrap;"><span class=3D"indicator">=E2=80=BA</span><s=
+pan class=3D"text">=D1=8D=D1=81=D1=82=D0=BE=D0=BD=D1=81=D0=BA=D0=B8=D0=B9</=
+span></div></a><a class=3D"goog-te-menu2-item"><div style=3D"white-space: n=
+owrap;"><span class=3D"indicator">=E2=80=BA</span><span class=3D"text">=D1=
+=8F=D0=B2=D0=B0=D0=BD=D1=81=D0=BA=D0=B8=D0=B9</span></div></a><a class=3D"g=
+oog-te-menu2-item"><div style=3D"white-space: nowrap;"><span class=3D"indic=
+ator">=E2=80=BA</span><span class=3D"text">=D1=8F=D0=BF=D0=BE=D0=BD=D1=81=
+=D0=BA=D0=B8=D0=B9</span></div></a></td></tr></tbody></table></div></body><=
+/html>
+------MultipartBoundary--Dj6lkfPR1JvBOSOFsHijyUvVKhS48Rf6Zik4zbzm0h----
+Content-Type: text/html
+Content-ID: <frame-6018A6D57416A1CC1046AEDE3F2C9A0D@mhtml.blink>
+Content-Transfer-Encoding: quoted-printable
+Content-Location: http://localhost/practice_28/%E2%84%962/
+
+<html><head><meta http-equiv=3D"Content-Type" content=3D"text/html; charset=
+=3DUTF-8"><link rel=3D"stylesheet" type=3D"text/css" href=3D"https://transl=
+ate.googleapis.com/translate_static/css/translateelement.css"></head><body =
+scroll=3D"no" style=3D"margin:0px;overflow:hidden" dir=3D"ltr" marginheight=
+=3D"0" marginwidth=3D"0" leftmargin=3D"0" topmargin=3D"0" border=3D"0"><div=
+ id=3D":2.menuBody" class=3D"goog-te-menu2" style=3D"box-sizing: content-bo=
+x; width: 232px; height: 59px;"><table cellspacing=3D"0" cellpadding=3D"0" =
+border=3D"0"><tbody><tr valign=3D"top"><td><a class=3D"goog-te-menu2-item">=
+<div style=3D"white-space: nowrap;"><span class=3D"text">=D0=9E=D1=82=D0=BA=
+=D0=BB=D1=8E=D1=87=D0=B8=D1=82=D1=8C =D0=BF=D0=B5=D1=80=D0=B5=D0=B2=D0=BE=
+=D0=B4 =D0=B4=D0=BB=D1=8F =D1=8D=D1=82=D0=BE=D0=B3=D0=BE =D1=81=D0=B0=D0=B9=
+=D1=82=D0=B0</span></div></a><div class=3D"goog-te-menu2-separator"></div><=
+a class=3D"goog-te-menu2-item"><div style=3D"white-space: nowrap;"><span cl=
+ass=3D"text">=D0=9F=D0=BE=D0=B4=D1=80=D0=BE=D0=B1=D0=BD=D0=B5=D0=B5=E2=80=
+=A6</span></div></a></td></tr></tbody></table></div></body></html>
+------MultipartBoundary--Dj6lkfPR1JvBOSOFsHijyUvVKhS48Rf6Zik4zbzm0h------
